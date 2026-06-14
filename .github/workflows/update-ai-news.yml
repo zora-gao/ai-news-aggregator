@@ -78,7 +78,7 @@ jobs:
           GITHUB_PAGES: true
         run: |
           cd web
-          pnpm install
+          pnpm install --no-frozen-lockfile
           pnpm run build
           mkdir -p dist/data
           cp ../data/latest-24h.json dist/data/
