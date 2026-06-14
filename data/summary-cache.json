@@ -39,9 +39,9 @@
   },
   "https://www.producthunt.com/products/basedash": {
     "title_clean": "Slack数据代理服务",
-    "summary": "Slack平台数据代理相关服务",
-    "score": null,
-    "priority": null,
+    "summary": "Slack平台数据代理工具或服务",
+    "score": 55,
+    "priority": "P2",
     "type": null,
     "channels": null,
     "reason": null
@@ -210,5 +210,74 @@
     "type": "news",
     "channels": null,
     "reason": "信息不足，无法判断内容价值"
+  },
+  "https://www.producthunt.com/products/cloudback": {
+    "title_clean": "Cloudback产品发布",
+    "summary": "Cloudback产品发布信息",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，无法判断相关性"
+  },
+  "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living": {
+    "title_clean": "安德鲁·杨认为降低生活成本是下一个重大创业机会",
+    "summary": "创业家认为降低生活成本是未来创业方向",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://openai.com/index/academy-courses-applying-ai-at-work": {
+    "title_clean": "OpenAI发布面向未来工作时代的新课程",
+    "summary": "OpenAI推出面向未来工作时代的新课程",
+    "score": 60,
+    "priority": "P2",
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.producthunt.com/products/pool-4": {
+    "title_clean": "Pool",
+    "summary": "信息不足，无法确定内容",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "标题过于模糊，无法判断内容价值"
+  },
+  "https://www.producthunt.com/products/mute-3": {
+    "title_clean": "Mute",
+    "summary": "信息不足，无法提供概述",
+    "score": 20,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "标题信息不足，无法准确评估"
+  },
+  "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda": {
+    "title_clean": "半导体初创企业融资持续活跃",
+    "summary": "半导体初创企业融资市场保持热度",
+    "score": 27,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低，参考价值有限"
+  },
+  "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout": {
+    "title_clean": "Siri AI与Google产品更新，部分地区服务受限",
+    "summary": "Siri与",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
   }
 }
