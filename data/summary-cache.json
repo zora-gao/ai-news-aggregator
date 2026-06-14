@@ -92,5 +92,36 @@
       "AI助手"
     ],
     "reason": "信息不足，无法评估产品价值"
+  },
+  "https://www.producthunt.com/products/riven-reach-muscle-failure": {
+    "title_clean": "Riven",
+    "summary": "AI产品或服务发布",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，无法确定参考价值"
+  },
+  "https://www.producthunt.com/products/spatialchat": {
+    "title_clean": "空间聊天",
+    "summary": "空间相关聊天功能",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，参考价值有限"
+  },
+  "https://www.producthunt.com/products/onpilot-ai": {
+    "title_clean": "Onpilot产品发布",
+    "summary": "Onpilot产品发布，具体功能未知",
+    "score": 30,
+    "priority": "P3",
+    "type": null,
+    "channels": null,
+    "reason": null
   }
 }
