@@ -54,5 +54,43 @@
     "type": "news",
     "channels": null,
     "reason": "标题不完整，信息不足"
+  },
+  "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future": {
+    "title_clean": "Anthropic暂停新模型",
+    "summary": "",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-12/putin-vows-to-expand-starlink-rival-with-aim-to-step-up-attacks": {
+    "title_clean": "普京誓言扩大星链竞争对手",
+    "summary": "俄罗斯计划发展卫星互联网服务竞争",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.producthunt.com/products/medicyn": {
+    "title_clean": "药品",
+    "summary": "信息不足，无法确定核心要点",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断与AI产品相关性"
+  },
+  "https://www.producthunt.com/products/underpay": {
+    "title_clean": "沃伦 3.0 发布",
+    "summary": "AI产品沃伦发布3.0版本",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，无法评估产品价值"
   }
 }
