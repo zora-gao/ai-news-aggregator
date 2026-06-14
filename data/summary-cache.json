@@ -123,5 +123,25 @@
     "type": null,
     "channels": null,
     "reason": null
+  },
+  "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
+    "title_clean": "中国相关影响力行动针对美国AI辩论",
+    "summary": "中国影响力行动介入美国AI政策辩论",
+    "score": 30,
+    "priority": "P3",
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.producthunt.com/products/ownclip": {
+    "title_clean": "AI辅助视频剪辑功能",
+    "summary": "AI工具帮助用户进行视频剪辑",
+    "score": 35,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "多模态"
+    ],
+    "reason": "信息不足，难以判断参考价值"
   }
 }
