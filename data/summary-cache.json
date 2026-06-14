@@ -201,5 +201,14 @@
     "type": null,
     "channels": null,
     "reason": null
+  },
+  "https://www.producthunt.com/products/bond-12": {
+    "title_clean": "Bond",
+    "summary": "信息不足，无法确定内容",
+    "score": 20,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断内容价值"
   }
 }
