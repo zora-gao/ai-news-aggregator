@@ -143,5 +143,63 @@
       "多模态"
     ],
     "reason": "信息不足，难以判断参考价值"
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters": {
+    "title_clean": "英国首相斯塔默将因战斗机资金减少与日本高层会面",
+    "summary": "英国首相因战斗机资金减少将与日本高层会晤",
+    "score": 0,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "与AI产品领域"
+  },
+  "https://www.producthunt.com/products/reverie-fm": {
+    "title_clean": "Reverie.fm",
+    "summary": "新产品发布，但内容不明确",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，无法判断相关性"
+  },
+  "https://www.producthunt.com/products/qursor": {
+    "title_clean": "光标",
+    "summary": "信息不足，无法确定具体",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.producthunt.com/products/locin-ai": {
+    "title_clean": "人工智能替代技术",
+    "summary": "新型技术可能替代传统人工智能",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，无法判断具体价值"
+  },
+  "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes": {
+    "title_clean": "Tide",
+    "summary": "信息不足，无法确定内容",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "标题信息不足，无法判断价值"
+  },
+  "https://openai.com/index/bbva": {
+    "title_clean": "BBVA",
+    "summary": "",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
   }
 }
