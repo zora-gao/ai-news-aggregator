@@ -235,6 +235,9 @@ async function main(): Promise<number> {
     const itemId = makeItemId(raw.siteId, raw.source, title, url);
     const existing = archive.get(itemId);
 
+    const rawDesc =
+      typeof raw.meta?.description === 'string' ? raw.meta.description.trim() : '';
+
     if (!existing) {
       archive.set(itemId, {
         id: itemId,
@@ -246,6 +249,7 @@ async function main(): Promise<number> {
         published_at: toISOString(raw.publishedAt),
         first_seen_at: toISOString(now)!,
         last_seen_at: toISOString(now)!,
+        description: rawDesc || null,
       });
     } else {
       existing.site_id = raw.siteId;
@@ -255,6 +259,10 @@ async function main(): Promise<number> {
       existing.url = url;
       if (raw.publishedAt && !existing.published_at) {
         existing.published_at = toISOString(raw.publishedAt);
+      }
+      // 回填描述：旧归档可能没有该字段，新抓到则补上
+      if (rawDesc && !existing.description) {
+        existing.description = rawDesc;
       }
       existing.last_seen_at = toISOString(now)!;
     }

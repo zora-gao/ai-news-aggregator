@@ -25,6 +25,10 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
   // AI Radar 准入信息
   const priority = item.radar_priority || null
   const channels = item.radar_channels || []
+  const reason = item.radar_reason?.trim() || ''
+  const score = typeof item.radar_score === 'number' && Number.isFinite(item.radar_score)
+    ? item.radar_score
+    : null
   const PRIORITY_STYLE: Record<string, string> = {
     P0: 'bg-red-50 text-red-600 dark:bg-red-900/20 dark:text-red-300 ring-1 ring-red-200 dark:ring-red-800',
     P1: 'bg-amber-50 text-amber-600 dark:bg-amber-900/20 dark:text-amber-300 ring-1 ring-amber-200 dark:ring-amber-800',
@@ -80,6 +84,21 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
                 <span className="text-[12px] font-medium">已读</span>
               </span>
             )}
+            {score !== null && (
+              <span
+                className={`ml-auto inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded text-[11px] font-bold flex-shrink-0 tabular-nums ${
+                  score >= 85
+                    ? 'bg-red-50 text-red-600 dark:bg-red-900/20 dark:text-red-300'
+                    : score >= 70
+                      ? 'bg-amber-50 text-amber-600 dark:bg-amber-900/20 dark:text-amber-300'
+                      : 'bg-slate-100 text-slate-500 dark:bg-slate-800 dark:text-slate-400'
+                }`}
+                title="AI Radar 价值评分"
+              >
+                <Star className="w-3 h-3 fill-current" />
+                {score}
+              </span>
+            )}
           </div>
           
           <h3 className={`text-base font-medium leading-relaxed transition-colors line-clamp-2 ${
@@ -91,7 +110,7 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
           </h3>
 
           {summary && (
-            <p className={`text-sm leading-relaxed mt-2 line-clamp-2 ${
+            <p className={`text-sm leading-relaxed mt-2 ${
               isVisited
                 ? 'text-slate-400 dark:text-slate-500'
                 : 'text-slate-600 dark:text-slate-300'
@@ -128,8 +147,19 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
               ))}
             </div>
           )}
+
+          {reason && (
+            <div className={`mt-3 rounded-lg px-3 py-2 text-[13px] leading-relaxed border-l-2 ${
+              isVisited
+                ? 'bg-slate-50 border-slate-200 text-slate-400 dark:bg-slate-800/40 dark:border-slate-700 dark:text-slate-500'
+                : 'bg-amber-50/60 border-amber-300 text-slate-600 dark:bg-amber-900/10 dark:border-amber-700 dark:text-slate-300'
+            }`}>
+              <span className="font-semibold text-amber-700 dark:text-amber-400">推荐理由：</span>
+              {reason}
+            </div>
+          )}
           
-          <div className={`flex items-center gap-4 mt-3 text-xs ${
+          <div className={`flex items-center justify-between gap-4 mt-3 text-xs ${
             isVisited 
               ? 'text-slate-400 dark:text-slate-500' 
               : 'text-slate-500 dark:text-slate-400'
@@ -137,6 +167,10 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
             <span className="flex items-center gap-1">
               <Clock className="w-3.5 h-3.5" />
               {formatDateTime(item.published_at || item.first_seen_at)}
+            </span>
+            <span className="inline-flex items-center gap-1 font-medium text-primary-600 dark:text-primary-400 group-hover:underline flex-shrink-0">
+              阅读原文
+              <ExternalLink className="w-3.5 h-3.5" />
             </span>
           </div>
         </div>
@@ -153,7 +187,6 @@ export function NewsCard({ item, index, isVisited = false, isFavorite = false, o
           >
             <Star className={`w-4 h-4 ${isFavorite ? 'fill-current' : ''}`} />
           </button>
-          <ExternalLink className="w-5 h-5 text-slate-400 opacity-0 group-hover:opacity-100 transition-opacity" />
         </div>
       </div>
     </a>

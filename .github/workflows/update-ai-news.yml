@@ -2,6 +2,11 @@ name: Update AI News Snapshot
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    # 仅代码/配置改动触发；忽略机器人回写的数据快照，避免死循环
+    paths-ignore:
+      - "data/**"
   schedule:
     - cron: "0 */2 * * *"
 

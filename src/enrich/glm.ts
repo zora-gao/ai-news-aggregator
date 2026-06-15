@@ -42,6 +42,8 @@ export interface SummaryEntry {
   channels?: string[] | null;
   /** 一句话准入/打分理由 */
   reason?: string | null;
+  /** 生成此条目所用的 enrich 逻辑版本（用于旧缓存逐步重生成） */
+  v?: number | null;
 }
 
 interface GlmChoice {
@@ -55,7 +57,12 @@ interface GlmResponse {
 
 const SYSTEM_PROMPT = [
   '你是「元宝 AI Radar」的资深内容准入编辑。元宝是一款 AI 助手类产品，读者是元宝的产品经理。',
-  '我会给你一条资讯的原始标题（可能带有夸张、营销号风格的措辞）。请基于该标题判断它对元宝产品经理的参考价值，并只返回一个 JSON 对象。',
+  '我会给你一条资讯的【原始标题】，可能还附带一段【描述】（来自 RSS 摘要/产品介绍）。请综合标题与描述判断它对元宝产品经理的参考价值，并只返回一个 JSON 对象。',
+  '',
+  '【重要：标题改写规则】很多来源（尤其 Product Hunt 等产品发布站）的原始标题只是一个产品名（如 "Momentra"、"Cloudback for Linear"、"Taste Lab"），单看标题完全不知道它是做什么的。这时必须借助【描述】把标题改写成「能看懂这是什么」的中文标题：',
+  '  - 概括产品/事件的核心功能或价值，而不是逐字直译产品名（绝不要把 "Momentum" 译成「动量」、"Linear" 译成「线性」这类无意义直译）。',
+  '  - 产品名是专有名词时保留英文原名，并在其后用中文点明它做什么。例如："Taste Lab" + 描述(AI 美食推荐) → "Taste Lab：AI 美食口味推荐工具"。',
+  '  - 若描述缺失或信息不足，至少保留英文原名并标注品类，不要输出无意义的直译词。',
   '',
   '【准入目标】核心不是"AI 行业发生了什么"，而是"这条信息能否帮助判断产品方向、竞品变化、用户需求、服务场景和商业机会"。覆盖两类：行业动态(news) 与 新产品发布(product)。',
   '',
@@ -68,8 +75,8 @@ const SYSTEM_PROMPT = [
   '',
   '请输出以下字段，且只输出 JSON（不要解释、不要代码围栏）：',
   '{',
-  '  "title_clean": "把标题改写成精炼、客观、陈述式的中文标题，去掉夸张语气/表情/噱头，保留核心事实与专有名词，不杜撰",',
-  '  "summary": "基于标题用一句话(不超过40汉字)客观概述核心要点，信息不足时只做合理归纳，不编造数字或结论",',
+  '  "title_clean": "改写成精炼、客观、能看懂的中文标题：去掉夸张语气/表情/噱头；纯产品名须结合描述点明它是做什么的并保留英文原名；保留核心事实与专有名词，不杜撰",',
+  '  "summary": "结合标题与描述写成 2~3 句、约60~120 个汉字的客观摘要，说清这篇资讯/这个产品具体做了什么、关键事实与对产品经理的参考价值；行文连贯通顺，不堆砌、不夸张、不编造数字或结论，信息不足时只就已知内容合理归纳",',
   '  "score": 0到100的整数,',
   '  "priority": "P0|P1|P2|P3",',
   '  "type": "news 或 product",',
@@ -166,12 +173,18 @@ function parseSummaryJson(content: string): SummaryEntry | null {
  */
 export async function summarizeTitle(
   title: string,
+  description: string,
   apiKey: string
 ): Promise<SummaryEntry | null> {
   const s = (title || '').trim();
   if (!s || !apiKey) return null;
 
   const model = process.env.GLM_MODEL?.trim() || DEFAULT_MODEL;
+
+  const desc = (description || '').trim().slice(0, 300);
+  const userContent = desc
+    ? `【原始标题】${s}\n【描述】${desc}`
+    : `【原始标题】${s}`;
 
   try {
     const res = await postJson<GlmResponse>(
@@ -180,11 +193,15 @@ export async function summarizeTitle(
         model,
         messages: [
           { role: 'system', content: SYSTEM_PROMPT },
-          { role: 'user', content: s },
+          { role: 'user', content: userContent },
         ],
         temperature: 0.2,
-        max_tokens: 500,
+        max_tokens: 1024,
         response_format: { type: 'json_object' },
+        // GLM-4.5 系列为混合推理模型，默认开启思考(thinking)；思考内容会与正式输出
+        // 共享 max_tokens 预算，常导致 JSON 被截断 → 解析失败返回 null。
+        // 本任务是结构化标题改写/摘要，属"简单任务"，关闭思考可大幅提升成功率与速度。
+        thinking: { type: 'disabled' },
       },
       {
         timeout: 30000,

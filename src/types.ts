@@ -24,6 +24,8 @@ export interface ArchiveItem {
   title_bilingual?: string;
   title_clean?: string | null;
   summary?: string | null;
+  /** 抓取阶段获取的原始描述/摘要片段（供 GLM 生成有意义的标题与摘要） */
+  description?: string | null;
   // AI Radar 准入评审字段（由 GLM 基于标题生成）
   radar_score?: number | null;
   radar_priority?: 'P0' | 'P1' | 'P2' | 'P3' | null;
