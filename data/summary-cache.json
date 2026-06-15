@@ -194,8 +194,8 @@
     "reason": "标题信息不足，无法判断价值"
   },
   "https://openai.com/index/bbva": {
-    "title_clean": "BBVA",
-    "summary": "",
+    "title_clean": "BBVA通过OpenAI将人工智能应用于银行业核心业务",
+    "summary": "BBVA银行",
     "score": null,
     "priority": null,
     "type": null,
@@ -279,5 +279,41 @@
     "type": null,
     "channels": null,
     "reason": null
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/activist-palliser-urges-taiwan-firm-wus-to-privatize-lift-value": {
+    "title_clean": "活动人士敦促台湾公司WUS私有化",
+    "summary": "活动人士Palliser呼吁WUS公司私有化以提升价值",
+    "score": null,
+    "priority": null,
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.producthunt.com/products/taste-lab": {
+    "title_clean": "味觉实验室",
+    "summary": "味觉相关研究或应用",
+    "score": 30,
+    "priority": "P3",
+    "type": null,
+    "channels": null,
+    "reason": null
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-12/tom-mueller-on-spacex-s-rise-and-space-economy-video": {
+    "title_clean": "汤姆·穆勒谈SpaceX崛起和太空经济",
+    "summary": "SpaceX创始人分享公司发展历程和太空经济前景",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "与AI产品和服务无关"
+  },
+  "https://www.producthunt.com/products/cloudskill": {
+    "title_clean": "云技",
+    "summary": "信息不足，无法确定核心要点",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "标题过于简短，信息不足"
   }
 }
