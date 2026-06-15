@@ -58,14 +58,14 @@
     "v": 3
   },
   "https://www.producthunt.com/products/kosh-money": {
-    "title_clean": "科什钱",
-    "summary": "信息不足，无法确定核心要点",
-    "score": 20,
+    "title_clean": "KOSH Money",
+    "summary": "KOSH Money相关信息不足，无法确定其具体功能或价值。建议获取更多产品描述信息后再评估其对元宝产品经理的参考价值。",
+    "score": 30,
     "priority": "P3",
-    "type": "news",
+    "type": "product",
     "channels": null,
-    "reason": "标题不完整，信息不足",
-    "v": null
+    "reason": "信息不足无法判断价值",
+    "v": 3
   },
   "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future": {
     "title_clean": "Anthropic暂停新模型访问引发印度AI未来辩论",
@@ -2460,6 +2460,198 @@
     "type": "news",
     "channels": null,
     "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/torsten-slok-shows-us-how-ai-is-eating-the-us-economy-video": {
+    "title_clean": "Torsten Slok 展示AI如何重塑美国经济结构",
+    "summary": "Apollo首席经济学家Torsten Slok通过数据分析展示AI对美国经济各领域的深度影响，为元宝产品经理提供AI经济渗透趋势参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "AI经济影响分析，缺乏具体产品细节",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/xiaohongshu-is-said-to-ready-hong-kong-ipo-filing-this-month": {
+    "title_clean": "小红书计划本月提交香港IPO申请",
+    "summary": "小红书(Xiaohongshu)计划于本月向香港提交保密IPO申请。作为中国社交平台RedNote的运营方，小红书此举可能影响其AI服务商业化路径和估值，对元宝产品经理了解社交平台AI变现模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "社交平台IPO动态，商业化参考价值有限",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/mimo-3": {
+    "title_clean": "MiMo Code",
+    "summary": "MiMo Code是一个代码讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，与AI助手/Agent无关",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/notchcode": {
+    "title_clean": "Notchcode",
+    "summary": "Notchcode是一个讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation": {
+    "title_clean": "EmailFlow.AI",
+    "summary": "EmailFlow.AI是一个AI邮件处理工具，但描述信息不足，无法确定其具体功能和价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "信息不足，无法评估价值",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038947&idx=2&sn=b539e76d1c407e6d5c3738168bafb597": {
+    "title_clean": "PEFT方法评测不能只看下游分：通用能力损失也该被量化",
+    "summary": "该文章指出评估PEFT(参数高效微调)方法时，不应仅关注下游任务分数，还应量化模型通用能力的损失情况，这对AI产品经理评估模型微调策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "技术评估方法，产品关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/stackd-cc": {
+    "title_clean": "stackd.cc：讨论链接聚合平台",
+    "summary": "stackd.cc是一个讨论链接聚合平台，用户可以在上面分享和发现各类讨论话题的链接。该平台为产品经理提供了了解社区讨论趋势和用户关注点的渠道，有助于把握产品方向和用户需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求"
+    ],
+    "reason": "社区聚合平台，参考价值有限",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/memoriq": {
+    "title_clean": "Memoriq",
+    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来评估其对元宝产品的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-12/the-four-biggest-issues-facing-the-music-industry-in-2026": {
+    "title_clean": "音乐行业当前面临的四大问题",
+    "summary": "文章分析了音乐行业当前面临的四大核心挑战，包括流媒体平台分成模式、版权保护、艺术家收入来源多元化以及新兴技术对传统音乐产业的影响，为AI音乐服务产品提供行业洞察。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "reason": "行业动态但与AI产品关联较弱",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/relay-20": {
+    "title_clean": "Relay：讨论链接分享工具",
+    "summary": "Relay是一个讨论链接分享工具，允许用户在讨论中分享链接，但具体功能和用途信息不足，难以评估其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景"
+    ],
+    "reason": "信息不足，与AI助手关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/aevs-by-fetch-ai": {
+    "title_clean": "AEVS",
+    "summary": "AEVS是一个讨论平台，但具体功能和用途信息不足，无法判断其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app": {
+    "title_clean": "蚂蚁集团对支付宝超级应用进行重大改革，引入AI代理界面",
+    "summary": "蚂蚁集团正在测试支付宝超级应用的重大改革，引入AI代理界面，这是其与微信争夺用户的重要升级。这一变革将影响十亿级用户的应用体验，对AI服务场景和竞品动态具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "巨头AI Agent布局，影响十亿级用户服务场景",
+    "v": 3
+  },
+  "https://openai.com/index/lseg": {
+    "title_clean": "LSEG利用OpenAI扩展可信AI，加速洞察并缩短发布周期",
+    "summary": "LSEG采用OpenAI技术扩展可信AI应用，加速业务洞察，缩短发布周期，赋能4000名员工。展示了大型企业如何将AI技术整合到全球业务中，提升决策效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "企业AI应用案例，展示AI如何赋能业务决策",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout": {
+    "title_clean": "Siri AI整合谷歌搜索，但多国用户无法使用",
+    "summary": "苹果在WWDC上宣布Siri AI整合谷歌搜索功能，但该功能目前仅在美国等少数国家可用，全球大部分用户被排除在外。这反映了AI助手在服务地域限制方面的挑战，以及苹果与谷歌在搜索领域的合作与竞争关系。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "reason": "地域限制影响产品全球化策略",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/asmi-ai": {
+    "title_clean": "Asmi AI",
+    "summary": "Asmi AI是一个AI产品，但具体功能和用途在提供的描述中信息不足，无法确定其具体服务内容和价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "product",
+    "channels": null,
+    "reason": "信息不足，无法评估产品价值",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure": {
+    "title_clean": "基础设施解析：计算能力",
+    "summary": "文章解释了计算能力的概念，以及GPU、CPU和MTIA定制芯片如何满足AI创新和计算需求，为元宝产品经理提供AI基础设施的技术参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "技术基础信息，缺乏产品直接关联",
     "v": 3
   }
 }
