@@ -2653,5 +2653,369 @@
     ],
     "reason": "技术基础信息，缺乏产品直接关联",
     "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/industrials-stocks-erase-war-selloff-hit-record-on-us-iran-deal": {
+    "title_clean": "美国工业股因美伊和平协议创历史新高",
+    "summary": "美国与伊朗达成临时和平协议后，大型美国工业公司股票周一飙升至历史新高，缓解了能源危机对制造商和运输业的威胁，为相关行业带来积极影响。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/nuveen-private-bond-chief-scoops-up-ai-s-picks-and-shovels": {
+    "title_clean": "Nuveen Private Bond首席投资官关注AI基础设施投资机会",
+    "summary": "Nuveen私人债券首席投资官Laura Parrott看好AI基础设施投资，认为数据中心和计算芯片之外，边缘基础设施更具投资价值。这反映了AI产业链上游投资机会的变化趋势，对AI服务提供商的供应链布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "AI产业链投资动向，商业化参考价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/roku-fox-deal-airlines-move-higher-stock-movers-video": {
+    "title_clean": "Fox收购Roku交易引发股价波动",
+    "summary": "Fox同意收购流媒体平台Roku，交易导致Roku股价上涨而Fox股价下跌。这是流媒体行业的重要并购事件，对AI助手产品经理了解媒体行业整合趋势和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "媒体行业并购，与AI助手关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-shuts-down-mythos-access-after-us-order-video": {
+    "title_clean": "Anthropic因美国出口管制停止向外国公民提供高级AI模型",
+    "summary": "美国商务部6月12日实施出口管制，限制Anthropic向外国公民提供其最先进的AI模型。作为回应，Anthropic宣布将停止相关访问权限，这可能影响其全球业务布局和AI服务市场。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "reason": "影响全球AI服务市场格局",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech": {
+    "title_clean": "Sarvam获2.34亿美元融资，成为印度最新AI独角兽",
+    "summary": "印度IT服务公司HCLTech向班加罗尔AI初创公司Sarvam投资1.5亿美元，总融资额达2.34亿美元，使其成为印度最新AI独角兽企业。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "融资信号反映印度AI市场热度",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b": {
+    "title_clean": "Salesforce以36亿美元收购AI客户服务平台Fin",
+    "summary": "Salesforce收购Fin以加强其Agentforce企业平台，帮助企业构建可自动执行任务的定制AI代理。此次收购将整合Fin的团队和技术，提升企业AI自动化能力。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI Agent领域重大收购，影响企业AI自动化市场格局",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/the-race-to-build-a-compute-market-bigger-than-oil-video": {
+    "title_clean": "Inside the Race to Build a Compute Futures Market Bigger Than Oil",
+    "summary": "Compute Exchange和Silicon Data CEO Carmen Li在播客中分享公司正在构建一个可能比石油市场更大的计算期货市场，探讨计算资源交易的未来发展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "计算资源市场与AI商业化相关但信息不足",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities": {
+    "title_clean": "NewCore获6600万美元融资，为AI员工提供身份管理",
+    "summary": "NewCore认为企业安全管理的下一个挑战将是管理AI员工而非人类，该公司获得6600万美元融资，专注于为AI代理提供身份管理解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI Agent身份管理新赛道，企业级安全需求",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/salesforce-to-buy-ai-customer-service-firm-fin-for-3-6-billion": {
+    "title_clean": "Salesforce以36亿美元收购AI客服公司Fin",
+    "summary": "Salesforce宣布以36亿美元收购Fin，这是一家开发AI驱动的客户代理的公司。此次收购旨在帮助企业赢得新的企业AI业务，表明大型企业对AI客服解决方案的重视程度。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "大型企业AI收购，反映客服AI市场价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/nvidia-looks-to-raise-20b-in-first-bond-sale-since-2021-video": {
+    "title_clean": "Nvidia计划自2021年以来首次发行债券，筹资至少200亿美元",
+    "summary": "Nvidia正准备自2021年以来首次发行企业债券，计划通过七个不同期限的债券筹集至少200亿美元，期限从两年到三十年不等。这一融资动向反映了Nvidia在AI芯片市场的强劲现金流需求，对AI硬件供应链和行业资金流向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "融资信息与AI硬件相关，但缺乏产品细节",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/activist-investor-ananym-urges-bio-techne-to-consider-selling": {
+    "title_clean": "激进投资者Ananym敦促Bio-Techne考虑出售公司",
+    "summary": "激进投资者Ananym Capital Management已购入Bio-Techne股份，并敦促董事会进行战略评估，包括潜在出售选项。这对产品经理了解企业并购动态和资本运作有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "与企业并购相关，但与AI产品无直接关联",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/social-media-ban-for-uk-s-under-16s-how-will-plans-announced-by-starmer-work": {
+    "title_clean": "英国计划禁止16岁以下儿童使用社交媒体",
+    "summary": "英国宣布禁止16岁以下儿童使用社交媒体，这是继澳大利亚类似法律后，又一国家加强对未成年人网络保护的举措，反映了政府对社交媒体监管的加强趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "reason": "监管政策变化影响产品设计方向",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/kalshi-builds-ai-agent-to-stress-test-prediction-market-bets": {
+    "title_clean": "Kalshi开发AI Agent用于预测市场合约压力测试",
+    "summary": "Kalshi公司开发了内部AI代理，用于处理预测市场合约措辞等复杂问题，通过AI技术对预测市场赌注进行压力测试，提升合约准确性和风险管理能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "reason": "AI Agent应用于金融预测场景，提升合约处理效率",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means": {
+    "title_clean": "卫星首次自主发现目标，开启AI自主观测新阶段",
+    "summary": "地球观测卫星首次实现自主发现目标，标志着AI技术在航天领域的重大突破，为元宝产品经理提供AI自主决策能力的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求"
+    ],
+    "reason": "AI自主决策能力突破，应用场景拓展",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/prime-radiant-invests-50-million-in-cellares-before-2027-ipo": {
+    "title_clean": "Prime Radiant向生物技术公司Cellares投资5000万美元，支持其大规模生产癌症治疗的机器人技术",
+    "summary": "Prime Radiant Partners向生物技术公司Cellares投资5000万美元，该公司开发高科技机器人用于大规模生产癌症治疗药物。这笔投资发生在Cellares进行IPO之前，反映了生物技术自动化生产领域的资本动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "生物技术融资，与AI助手关联度低",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-15/apple-needs-siri-to-keep-users-from-switching-to-rival-ai-chatbots": {
+    "title_clean": "苹果Siri能否与ChatGPT竞争？消费者面临众多AI选择",
+    "summary": "文章探讨苹果Siri在当前AI竞争环境下面临的挑战，分析其需要与ChatGPT等竞争对手匹敌的原因，以及消费者拥有众多AI选择对苹果语音助手的影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "reason": "竞品动态分析，对AI助手产品方向有参考价值",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/goldman-brings-google-to-prepaid-energy-market-after-equity-deal": {
+    "title_clean": "高盛与谷歌达成股权交易后将其引入预付费能源市场",
+    "summary": "高盛在为Alphabet公司安排850亿美元股权融资后，又帮助谷歌进入市政债券市场，将其引入预付费能源领域。这一合作展示了科技巨头在能源市场的拓展策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "业务相关度低，对AI产品参考价值有限",
+    "v": 3
+  },
+  "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data": {
+    "title_clean": "2026年AI初创企业融资热潮呈现地域集中现象",
+    "summary": "根据Crunchbase数据，2026年至今美国企业已获得全球种子轮至成长轮融资总额的近80%，这与AI热潮前的全球均衡分布形成鲜明对比，反映了AI投资的地域集中趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "地域集中趋势影响全球市场策略",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap": {
+    "title_clean": "华为HarmonyOS 7填补中国AI助手空白，宣布进入Agent时代",
+    "summary": "苹果确认Siri AI不在中国推出后，华为发布HarmonyOS 7，称其标志着Agent时代的开始，意在填补苹果留下的中国市场AI助手空白。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "reason": "填补中国AI助手空白，Agent时代竞争加剧",
+    "v": 3
+  },
+  "https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate": {
+    "title_clean": "AI与LLMs重塑SaaS模式：创始人需从软件转向可衡量业务成果",
+    "summary": "AI和大型语言模型正在改变传统SaaS模式，迫使创始人减少单纯关注软件，转而专注于交付可衡量的业务成果和可防御的工作流所有权，这对AI助手产品商业化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "reason": "SaaS商业模式转型影响AI产品商业化路径",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-15/anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai": {
+    "title_clean": "Anthropic 出口禁令加深美国对AI技术垄断担忧",
+    "summary": "Anthropic 实施出口禁令，引发美国以外政治人士和技术专家对美国AI技术垄断的担忧，这可能影响全球AI技术获取与竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "影响全球AI竞争格局与市场准入",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty": {
+    "title_clean": "Anthropic出口管制引发全球AI主权争夺战",
+    "summary": "Anthropic因美国出口管制政策，于2026年6月13日起对全球用户下线其两大最强AI模型，将抽象的政策担忧变为现实，引发各国对AI主权的争夺。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "政策变化影响AI服务可用性，引发主权争夺",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg": {
+    "title_clean": "AI行业裁员潮引发社会矛盾",
+    "summary": "AI行业正经历大规模裁员，同时少数AI内部人员却获得难以想象的财富，这种两极分化现象可能引发社会矛盾，对AI行业可持续发展构成挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "反映AI行业社会矛盾与可持续发展问题",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/agentbrush": {
+    "title_clean": "AgentBrush",
+    "summary": "AgentBrush是一个讨论平台，但具体功能和用途不明确，信息不足无法判断其对元宝产品经理的参考价值。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI Agent"
+    ],
+    "reason": "信息不足，无法判断价值",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living": {
+    "title_clean": "Andrew Yang认为降低生活成本是下一个创业机会",
+    "summary": "Andrew Yang列出美国人过度支付的项目，包括住房、食物和无线服务，认为下一个创业热潮在于帮助消费者节省这些开支。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "reason": "关注生活成本降低的创业机会",
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report": {
+    "title_clean": "埃森哲：消费者对AI购物代理的信任度持续增长",
+    "summary": "埃森哲最新研究显示，消费者越来越愿意让AI代理承担更多购物相关任务。这项基于25,000人调查的2026年消费者脉搏研究表明，AI购物助手正获得更多用户信任，这对AI服务场景拓展具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI Agent"
+    ],
+    "reason": "AI购物代理用户信任度提升，服务场景拓展信号",
+    "v": 3
+  },
+  "https://www.ycombinator.com/blog/diana-hu-managing-partner": {
+    "title_clean": "Diana Hu 升任 YC 新任管理合伙人",
+    "summary": "Diana Hu 升任 Y Combinator 管理合伙人，她曾从零创办创业公司，并将技术产品触达1亿用户。这对元宝产品经理了解顶级孵化器高管背景和创业生态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "高管变动，与AI产品关联度低",
+    "v": 3
+  },
+  "https://www.producthunt.com/products/pass-quick-access": {
+    "title_clean": "Pass Quick Access",
+    "summary": "Pass Quick Access是一款密码管理工具，提供快速访问功能，帮助用户安全存储和管理各类密码信息。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "用户需求"
+    ],
+    "reason": "与AI助手关联度低，参考价值有限",
+    "v": 3
   }
 }
