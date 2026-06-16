@@ -98,7 +98,7 @@
   },
   "https://www.producthunt.com/products/underpay": {
     "title_clean": "Meet Warren 3.0",
-    "summary": "Meet Warren 3.0是一款AI助手产品，但描述信息不足，无法确定其具体功能和更新内容。缺乏足够信息评估其对元宝产品经理的参考价值。",
+    "summary": "Meet Warren 3.0是一款AI助手产品，但描述信息不足，无法确定其具体功能或更新内容。缺乏足够信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -384,14 +384,15 @@
     "v": 3
   },
   "https://www.producthunt.com/products/taste-lab": {
-    "title_clean": "Taste Lab",
-    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能与价值。产品经理需进一步了解其AI推荐机制、应用场景及市场定位，以评估是否与元宝的美食服务场景相关。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "Taste Lab：AI美食口味推荐工具",
+    "summary": "Taste Lab是一款AI美食口味推荐工具，通过分析用户口味偏好提供个性化美食推荐。产品经理可关注其AI在垂直场景下的应用方式，以及如何将用户口味数据转化为精准推荐服务。",
+    "score": 55,
+    "priority": "P2",
     "type": "product",
     "channels": [
+      "AI助手",
       "服务场景",
-      "AI助手"
+      "用户需求"
     ],
     "v": 3
   },
@@ -675,14 +676,15 @@
     "v": 3
   },
   "https://www.producthunt.com/products/kimi-ai-assistant": {
-    "title_clean": "Kimi K2.7 Code",
-    "summary": "Kimi发布K2.7 Code版本，可能是针对代码场景的AI助手更新，具体功能未在描述中明确说明。",
-    "score": 45,
-    "priority": "P3",
+    "title_clean": "Kimi K2.7 Code：Kimi的代码能力更新",
+    "summary": "Kimi发布了K2.7 Code版本，专注于提升代码生成、理解和调试能力。这一更新对产品经理评估AI助手在编程辅助场景的应用价值有重要参考意义，特别是在代码生成准确性和开发者体验方面的改进。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
     "channels": [
       "AI助手",
-      "竞品动态"
+      "竞品动态",
+      "服务场景"
     ],
     "v": 3
   },
@@ -725,7 +727,7 @@
   },
   "https://www.producthunt.com/products/qursor": {
     "title_clean": "Qursor",
-    "summary": "Qursor是一个产品，但描述信息不足，无法确定其具体功能和用途。",
+    "summary": "Qursor是一个产品发布平台，但描述信息不足，无法确定其具体功能或与AI助手/Agent的关联性。产品经理需要更多信息来判断其参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -949,7 +951,7 @@
   },
   "https://www.producthunt.com/products/docklog": {
     "title_clean": "DockLog",
-    "summary": "DockLog是一个产品发布平台上的新工具，但描述信息不足，无法确定其具体功能和用途。产品经理需要进一步了解该产品的详细信息才能评估其对元宝产品的参考价值。",
+    "summary": "DockLog是一个产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息来评估其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1142,7 +1144,7 @@
   },
   "https://www.producthunt.com/products/ownclip": {
     "title_clean": "OwnClip",
-    "summary": "OwnClip是一款产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "OwnClip是一个产品发布信息，但描述中仅包含\"Discussion\"和\"Link\"两个词，无法确定其具体功能或价值。信息不足，无法评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1727,7 +1729,7 @@
   },
   "https://www.producthunt.com/products/easybilling": {
     "title_clean": "Easybilling",
-    "summary": "Easybilling是一个产品发布信息，但描述内容不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
+    "summary": "Easybilling是一款产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1933,7 +1935,7 @@
   },
   "https://www.producthunt.com/products/dropmatico": {
     "title_clean": "Dropmatico",
-    "summary": "Dropmatico是一个产品发布平台，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。",
+    "summary": "Dropmatico是一个产品发布平台，但描述信息不足，无法确定其具体功能和与AI助手或Agent的关联性。产品经理需要更多信息来评估其参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2167,7 +2169,7 @@
   },
   "https://www.producthunt.com/products/mockpilot": {
     "title_clean": "MockPilot",
-    "summary": "MockPilot是一款AI工具，但具体功能和服务内容在提供的描述中信息不足，无法确定其具体应用场景和价值。",
+    "summary": "MockPilot是一个产品发布平台，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。需要更多信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2208,13 +2210,11 @@
   },
   "https://www.producthunt.com/products/colibotai": {
     "title_clean": "ColibotAI",
-    "summary": "ColibotAI是一个AI助手产品，但具体功能和特点在提供的描述信息中不明确，无法判断其对元宝产品经理的参考价值。",
+    "summary": "ColibotAI相关信息不足，仅有讨论链接，无法确定其具体功能或价值。建议获取更多信息后再评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": [
-      "AI助手"
-    ],
+    "channels": null,
     "v": 3
   },
   "https://www.producthunt.com/products/wobo-ai": {
@@ -2347,7 +2347,7 @@
   },
   "https://www.producthunt.com/products/memoriq": {
     "title_clean": "Memoriq",
-    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。需要更多信息评估其对元宝产品经理的参考价值。",
+    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来评估其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2427,13 +2427,11 @@
   },
   "https://www.producthunt.com/products/asmi-ai": {
     "title_clean": "Asmi AI",
-    "summary": "Asmi AI 是一个AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
+    "summary": "Asmi AI 是一个AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其与元宝产品的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": [
-      "AI助手"
-    ],
+    "channels": null,
     "v": 3
   },
   "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure": {
@@ -4057,6 +4055,68 @@
       "AI助手",
       "用户需求",
       "AI Agent"
+    ],
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/horizons-middle-east-africa-6-16-2026-video": {
+    "title_clean": "Horizons Middle East & Africa 2026大会视频",
+    "summary": "Horizons Middle East & Africa 2026大会视频记录，该会议聚焦中东和非洲地区的AI技术发展与应用，可能包含区域市场趋势、本地化AI服务案例及新兴商业机会，对元宝拓展中东非洲市场有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations": {
+    "title_clean": "AI驱动的CMS平台如何改变企业内容运营",
+    "summary": "AI驱动的CMS平台正在改变企业内容管理方式，从单纯的出版工具转变为能够将正确内容以合适格式送达合适渠道的智能系统，同时支持跨工作流程的无缝整合。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/edgee": {
+    "title_clean": "Edgee Turbo Models：支持Claude Code与Kimi K2.7、MiniMax M2.7等模型的AI工具",
+    "summary": "Edgee Turbo Models是一款AI工具，允许用户使用Claude Code与Kimi K2.7、MiniMax M2.7等多种大模型进行交互。这一产品展示了AI模型间的互操作性和集成趋势，对元宝产品经理了解多模型协作场景和竞品生态布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "多模态"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/releasely": {
+    "title_clean": "Releasely：面向独立SaaS创始人的发布日志管理工具",
+    "summary": "Releasely是一个专为独立SaaS创始人设计的工具，能够为每次发布生成三种不同的变更日志，帮助创始人更有效地管理产品更新信息并传达给用户。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/canopy-5": {
+    "title_clean": "Canopy：在macOS上运行并行沙盒Claude Code会话的工具",
+    "summary": "Canopy是一款在macOS原生环境中运行并行沙盒Claude Code会话的工具，允许用户同时进行多个独立的代码交互会话，为AI代码助手在桌面环境下的多任务处理提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
     ],
     "v": 3
   }
