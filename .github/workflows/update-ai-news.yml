@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    # 仅代码/配置改动触发；忽略机器人回写的数据快照，避免死循环
-    paths-ignore:
-      - "data/**"
   schedule:
     - cron: "0 */2 * * *"
 
@@ -22,6 +19,14 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # 防死循环 + 支持本地推送触发部署：
+    # 云端机器人自身回写 data 后产生的 push（作者为 github-actions-bot）直接跳过，
+    # 避免无限触发；其余事件（schedule / 手动 / 本地 local-fetch-bot 推送数据 /
+    # 真人提交代码）正常执行——这样本地抓到的公众号数据推上来后，会触发一次
+    # 重新构建并部署到 GitHub Pages，线上即可刷新。
+    if: >-
+      github.event_name != 'push' ||
+      github.event.head_commit.author.name != 'github-actions-bot'
     steps:
       - name: Checkout
         uses: actions/checkout@v4

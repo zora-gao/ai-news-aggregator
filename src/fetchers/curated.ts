@@ -327,7 +327,36 @@ class CuratedRssFetcher implements Fetcher {
   }
 }
 
+/** 判断某信源是否经由自建 WeWe RSS 服务转换（微信公众号） */
+function isWeweSource(s: CuratedSource): boolean {
+  return s.feedUrl.startsWith(WEWE_RSS_BASE);
+}
+
+/**
+ * 是否应跳过依赖自建 WeWe RSS 的公众号源。
+ * 条件：运行在 CI（GitHub Actions）且未显式配置 WEWE_RSS_BASE_URL。
+ *
+ * 目的：云端没有 :4000 的 WeWe RSS 服务，若照常抓取这些源每轮都会失败、
+ * 在状态面板显示红叉。跳过它们后：
+ *   1) 不再产生「抓取失败」噪音；
+ *   2) 归档(archive.json)中由本地抓到并提交的公众号文章，会按发布时间在
+ *      7d/24h 窗口内自然继承展示，直到过期——实现「云端管常规源、本地管
+ *      公众号、两边互不覆盖」。
+ * 若未来把 WeWe RSS 部署到公网并在 CI 配置 WEWE_RSS_BASE_URL，则云端会照常抓取。
+ */
+function shouldSkipWeweSources(): boolean {
+  return !!process.env.GITHUB_ACTIONS && !process.env.WEWE_RSS_BASE_URL;
+}
+
 /** 基于注册表构建所有精选信源抓取器 */
 export function createCuratedFetchers(): Fetcher[] {
-  return CURATED_SOURCES.map((s) => new CuratedRssFetcher(s));
+  const skipWewe = shouldSkipWeweSources();
+  const sources = CURATED_SOURCES.filter((s) => {
+    if (skipWewe && isWeweSource(s)) {
+      console.log(`  ⏭️  跳过公众号源（CI 环境无 WeWe RSS，沿用归档数据）：${s.name}`);
+      return false;
+    }
+    return true;
+  });
+  return sources.map((s) => new CuratedRssFetcher(s));
 }
