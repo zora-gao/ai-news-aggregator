@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 AI News Aggregator
+# 🤖 AI Radar
 
 **实时追踪 AI 领域最前沿动态，聚合全球顶级 AI 资讯源**
 
@@ -9,7 +9,7 @@
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen?logo=node.js)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?logo=typescript)](https://www.typescriptlang.org/)
 
-[🌐 在线预览](https://suyxh.github.io/ai-news-aggregator/) · [📝 更新日志](./CHANGELOG.md) · [🔧 技术方案](./TECH_SPEC.md)
+[🌐 在线预览](https://zora-gao.github.io/ai-radar/) · [📝 更新日志](./CHANGELOG.md) · [🔧 技术方案](./TECH_SPEC.md)
 
 </div>
 
