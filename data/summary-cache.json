@@ -3585,5 +3585,32 @@
     ],
     "reason": "AI交互方式变革趋势",
     "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/ai-driven-re-rating-fuels-550-rally-in-kingboard-laminates": {
+    "title_clean": "AI重评级推动香港建滔积层板股价上涨550%",
+    "summary": "建滔积层板控股有限公司今年股价上涨超过六倍，投资者押注这家中国印刷电路板供应商将成为AI建设的关键受益者，反映了AI产业链上游材料供应商的市场价值重估。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "reason": "AI产业链上游材料供应商市场价值重估",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/anthropic-curbs-show-need-for-sovereign-ai-upstage-ceo-says": {
+    "title_clean": "Anthropic限制技术外露凸显主权AI重要性，Upstage CEO称",
+    "summary": "Anthropic限制外国访问其先进技术，凸显主权AI重要性。Upstage CEO认为这表明韩国发展自主AI的必要性，对元宝产品经理思考区域化AI策略和本地化部署有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "主权AI战略趋势，区域化部署考量",
+    "v": 3
   }
 }
