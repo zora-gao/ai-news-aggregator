@@ -13,7 +13,7 @@ set -uo pipefail
 # launchd 启动环境的 PATH 极简，需显式补全 node/npm/git/docker 所在目录
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:${PATH:-}"
 
-PROJECT_DIR="/Users/zora/CodeBuddy/ai-news-aggregator"
+PROJECT_DIR="/Users/zora/CodeBuddy/ai-radar"
 cd "$PROJECT_DIR" || exit 1
 
 mkdir -p logs

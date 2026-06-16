@@ -9,7 +9,7 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/bash</string>
-    <string>/Users/zora/CodeBuddy/ai-news-aggregator/scripts/local-fetch.sh</string>
+    <string>/Users/zora/CodeBuddy/ai-radar/scripts/local-fetch.sh</string>
   </array>
 
   <!-- 白天每 2 小时跑一次（10/12/14/16/18/20 点的第 5 分钟，错开云端整点调度）。
@@ -25,9 +25,9 @@
   </array>
 
   <key>StandardOutPath</key>
-  <string>/Users/zora/CodeBuddy/ai-news-aggregator/logs/launchd.out.log</string>
+  <string>/Users/zora/CodeBuddy/ai-radar/logs/launchd.out.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/zora/CodeBuddy/ai-news-aggregator/logs/launchd.err.log</string>
+  <string>/Users/zora/CodeBuddy/ai-radar/logs/launchd.err.log</string>
 
   <!-- 加载时不立即执行，避免安装即触发；按计划时间运行 -->
   <key>RunAtLoad</key>

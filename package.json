@@ -1,7 +1,7 @@
 {
-  "name": "ai-news-aggregator",
+  "name": "ai-radar",
   "version": "1.2.0",
-  "description": "AI News Aggregator - Aggregate updates from multiple AI news sites",
+  "description": "AI Radar - Aggregate updates from multiple AI news sites",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {

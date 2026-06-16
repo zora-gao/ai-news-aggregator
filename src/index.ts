@@ -120,7 +120,7 @@ async function main(): Promise<number> {
   const program = new Command();
 
   program
-    .name('ai-news-aggregator')
+    .name('ai-radar')
     .description('Aggregate AI news updates from multiple sources')
     .option('--output-dir <dir>', 'Directory for output JSON files', 'data')
     .option('--window-hours <hours>', '24h window size', '24')
