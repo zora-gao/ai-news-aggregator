@@ -3454,5 +3454,123 @@
     ],
     "reason": "零售行业员工权益变化，间接影响AI服务场景",
     "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/the-close-6-15-2026-video": {
+    "title_clean": "S&P 500指数创四月以来最佳单日表现，油价下跌",
+    "summary": "S&P 500指数创下4月以来最佳单日表现，主要受油价下跌影响。彭博电视节目在华尔街收盘前后带来最新新闻与分析，包括高盛首席股权策略嘉宾观点。",
+    "score": 30,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "市场波动与AI产品关联度低",
+    "v": 3
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651038804&idx=1&sn=d2bab50f9d5db279727d50646d23ff9b": {
+    "title_clean": "ViT3：测试时训练突破Transformer复杂度，入围CVPR2026最佳论文决选",
+    "summary": "ViT3研究通过测试时训练方法突破Transformer复杂度限制，入围CVPR2026最佳论文决选。这项技术可能影响AI模型在推理阶段的效率与性能，对产品经理评估AI模型优化方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "reason": "技术突破但产品应用不明确",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak": {
+    "title_clean": "美国政府禁用Anthropic模型并非因AI越狱问题",
+    "summary": "特朗普政府迫使Anthropic撤回最新网络安全模型的决定可能是反应性或报复性的，但明确表明AI行业并非不受监管影响，这对AI产品合规方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "监管政策影响AI产品合规方向",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/canada-s-carney-proposes-stricter-privacy-rules-to-ban-surveillance-pricing": {
+    "title_clean": "加拿大拟限制企业使用个人数据进行价格歧视",
+    "summary": "加拿大政府提议更严格的隐私规则，限制企业利用个人数据向消费者收取更高价格，同时赋予个人对其数据的更多控制权。这一政策可能影响AI个性化定价和用户数据使用策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "reason": "隐私政策变化影响AI个性化定价策略",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/hong-kong-stocks-face-pressure-from-33-billion-lockup-expiry": {
+    "title_clean": "香港股市将面临330亿美元限售股解禁压力",
+    "summary": "香港股市表现不佳，下月将有大量与股权发行相关的限售股解禁并转为可交易状态，可能给市场带来新的压力。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "reason": "市场信号有限，与AI产品关联度低",
+    "v": 3
+  },
+  "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties": {
+    "title_clean": "谷歌CEO Sundar Pichai在斯坦福毕业典礼遭遇抗议，因谷歌与以色列及ICE合作",
+    "summary": "谷歌CEO Sundar Pichai在斯坦福大学毕业典礼上遭遇嘘声和离场抗议，抗议源于谷歌与以色列及美国移民及海关执法局(ICE)的合作，特别是AI技术在国防合同中的应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "AI伦理争议影响企业声誉",
+    "v": 3
+  },
+  "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook": {
+    "title_clean": "Facebook推出AI助手工具，帮助用户连接、创建和发现内容",
+    "summary": "Facebook发布新AI功能，旨在帮助用户连接、创建和发现所需内容，这些工具可能改变用户在社交平台上的互动方式和内容获取体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "reason": "社交平台AI助手功能，影响用户交互场景",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns": {
+    "title_clean": "Anthropic将与特朗普政府官员会面讨论AI安全限制",
+    "summary": "Anthropic高管计划与特朗普政府官员会面，讨论美国政府禁止外国访问其最先进AI模型的指令，这可能影响AI公司的国际业务策略和产品安全标准。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "AI安全政策变化影响竞品国际业务",
+    "v": 3
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-15/bloomberg-tech-6-15-2026-video": {
+    "title_clean": "Anthropic应特朗普政府要求禁用外国用户访问其先进AI模型",
+    "summary": "Anthropic在特朗普政府要求后，禁用所有外国用户访问其最先进AI模型。这一政策变化可能影响全球AI服务格局，对元宝产品经理评估国际市场准入策略和合规风险有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "reason": "政策变化影响国际市场准入策略",
+    "v": 3
   }
 }
