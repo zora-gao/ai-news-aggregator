@@ -463,16 +463,16 @@
     "v": 4
   },
   "https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video": {
-    "title_clean": "美国政府投资量子计算领域，IBM获最大份额",
-    "summary": "特朗普政府采取风险投资方式，对九家量子计算公司进行股权投资，IBM获得最大份额。这一动向表明量子计算可能成为AI基础设施的重要发展方向，值得产品经理关注其与AI结合的潜在应用场景。",
+    "title_clean": "美国投资量子计算：政府股权投资九家量子计算公司",
+    "summary": "美国政府通过特朗普 administration 对九家量子计算公司进行股权投资，IBM 是最大受益者。这反映了量子计算作为前沿技术获得国家战略支持，对元宝产品经理了解AI技术前沿发展和政府科技投资方向有参考价值。",
     "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
-      "AI助手",
+      "AI搜索",
       "竞品动态"
     ],
-    "v": 3
+    "v": 4
   },
   "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai": {
     "title_clean": "Anthropic安全警告引发政府召回其最强AI模型",
@@ -586,7 +586,7 @@
   },
   "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google": {
     "title_clean": "Google起诉利用AI诈骗数十万受害者的中国网络犯罪团伙",
-    "summary": "Google起诉名为'Outsider Enterprise'的网络犯罪团伙，该团伙利用AI技术在两周内发送250万条短信，诈骗了数十万受害者。这反映了AI技术被用于大规模诈骗的新趋势，对产品经理了解AI安全防护和风险防控有参考价值。",
+    "summary": "Google起诉名为'Outsider Enterprise'的中国网络犯罪团伙，该团伙利用AI技术在两周内发送250万条短信，诈骗了数十万受害者。此案展示了AI技术被用于大规模网络诈骗的威胁，对产品经理了解AI安全防护和反欺诈机制有重要参考价值。",
     "score": 65,
     "priority": "P2",
     "type": "news",
@@ -595,7 +595,7 @@
       "用户需求",
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.bloomberg.com/news/articles/2026-06-12/spacex-passes-tesla-as-most-valuable-company-in-musk-s-portfolio": {
     "title_clean": "SpaceX超越特斯拉成为马斯克旗下最有价值公司",
@@ -812,8 +812,8 @@
     "v": 3
   },
   "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world": {
-    "title_clean": "贝佐斯创立的Prometheus获120亿美元融资，打造物理世界的人工通用工程师",
-    "summary": "贝佐斯创立的物理AI公司Prometheus完成120亿美元融资，估值达410亿美元，旨在自动化重型工程和药物设计，专注于物理世界的AI应用。",
+    "title_clean": "Prometheus：物理世界人工智能工程师",
+    "summary": "亚马逊创始人贝佐斯创立的物理AI公司Prometheus完成120亿美元融资，估值达410亿美元，旨在自动化重型工程和药物设计，专注于物理世界的AI应用。",
     "score": 75,
     "priority": "P1",
     "type": "news",
@@ -822,7 +822,7 @@
       "服务场景",
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://openai.com/index/preply": {
     "title_clean": "Preply：结合AI与真人教师的个性化语言学习平台",
@@ -838,15 +838,16 @@
     "v": 3
   },
   "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever": {
-    "title_clean": "SpaceX正式以每股135美元定价，开启史上最大规模IPO",
-    "summary": "SpaceX正式宣布以每股135美元的价格开始首次公开募股，这是历史上规模最大的IPO。这一事件对AI产品经理具有重要参考价值，反映了AI领域巨头公司的市场估值和资本动向。",
-    "score": 45,
-    "priority": "P3",
+    "title_clean": "SpaceX正式定价每股135美元，开启史上最大规模IPO",
+    "summary": "SpaceX正式宣布以每股135美元的价格开始首次公开募股，这是史上规模最大的IPO。这一事件对AI产品经理具有重要参考价值，反映了航天科技与AI结合领域的资本动向和市场信心，可能影响相关AI服务场景的投资方向。",
+    "score": 65,
+    "priority": "P2",
     "type": "news",
     "channels": [
-      "商业化"
+      "商业化",
+      "服务场景"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/clutch-alarm": {
     "title_clean": "Clutch Alarm：AI智能警报工具",
@@ -872,13 +873,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes": {
-    "title_clean": "Tide",
-    "summary": "Tide相关信息不足，无法确定其具体产品功能或价值。建议获取更多详细信息后再评估其对元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "v": 3
+    "title_clean": "Tide：AI法律咨询助手",
+    "summary": "Tide是一款AI法律咨询助手，能够为用户提供法律问题解答和文档生成服务。它通过AI技术简化法律流程，帮助用户快速获取专业法律建议，对元宝产品经理在法律垂直领域AI应用场景拓展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   },
   "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv": {
     "title_clean": "SpaceX、OpenAI和Anthropic上市将影响初创企业融资格局",
@@ -1092,15 +1097,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/mute-3": {
-    "title_clean": "Mute：讨论链接分享工具",
-    "summary": "Mute是一个讨论链接分享工具，但具体功能和用途描述信息不足，无法判断其对元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "Mute：AI会议噪音消除工具",
+    "summary": "Mute是一款AI会议噪音消除工具，能够实时识别并过滤会议背景噪音，提升语音通话质量。产品经理可关注其在会议场景中的AI音频处理技术，为元宝的语音交互功能提供竞品参考和技术启发。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
     "channels": [
-      "AI助手"
+      "AI助手",
+      "多模态",
+      "服务场景"
     ],
-    "v": 3
+    "v": 4
   },
   "https://huggingface.co/blog/torch-mlp-fusion": {
     "title_clean": "PyTorch性能优化：从nn.Linear到融合MLP的实现",
@@ -1189,29 +1196,28 @@
     "v": 3
   },
   "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda": {
-    "title_clean": "半导体初创企业融资持续火热，2026年已获约100亿美元投资",
-    "summary": "2026年半导体初创企业融资热度不减，投资者已向Crunchbase分类中的半导体公司投入约100亿美元种子轮至Pre-IPO轮融资。这反映了半导体行业作为AI硬件基础的重要投资方向，对元宝产品经理评估AI基础设施投资趋势和硬件合作伙伴选择有参考价值。",
+    "title_clean": "半导体初创企业融资持续火热",
+    "summary": "2026年至今，投资者已向Crunchbase半导体类别公司投入约100亿美元种子轮至Pre-IPO轮融资，显示半导体行业仍保持强劲投资热度，对AI硬件基础设施发展具有参考价值。",
     "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
-      "商业化",
-      "竞品动态"
+      "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://mp.weixin.qq.com/s/7pM3kkVJq_kT9kyeYhUGxg": {
     "title_clean": "美的与阿里巴巴达成战略合作",
-    "summary": "美的集团与阿里巴巴宣布建立全面战略合作关系，双方将在智能家居、供应链数字化、电商渠道等领域展开深度合作，共同探索AI技术在家电产品中的应用场景。",
-    "score": 65,
-    "priority": "P2",
+    "summary": "美的集团与阿里巴巴宣布建立全面战略合作关系，双方将在智能家居、供应链数字化、电商渠道等领域展开深度合作。这一合作将整合美的的家电制造优势与阿里巴巴的数字化能力，为元宝产品经理提供AI服务场景与商业化合作的重要参考。",
+    "score": 75,
+    "priority": "P1",
     "type": "news",
     "channels": [
       "服务场景",
       "商业化",
       "AI助手"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq": {
     "title_clean": "麦当劳测试谷歌支持的AI点餐系统",
@@ -1811,16 +1817,16 @@
     "v": 4
   },
   "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments": {
-    "title_clean": "元宝AI社区投资：支持弗吉尼亚州就业与能源可负担性",
-    "summary": "元宝在弗吉尼亚州投资社区项目，帮助培养下一代劳动力并投资能源项目，旨在创造本地就业机会并提高能源可负担性。",
+    "title_clean": "元宝社区投资：支持弗吉尼亚州就业与能源可负担性",
+    "summary": "元宝在弗吉尼亚州进行社区投资，支持当地就业发展和能源项目，旨在培养下一代劳动力并扩大能源可负担性，为产品经理提供社区投资与能源服务结合的参考案例。",
     "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
-      "用户需求",
+      "服务场景",
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown": {
     "title_clean": "Bugpilot",
@@ -2132,15 +2138,15 @@
     "v": 4
   },
   "https://www.bloomberg.com/news/videos/2026-06-12/spacex-ipo-leaves-billions-on-the-table-video": {
-    "title_clean": "SpaceX IPO估值过高导致数十亿美元潜在收益流失",
-    "summary": "SpaceX因估值过高问题推迟IPO，导致投资者错失数十亿美元潜在收益。这一事件反映了高估值科技公司上市面临的挑战，对AI领域高估值企业的上市策略和投资者预期管理有参考价值。",
+    "title_clean": "SpaceX IPO：估值过高导致融资规模缩减",
+    "summary": "SpaceX在IPO过程中因估值过高担忧而缩减融资规模，导致数十亿美元潜在收益未能实现。这一事件对AI产品经理的参考价值在于，它反映了高估值企业在资本市场面临的压力，以及如何在追求高估值与实际融资需求之间取得平衡，这对AI初创公司的融资策略和估值管理有重要启示。",
     "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.bloomberg.com/news/videos/2026-06-12/spacex-s-wall-street-debut-breaks-records-video": {
     "title_clean": "SpaceX华尔街上市破纪录",
@@ -2192,7 +2198,7 @@
   },
   "https://www.bloomberg.com/news/newsletters/2026-06-12/why-final-fantasy-vii-revelation-took-only-three-years-to-make": {
     "title_clean": "《最终幻想VII启示录》开发周期仅三年",
-    "summary": "《最终幻想VII启示录》作为大型游戏仅用三年完成开发，远低于行业平均周期。文章可能探讨其开发方法论、AI辅助工具应用或高效团队协作模式，对游戏产品经理和AI工具应用有参考价值。",
+    "summary": "《最终幻想VII启示录》作为一款大型游戏，仅用三年时间完成开发，远快于行业平均水平。这反映了游戏开发流程优化、技术进步和项目管理效率的提升，对AI辅助游戏开发、内容生成工具的效率提升有参考价值。",
     "score": 45,
     "priority": "P3",
     "type": "news",
@@ -2200,7 +2206,7 @@
       "服务场景",
       "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/locin-ai": {
     "title_clean": "LocIn AI：AI位置服务工具",
@@ -2301,17 +2307,16 @@
     "v": 3
   },
   "https://www.producthunt.com/products/crustdata-2": {
-    "title_clean": "CrustRecruiter：AI 招聘助手工具",
-    "summary": "CrustRecruiter 是一款 AI 招聘助手工具，利用人工智能技术帮助招聘人员更高效地筛选候选人、管理招聘流程。该产品对元宝产品经理在 AI 助手服务场景拓展和商业化模式探索方面具有参考价值。",
+    "title_clean": "CrustRecruiter：AI招聘工具",
+    "summary": "CrustRecruiter是一款AI驱动的招聘工具，可能利用人工智能技术优化招聘流程，包括简历筛选、候选人匹配等功能。对于元宝产品经理而言，这展示了AI在专业服务场景的应用潜力，可作为服务场景拓展和商业化模式的参考。",
     "score": 65,
     "priority": "P2",
     "type": "product",
     "channels": [
-      "AI助手",
       "服务场景",
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/mockpilot": {
     "title_clean": "MockPilot：AI 代码测试生成工具",
@@ -2339,25 +2344,29 @@
     "v": 4
   },
   "https://openai.com/index/openai-on-oracle-cloud": {
-    "title_clean": "Oracle云服务接入OpenAI模型与Codex",
-    "summary": "Oracle云服务允许企业通过现有云承诺接入OpenAI模型和Codex，提供企业级安全与治理能力，助力企业构建和部署AI应用。",
+    "title_clean": "Oracle云接入OpenAI模型：企业级AI开发部署服务",
+    "summary": "Oracle云宣布允许企业通过现有云承诺接入OpenAI模型和Codex，提供企业级安全与治理的AI开发部署方案，为企业使用OpenAI技术提供合规通道。",
     "score": 75,
     "priority": "P1",
     "type": "news",
     "channels": [
       "商业化",
+      "服务场景",
       "竞品动态"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/slimsnap": {
-    "title_clean": "SlimSnap",
-    "summary": "SlimSnap 是一个讨论链接，但描述信息不足，无法确定其具体功能或与AI产品的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "v": 3
+    "title_clean": "SlimSnap：AI图像压缩工具",
+    "summary": "SlimSnap是一款AI图像压缩工具，能够智能优化图像大小同时保持视觉质量。产品经理可关注其AI技术在图像处理领域的应用，评估是否可作为元宝的图像处理功能模块或竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
   },
   "https://www.producthunt.com/products/colibotai": {
     "title_clean": "ColibotAI：AI客服自动化工具",
@@ -2616,14 +2625,16 @@
   },
   "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure": {
     "title_clean": "基础设施解析：计算能力",
-    "summary": "文章解释了计算能力的概念，以及GPU、CPU和MTIA定制芯片如何满足AI创新和计算需求，为元宝产品经理提供AI基础设施的技术参考。",
+    "summary": "本文解释了计算能力的概念，以及GPU、CPU和MTIA定制芯片如何帮助满足AI创新和计算需求。对元宝产品经理了解AI基础设施选择和性能优化有参考价值。",
     "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
-      "AI助手"
+      "AI助手",
+      "AI Agent",
+      "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.bloomberg.com/news/articles/2026-06-15/industrials-stocks-erase-war-selloff-hit-record-on-us-iran-deal": {
     "title_clean": "美国工业股因美伊和平协议创历史新高",
@@ -2949,15 +2960,17 @@
     "v": 4
   },
   "https://www.ycombinator.com/blog/diana-hu-managing-partner": {
-    "title_clean": "Diana Hu 升任 YC 新任管理合伙人",
-    "summary": "Diana Hu 升任 Y Combinator 管理合伙人，她曾从零创办创业公司，并将技术产品触达1亿用户。这对元宝产品经理了解顶级孵化器高管背景和创业生态有参考价值。",
-    "score": 45,
-    "priority": "P3",
+    "title_clean": "Diana Hu 升任 YC 合伙人",
+    "summary": "Diana Hu 升任 Y Combinator 管理合伙人，她曾从零创办创业公司，并将技术产品推向1亿用户。这对元宝产品经理有参考价值，因为YC作为顶级创业孵化器，其合伙人的背景和关注点可能反映未来AI创业方向和投资热点。",
+    "score": 55,
+    "priority": "P2",
     "type": "news",
     "channels": [
-      "商业化"
+      "AI助手",
+      "商业化",
+      "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/pass-quick-access": {
     "title_clean": "Pass Quick Access：密码快速管理工具",
@@ -3980,16 +3993,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/resumewriting-com": {
-    "title_clean": "ResumeWriting.com：专为简历写作设计的AI工具",
-    "summary": "ResumeWriting.com是一款专注于简历写作的AI工具，为求职者提供简历优化服务。该产品针对简历写作场景，可能对元宝在垂直领域AI应用开发有参考价值，尤其是如何将通用AI能力转化为特定场景的专业解决方案。",
-    "score": 65,
-    "priority": "P2",
+    "title_clean": "ResumeWriting.com：AI简历写作工具",
+    "summary": "ResumeWriting.com是一款专门针对简历写作设计的AI工具，帮助用户生成专业简历。作为垂直领域的AI应用，它展示了AI在职业服务场景的落地，对元宝拓展职业助手功能具有参考价值。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
     "channels": [
+      "AI助手",
       "服务场景",
-      "AI助手"
+      "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/sklm": {
     "title_clean": "Sklm：AI Agent技能管理工具",
@@ -4042,17 +4056,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/lasso-5": {
-    "title_clean": "Vidrunner：AI辅助YouTube视频发布工具",
-    "summary": "Vidrunner是一款AI工具，旨在帮助用户更快速地发布YouTube视频。该产品通过AI技术简化视频发布流程，可能涉及内容生成、编辑或自动化发布等功能，对元宝产品经理在AI辅助内容创作领域具有参考价值。",
-    "score": 65,
-    "priority": "P2",
+    "title_clean": "Vidrunner：AI YouTube视频快速生成工具",
+    "summary": "Vidrunner是一款AI工具，帮助用户快速生成和发布YouTube视频。它通过自动化视频制作流程，显著提升内容创作效率，对元宝产品经理在AI辅助内容生成和自动化工作流方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
     "channels": [
       "AI助手",
       "服务场景",
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/human-in-the-love": {
     "title_clean": "Human in the Love",
@@ -4652,6 +4666,55 @@
     "summary": "Peak是一款儿童短信安全审查工具，允许家长在Mac设备上审查孩子的短信内容，确保信息不离开本地设备，保护儿童网络安全。",
     "score": 45,
     "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/adani-ports-partners-with-kaleris-for-ai-terminal-software": {
+    "title_clean": "Adani Ports与Kaleris合作推出AI港口终端软件",
+    "summary": "印度亿万富翁Gautam Adani的港口部门与美国Kaleris公司合作，部署AI驱动软件运营其分布在9个港口的15个集装箱码头。这展示了AI在物流和港口运营领域的实际应用，为元宝产品经理提供了AI技术在垂直行业场景落地的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/databricks-sales-double-for-product-that-competes-with-snowflake": {
+    "title_clean": "Databricks数据仓库业务销售额翻倍，与Snowflake竞争加剧",
+    "summary": "Databricks宣布其数据仓库业务在过去一年内规模增长超过一倍，直接与Snowflake和谷歌竞争。这一增长反映了企业对集成数据平台的需求上升，对元宝产品经理评估AI数据服务市场格局和竞争态势具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cymatic": {
+    "title_clean": "Cymatic：声音引导冥想工具",
+    "summary": "Cymatic是一款结合声音、呼吸和频率的冥想应用，通过特定音频频率引导用户进行冥想练习。对于元宝产品经理而言，这展示了AI在心理健康和冥想场景的应用可能性，可作为多模态交互和个性化服务场景的参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/container-desktop-gui-apple-container": {
+    "title_clean": "Container Desktop：Apple容器系统图形界面工具",
+    "summary": "Container Desktop是一款为Apple原生容器系统开发的图形界面工具，简化了macOS环境下容器操作流程。产品经理可关注其如何将复杂技术转化为用户友好界面，这对元宝在简化AI工具使用门槛方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
     "type": "product",
     "channels": [
       "服务场景",
