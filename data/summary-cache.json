@@ -61,13 +61,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/kosh-money": {
-    "title_clean": "KOSH Money",
-    "summary": "KOSH Money相关信息不足，仅有讨论链接，无法确定其具体功能或与AI助手/Agent的关联性，缺乏足够信息评估其对元宝产品经理的参考价值。",
-    "score": 20,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "v": 3
+    "title_clean": "KOSH Money：AI个人财务管理工具",
+    "summary": "KOSH Money是一款AI驱动的个人财务管理工具，帮助用户跟踪支出、制定预算并提供财务建议。该产品通过AI技术简化个人财务管理流程，为用户提供智能化的财务决策支持，对元宝产品经理在金融服务场景拓展方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   },
   "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future": {
     "title_clean": "Anthropic暂停新模型访问，印度辩论AI未来",
@@ -829,8 +833,8 @@
     "v": 4
   },
   "https://openai.com/index/preply": {
-    "title_clean": "Preply：结合AI与真人教师的个性化语言学习平台",
-    "summary": "Preply利用OpenAI技术推出AI生成的课程摘要，提供个性化反馈和语言学习练习，通过AI与真人教师结合的方式提升学习体验。",
+    "title_clean": "Preply：AI与真人教师结合的个性化学习平台",
+    "summary": "Preply利用OpenAI技术推出AI生成的课程摘要，提供个性化反馈和语言学习练习，通过结合AI与真人教师打造个性化学习体验，为语言学习类AI服务场景提供参考。",
     "score": 75,
     "priority": "P1",
     "type": "product",
@@ -839,7 +843,7 @@
       "服务场景",
       "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever": {
     "title_clean": "SpaceX正式定价每股135美元，开启史上最大规模IPO",
@@ -890,16 +894,16 @@
     "v": 4
   },
   "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv": {
-    "title_clean": "SpaceX、OpenAI和Anthropic上市将影响初创企业融资格局",
-    "summary": "MGV的Marc Schröder指出，SpaceX、OpenAI和Anthropic上市后将成为全球资本最雄厚的收购方，这对初创企业融资环境的影响可能更为深远。",
-    "score": 45,
-    "priority": "P3",
+    "title_clean": "SpaceX、OpenAI和Anthropic上市将改变收购格局",
+    "summary": "MGV的Marc Schröder指出，SpaceX、OpenAI和Anthropic若上市将成为全球资本最雄厚的收购方，这对初创企业的影响可能更为深远，暗示AI巨头上市将重塑行业资本流向和收购格局。",
+    "score": 65,
+    "priority": "P2",
     "type": "news",
     "channels": [
       "商业化",
       "竞品动态"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/shellmate-2": {
     "title_clean": "ShellMate：AI 命令行助手工具",
@@ -3888,17 +3892,16 @@
     "v": 4
   },
   "https://www.producthunt.com/products/boxwood-chess": {
-    "title_clean": "Boxwood Chess：国际象棋棋型训练工具",
-    "summary": "Boxwood Chess是一款专注于国际象棋棋型训练的应用，不设计时器、连胜记录和评分系统，专注于提升用户的棋型识别能力。这款产品对元宝产品经理有参考价值，因为它展示了AI教育类工具如何通过去除游戏化元素，专注于核心技能训练来满足特定用户需求。",
-    "score": 55,
-    "priority": "P2",
+    "title_clean": "Boxwood Chess：国际象棋训练工具",
+    "summary": "Boxwood Chess是一款专注于国际象棋模式训练的工具，不包含计时器、连胜记录和评分系统，专注于纯粹的棋局训练，适合希望提升棋艺的用户。",
+    "score": 45,
+    "priority": "P3",
     "type": "product",
     "channels": [
-      "AI助手",
       "服务场景",
       "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/socialkit-2": {
     "title_clean": "SocialKit：多平台社交媒体管理工具",
@@ -4864,6 +4867,302 @@
       "AI助手",
       "商业化",
       "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/lutnick-s-letter-to-anthropic-warned-of-curbs-on-top-ai-models": {
+    "title_clean": "美国商务部长致信Anthropic：限制顶级AI模型对外国国民访问",
+    "summary": "美国商务部长Howard Lutnick致信Anthropic，警告该公司需要政府许可才能允许外国国民访问其最先进的AI模型，并暗示可能采取限制措施。这反映了美国政府对AI技术出口管控的加强趋势，对AI产品国际化战略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features": {
+    "title_clean": "Android 17发布：新增多任务工具并扩展Gemini功能",
+    "summary": "Google发布Android 17和Wear OS 7系统，引入多任务处理、家长控制和安全工具等新功能，同时扩展了Gemini AI功能。此次更新对元宝产品经理在移动端AI助手功能设计和多模态交互方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/google-debuts-android-17-multitasking-social-video-and-the-other-best-features": {
+    "title_clean": "Google推出Android 17系统，夏季将上线重大AI功能",
+    "summary": "Google开始发布Android 17操作系统最新重大更新，但标志性的AI功能计划在今年夏季推出。这对产品经理关注AI在移动操作系统中的集成时机和功能规划具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/read-the-lutnick-letter-that-led-anthropic-to-disable-mythos": {
+    "title_clean": "美国商务部长致函Anthropic要求限制AI模型出口",
+    "summary": "美国商务部长Howard Lutnick致函Anthropic CEO，要求公司在出口Fable 5和Mythos模型前需获得政府许可，此举导致Anthropic暂时禁用了Mythos模型。这反映了政府对先进AI模型出口管控的加强，对AI企业的国际业务拓展策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/open-interest-6-16-2026-video": {
+    "title_clean": "SpaceX估值接近3万亿美元，超越亚马逊",
+    "summary": "SpaceX估值再次攀升，接近3万亿美元，超过亚马逊成为全球最有价值公司之一。这一市场表现反映了投资者对商业航天和太空探索领域的强烈信心，对元宝产品经理了解科技巨头估值趋势和新兴市场机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/y-combinator-winter-2026": {
+    "title_clean": "Y Combinator 2026冬季批次：物理AI技术复杂度创新高",
+    "summary": "Y Combinator 2026冬季批次显示物理AI投资增长，199家公司中有1/8专注于机器人、无人机、可穿戴设备等物理AI产品，反映行业对实体AI应用的重视，对元宝产品经理了解AI服务场景拓展方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/gamestop-investor-brings-suit-over-ceo-s-35-billion-pay-package": {
+    "title_clean": "GameStop投资者起诉CEO 350亿美元薪酬方案",
+    "summary": "GameStop投资者提起诉讼，要求暂停对公司CEO价值350亿美元薪酬方案的投票，直到向股东进行适当披露。这反映了公司治理和股东权益保护的重要议题，对产品经理了解企业决策机制和股东关系管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/spacex-pounces-on-60b-cursor-takeover-days-after-ipo-video": {
+    "title_clean": "SpaceX：60亿美元收购Cursor AI编程工具",
+    "summary": "SpaceX在IPO后迅速以60亿美元收购AI编程工具Cursor，这一交易由富兰克林邓普顿投资组合经理Sara Araghi评价为'合理'。这反映了AI编程工具在科技巨头战略中的重要地位，以及AI工具市场的高价值与快速整合趋势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/ma/spcx-acquires-ai-coding-cursor-largest-startup-ma-deal-2026": {
+    "title_clean": "SpaceX以60亿美元收购AI编程工具Cursor",
+    "summary": "SpaceX以60亿美元收购AI编程工具Cursor，这是今年最大的初创企业并购交易。此次收购使SpaceX进入企业软件开发市场，AI辅助编程已成为趋势，帮助大公司显著减少对传统开发工具的依赖。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/hpe-boosts-networking-gear-for-ai-clients-adds-siemens-energy": {
+    "title_clean": "HPE推出AI数据中心网络设备，新增西门子能源合作",
+    "summary": "HPE推出面向AI数据中心的新网络设备，整合了从Juniper Networks收购的产品，并与西门子能源建立合作，旨在扩大AI基础设施市场份额。这对元宝产品经理了解企业级AI服务基础设施布局和合作伙伴生态建设有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/apollo-backed-rackspace-loan-jumps-on-amd-data-center-deal": {
+    "title_clean": "Rackspace：AMD数据中心服务合作方获16亿美元贷款",
+    "summary": "云计算服务商Rackspace Technology与AMD达成数据中心合作协议，获得Apollo Global Management支持的16亿美元贷款。此合作表明AI基础设施领域投资活跃，对元宝产品经理评估AI服务底层架构合作与融资环境有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027": {
+    "title_clean": "苹果计划2027年推出带摄像头的AirPods与升级版折叠iPhone",
+    "summary": "苹果计划在2027年底推出配备摄像头的AirPods，旨在进军AI设备市场，同时还将发布升级版折叠iPhone。这对元宝产品经理有参考价值，表明苹果正将AI能力整合到可穿戴设备中，可能影响未来AI助手与硬件设备的交互方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo": {
+    "title_clean": "SpaceX上市：马斯克太空商业帝国新阶段",
+    "summary": "SpaceX正式上市，标志着马斯克太空商业帝国进入新阶段。TechCrunch全面回顾了SpaceX从初创到成功的历程，分析上市后的赢家格局，对理解科技巨头上市策略与商业价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/ai-is-training-staff-very-quickly-says-rbc-s-mckay-video": {
+    "title_clean": "RBC CEO：AI正快速培训员工并提升工作效率",
+    "summary": "加拿大皇家银行CEO表示，AI技术正以惊人的速度培训员工，同时提高工作效率。这反映了AI在企业培训领域的实际应用价值，为元宝在职业培训场景的产品化提供了参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/ai-driving-insatiable-appetite-for-capital-rbc-ceo-video": {
+    "title_clean": "RBC CEO称AI驱动市场对资本需求激增",
+    "summary": "加拿大皇家银行CEO David McKay表示，当前市场存在风险偏好情绪，主要受AI和计算能力需求推动。这一言论反映了AI领域资本投入的持续增长趋势，对元宝产品经理了解AI行业投资动态和商业化潜力有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers": {
+    "title_clean": "Plaud：AI会议笔记工具实现1亿美元年经常性收入",
+    "summary": "Plaud在竞争激烈的AI会议笔记市场中脱颖而出，已交付超过200万台AI笔记设备，软件业务年经常性收入突破1亿美元。这表明AI会议笔记工具已形成可观市场规模，对元宝在办公场景AI应用的产品定位和商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/principal-mineral-buys-cerberus-backed-critical-materials-firm": {
+    "title_clean": "Principal Mineral 收购 Cerberus 支持的关键材料公司",
+    "summary": "Principal Mineral 收获 Cerberus Capital 管理支持的关键材料公司，该公司生产印刷电路板组件，这些组件是汽车、飞机到 AI 服务器等产品的关键电子部件。此次收购可能影响 AI 硬件供应链，对元宝产品经理了解 AI 服务器硬件供应链变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.microsoft.com/source/emea/features/farming-is-risky-business-this-app-helps-turkish-growers-succeed": {
+    "title_clean": "农业风险管理应用：帮助土耳其农民降低种植风险",
+    "summary": "这是一款面向土耳其农民的农业风险管理应用，旨在帮助农民应对农业生产中的各种风险因素，提高种植成功率。该应用可能提供天气预警、病虫害防治建议、市场行情分析等功能，对元宝在农业服务场景的AI应用开发具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security": {
+    "title_clean": "美国司法部称xAI未经许可使用燃气涡轮机涉及国家安全",
+    "summary": "美国司法部表示，五角大楼需要xAI继续使用其未经许可的燃气涡轮机，并称此事涉及国家安全、经济和能源安全。这反映了AI基础设施建设的合规挑战与国家安全考量。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/microsoft-2026-surface-pro-and-surface-laptop-offer-better-graphics-faster-ai": {
+    "title_clean": "微软最新Surface PC：增强图形与AI性能",
+    "summary": "微软更新了Surface Pro和Surface Laptop设备，搭载高通新芯片，提供更快的图形处理和AI性能，主要面向创意专业人士。这对元宝产品经理了解硬件厂商如何优化AI性能有参考价值，特别是针对创意工作场景的AI能力提升。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/startup-backed-by-ex-google-ceo-debuts-industrial-robot-with-lg": {
+    "title_clean": "前谷歌CEO支持的初创公司推出与LG合作的工业机器人",
+    "summary": "由前谷歌CEO埃里克·施密特支持的初创公司推出了一款由人工智能驱动的工业机器人，反映了投资者对人形机器人领域的持续关注。这一合作展示了AI在工业自动化领域的应用进展，对元宝产品经理了解AI技术在不同场景的落地有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users": {
+    "title_clean": "Threads：推出新社区功能庆祝月活5亿用户",
+    "summary": "Threads平台为庆祝月活跃用户达到5亿，推出了新的社区功能。这一里程碑展示了社交平台的用户增长潜力，对元宝产品经理在社区功能设计和用户增长策略方面有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-16/openai-s-executive-coach-says-emotional-clarity-will-matter-most-in-ai": {
+    "title_clean": "The Executive Coach：Sam Altman领导力教练",
+    "summary": "Joe Hudson作为Sam Altman的领导力教练，正在教导科技领袖如何以'情感流动性'进行领导。他相信即将到来的科技革命胜者将是人类，而非AI，这反映了AI时代对人类领导力新需求的思考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time": {
+    "title_clean": "ChatGPT市场份额首次跌破50%",
+    "summary": "ChatGPT仍是全球最受欢迎的AI助手，月活跃用户超11亿，但市场份额首次跌破50%，Gemini和Claude分别以6.62亿和2.45亿月活用户紧随其后。这反映了AI助手市场竞争格局的变化，对元宝产品经理了解市场趋势和竞品动态具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
     ],
     "v": 4
   }

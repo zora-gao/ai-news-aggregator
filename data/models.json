@@ -1,8 +1,31 @@
 {
-  "generated_at": "2026-06-16T14:58:21.973Z",
+  "generated_at": "2026-06-16T19:31:21.037Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "z-ai/glm-5.2",
+      "name": "GLM 5.2",
+      "vendor": "Zhipu AI",
+      "vendor_slug": "z-ai",
+      "url": "https://openrouter.ai/z-ai/glm-5.2-20260616",
+      "created_at": "2026-06-16T17:45:30Z",
+      "context_length": 1048576,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 1.4,
+      "price_out": 4.4,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "GLM-5.2 is Z.ai’s flagship model for the era of long-horizon tasks. With a truly usable 1M-token context window, it can handle project-level engineering context, execute long-running tasks more reliably, follow...",
+      "description_zh": "GLM-5.2是Z.ai针对长视距任务时代的旗舰型号。拥有真正可用的 1M 代币上下文窗口，它可以处理项目级工程上下文，更可靠地执行长时间运行的任务，遵循..."
+    },
     {
       "id": "openrouter/fusion",
       "name": "Fusion",
@@ -42,7 +65,7 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.75,
+      "price_in": 0.74,
       "price_out": 3.5,
       "is_free": false,
       "supports_tools": true,
@@ -1440,31 +1463,6 @@
       "price_in": 0,
       "price_out": 0,
       "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemma 4 31B Instruct is Google DeepMind's 30.7B dense multimodal model supporting text and image input with text output. Features a 256K token context window, configurable thinking/reasoning mode, native function...",
-      "description_zh": "Gemma 4 31B Instruct 是 Google DeepMind 的 30.7B 密集多模态模型，支持文本和图像输入以及文本输出。具有 256K 令牌上下文窗口、可配置的思维/推理模式、本机功能..."
-    },
-    {
-      "id": "google/gemma-4-31b-it",
-      "name": "Gemma 4 31B",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemma-4-31b-it-20260402",
-      "created_at": "2026-04-02T16:48:06Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.12,
-      "price_out": 0.35,
-      "is_free": false,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "Gemma 4 31B Instruct is Google DeepMind's 30.7B dense multimodal model supporting text and image input with text output. Features a 256K token context window, configurable thinking/reasoning mode, native function...",
