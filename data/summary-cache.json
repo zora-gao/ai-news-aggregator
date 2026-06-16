@@ -426,16 +426,16 @@
   },
   "https://www.producthunt.com/products/taste-lab": {
     "title_clean": "Taste Lab：AI美食口味推荐工具",
-    "summary": "Taste Lab是一款AI美食口味推荐工具，通过分析用户口味偏好提供个性化美食推荐。产品经理可关注其AI在垂直场景下的应用方式，以及如何将用户口味数据转化为精准推荐服务。",
-    "score": 55,
-    "priority": "P2",
+    "summary": "Taste Lab是一款AI美食口味推荐工具，通过分析用户口味偏好提供个性化美食推荐。产品经理可参考其AI个性化推荐逻辑，探索元宝在美食场景下的应用潜力，以及如何将用户口味数据转化为服务价值。",
+    "score": 75,
+    "priority": "P1",
     "type": "product",
     "channels": [
       "AI助手",
       "服务场景",
       "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general": {
     "title_clean": "OpenAI面临州总检察长调查",
@@ -679,16 +679,16 @@
     "v": 4
   },
   "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe": {
-    "title_clean": "IPO市场回暖，MANGOS公司引领新潮流",
-    "summary": "IPO市场重新活跃，但引领潮流的已不再是FAANG公司，而是由Meta/Microsoft、Anthropic、N等组成的MANGOS新阵营，这可能预示着AI领域投资热点的转移。",
-    "score": 45,
-    "priority": "P3",
+    "title_clean": "IPO市场回暖：MANGOS公司引领新潮流",
+    "summary": "IPO市场重新活跃，但引领潮流的公司已从FAANG转变为MANGOS（微软/Meta、Anthropic、Nvidia等）。这一变化反映了AI领域巨头正在成为资本市场新宠，对元宝产品经理判断AI行业投资趋势和巨头战略方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
     "type": "news",
     "channels": [
       "商业化",
       "竞品动态"
     ],
-    "v": 3
+    "v": 4
   },
   "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx": {
     "title_clean": "SpaceX完成史上最大规模IPO，股价上涨19%",
@@ -803,13 +803,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/cuebuddy": {
-    "title_clean": "CueBuddy",
-    "summary": "CueBuddy是一个讨论平台，但具体功能和产品定位信息不足，无法确定其对元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "v": 3
+    "title_clean": "CueBuddy：AI对话式内容创作工具",
+    "summary": "CueBuddy是一款AI对话式内容创作工具，通过自然对话帮助用户快速生成各类内容。产品经理可关注其对话交互设计在内容创作场景的应用，以及如何简化用户创作流程，这对元宝的内容生成功能可能有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   },
   "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world": {
     "title_clean": "Prometheus：物理世界人工智能工程师",
@@ -975,16 +979,15 @@
     "v": 4
   },
   "https://news.crunchbase.com/venture/median-late-stage-startup-funding-round-size-2026-data": {
-    "title_clean": "AI初创公司1亿美元融资已成常态",
-    "summary": "AI行业融资规模持续扩大，1亿美元融资已不再罕见，成为后期融资的常规规模，反映市场对AI领域的持续投入和成熟度提升。",
+    "title_clean": "AI融资市场：1亿美元融资已成常态",
+    "summary": "AI行业融资环境变化，1亿美元以上的融资已不再被视为显著大额，已成为后期融资的典型规模。这反映了AI领域资本市场的成熟与竞争加剧，对产品经理评估市场热度与融资环境有参考价值。",
     "score": 45,
     "priority": "P3",
     "type": "news",
     "channels": [
-      "商业化",
-      "用户需求"
+      "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/plenx-plex-client-for-nintendo-switch": {
     "title_clean": "pleNx：任天堂Switch的Plex媒体客户端",
@@ -1148,26 +1151,30 @@
     "v": 4
   },
   "https://www.producthunt.com/products/riven-reach-muscle-failure": {
-    "title_clean": "Riven：AI驱动的代码审查与优化工具",
-    "summary": "Riven是一款AI代码审查工具，能够自动分析代码并提供优化建议，帮助开发者提高代码质量和开发效率。该工具对元宝产品经理在AI辅助编程和代码优化领域的产品规划具有参考价值。",
+    "title_clean": "Riven：AI驱动的软件开发协作平台",
+    "summary": "Riven是一款AI驱动的软件开发协作平台，旨在通过人工智能技术提升团队开发效率和代码质量。该产品为元宝产品经理提供了AI在专业软件开发场景中的应用参考，展示了AI如何赋能特定行业垂直领域的协作工具。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/patchrooms": {
+    "title_clean": "Patchrooms：AI协作空间工具",
+    "summary": "Patchrooms是一个AI协作空间工具，提供实时协作和AI辅助功能，帮助团队在共享空间中高效工作。产品经理可参考其AI协作场景设计，了解如何将AI能力融入团队协作工具中，提升用户协作效率。",
     "score": 75,
     "priority": "P1",
     "type": "product",
     "channels": [
       "AI助手",
       "服务场景",
-      "竞品动态"
+      "用户需求"
     ],
-    "v": 3
-  },
-  "https://www.producthunt.com/products/patchrooms": {
-    "title_clean": "Patchrooms：讨论平台",
-    "summary": "Patchrooms是一个讨论平台，但具体功能和用途描述信息不足，无法确定其与AI助手或产品经理的直接相关性。",
-    "score": 30,
-    "priority": "P3",
-    "type": "product",
-    "channels": null,
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/onpilot-ai": {
     "title_clean": "Onpilot：AI自动化工作流工具",
@@ -1183,17 +1190,17 @@
     "v": 4
   },
   "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
-    "title_clean": "OpenAI报告：中国关联组织利用AI干预美国科技辩论",
-    "summary": "OpenAI发布报告披露与中国有关联的组织利用AI技术干预美国科技辩论、数据中心叙事、关税政策，并传播关于ChatGPT的虚假信息，这对AI内容安全和平台治理有重要参考价值。",
-    "score": 65,
-    "priority": "P2",
+    "title_clean": "中国关联组织利用AI影响美国科技辩论",
+    "summary": "OpenAI报告显示，与中国关联的组织利用AI技术在美国科技辩论、数据中心叙事、关税政策以及关于ChatGPT的虚假信息等方面进行影响操作，这对AI内容安全和信息真实性管理具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
     "type": "news",
     "channels": [
       "AI助手",
       "竞品动态",
       "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda": {
     "title_clean": "半导体初创企业融资持续火热",
@@ -1310,16 +1317,17 @@
     "v": 4
   },
   "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code": {
-    "title_clean": "North Mini Code：Cohere 首款面向开发者的代码生成模型",
-    "summary": "Cohere 发布了面向开发者的 North Mini Code 模型，专注于代码生成任务，为开发者提供更高效的编程辅助工具，可能影响 AI 辅助编程产品竞争格局。",
+    "title_clean": "Introducing North Mini Code：Cohere面向开发者的首个模型",
+    "summary": "Cohere发布了North Mini Code模型，这是其首个专为开发者设计的AI模型。该模型专注于代码生成与辅助编程，旨在提升开发效率，为产品经理提供AI在软件开发场景应用的新参考方向。",
     "score": 75,
     "priority": "P1",
     "type": "product",
     "channels": [
       "AI助手",
+      "服务场景",
       "竞品动态"
     ],
-    "v": 3
+    "v": 4
   },
   "https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses": {
     "title_clean": "Meta优化跨企业活动个性化与控制功能",
@@ -1694,15 +1702,15 @@
     "v": 4
   },
   "https://www.bloomberg.com/news/videos/2026-06-12/open-interest-6-12-2026-video": {
-    "title_clean": "SpaceX股票上市首日上涨11%，2026年6月12日公开交易",
-    "summary": "SpaceX在公开交易首日股价上涨11%，表明市场对这家太空探索公司的看好。这一事件对产品经理有参考价值，因为SpaceX作为科技巨头的发展可能影响AI与航天科技结合的未来产品方向。",
-    "score": 45,
-    "priority": "P3",
+    "title_clean": "SpaceX股票公开交易首日上涨11%",
+    "summary": "SpaceX股票在公开交易首日上涨11%，截至2026年6月12日未平仓合约数据表明市场反应积极。这一事件对AI产品经理有参考价值，反映了市场对科技巨头尤其是AI相关企业的投资热情，可能影响AI领域的资本流向和估值预期。",
+    "score": 65,
+    "priority": "P2",
     "type": "news",
     "channels": [
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.bloomberg.com/news/videos/2026-06-12/bloomberg-tech-6-12-2026-video": {
     "title_clean": "SpaceX完成史上最大规模IPO",
@@ -1742,17 +1750,17 @@
     "v": 4
   },
   "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale": {
-    "title_clean": "Avataar：面向印度市场的低成本快速视频生成AI",
-    "summary": "Avataar AI推出视频生成模型，每秒生成成本仅0.005美元，专为印度市场的大规模应用设计，强调文化适应性与高性价比。",
-    "score": 75,
-    "priority": "P1",
+    "title_clean": "Avataar：低成本印度视频生成AI",
+    "summary": "Avataar AI推出低价视频生成模型，每秒生成成本仅0.005美元，专为印度市场大规模应用设计，强调文化适应性与高性价比，对元宝在新兴市场的AI服务定价策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
     "type": "product",
     "channels": [
       "AI助手",
       "服务场景",
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.cbinsights.com/research/executive-interview-c-phrase-technologies": {
     "title_clean": "Executive Interview: C-Phrase Technologies",
@@ -1767,16 +1775,16 @@
     "v": 4
   },
   "https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps": {
-    "title_clean": "Meta在旗下多平台推出足球粉丝专属功能",
-    "summary": "Meta在Threads、Instagram、Facebook和WhatsApp等应用中新增足球相关功能，包括运动员内容、比赛内容和产品内互动活动，旨在服务全球足球粉丝。",
-    "score": 45,
-    "priority": "P3",
+    "title_clean": "Meta 推出跨平台足球功能：覆盖 Threads、Instagram、Facebook 和 WhatsApp",
+    "summary": "Meta 在旗下多款应用中推出足球相关功能，包括运动员内容、比赛内容和产品内互动活动，旨在服务全球足球爱好者。这一举措展示了 Meta 如何通过内容整合增强用户粘性，对元宝产品经理思考如何通过垂直领域内容提升用户参与度有参考价值。",
+    "score": 65,
+    "priority": "P2",
     "type": "news",
     "channels": [
       "服务场景",
       "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://mp.weixin.qq.com/s/e4FB-uQUIbnpm2qP3OtgBg": {
     "title_clean": "千问：足球预测AI助手",
@@ -1829,13 +1837,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown": {
-    "title_clean": "Bugpilot",
-    "summary": "Bugpilot是一个讨论平台，但具体功能和产品信息不足，无法确定其与元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "v": 3
+    "title_clean": "Bugpilot：AI 软件错误调试工具",
+    "summary": "Bugpilot 是一款 AI 驱动的软件错误调试工具，能够自动检测、分析和修复代码中的错误。产品经理可关注其 AI 在代码调试场景的应用方式，以及如何将类似技术整合到元宝的代码辅助功能中，提升开发者体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   },
   "https://www.producthunt.com/products/easybilling": {
     "title_clean": "Easybilling：AI智能账单管理工具",
@@ -2298,13 +2310,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site": {
-    "title_clean": "heyly.io：讨论平台",
-    "summary": "heyly.io是一个讨论平台，但具体功能和特点在提供的描述中信息不足，无法确定其与AI助手或服务场景的关联性。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "heyly.io：AI客服对话平台",
+    "summary": "heyly.io是一款AI客服对话平台，为企业提供智能客服解决方案。该平台可能具备自然语言处理、多轮对话和客户服务自动化功能，帮助企业提升客户服务效率和用户体验，对元宝产品经理在AI客服场景设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
     "type": "product",
-    "channels": null,
-    "v": 3
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   },
   "https://www.producthunt.com/products/crustdata-2": {
     "title_clean": "CrustRecruiter：AI招聘工具",
@@ -4069,13 +4085,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/human-in-the-love": {
-    "title_clean": "Human in the Love",
-    "summary": "该资讯仅包含标题'Human in the Love'和一个指向讨论的链接，没有提供具体的产品信息、功能描述或与AI助手相关的实质性内容，无法评估其对元宝产品经理的参考价值。",
-    "score": 20,
-    "priority": "P3",
-    "type": "news",
-    "channels": null,
-    "v": 3
+    "title_clean": "Human in the Love：Claude内首个MCP约会应用",
+    "summary": "这是在Claude AI助手内推出的首个MCP(模型上下文协议)约会应用，将约会功能直接集成到AI助手环境中，为用户提供AI辅助的约会体验，展示了AI助手在社交场景中的应用可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   },
   "https://www.producthunt.com/products/lyqn-ai": {
     "title_clean": "LYQN AI：AI业务支持与人工交接系统",
@@ -4155,8 +4175,8 @@
     "v": 4
   },
   "https://www.producthunt.com/products/picone-2": {
-    "title_clean": "PicOne：macOS 菜单栏图片上传工具",
-    "summary": "PicOne 是一款 macOS 菜单栏图片上传工具，支持多平台上传，采用沙盒安全技术。这款轻量级工具为元宝产品经理提供了 macOS 环境下图片上传功能的参考案例，特别是在菜单栏交互和安全性设计方面。",
+    "title_clean": "PicOne：macOS菜单栏图片上传工具",
+    "summary": "PicOne是一款macOS菜单栏图片上传工具，支持多平台上传且沙盒安全，为用户提供便捷的图片分享功能。产品经理可参考其简洁交互设计和多平台集成方案，优化元宝的文件上传体验。",
     "score": 55,
     "priority": "P2",
     "type": "product",
@@ -4164,7 +4184,7 @@
       "服务场景",
       "多模态"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/publia": {
     "title_clean": "Publia：AI内容发布服务平台",
@@ -4216,16 +4236,16 @@
     "v": 4
   },
   "https://www.producthunt.com/products/how-hueman-are-you": {
-    "title_clean": "How Hueman Are You?：找出不同图块的视觉识别游戏",
-    "summary": "一款视觉识别游戏，玩家需要在时间结束前找出与众不同的图块。这类视觉识别能力训练对AI多模态交互和图像理解能力有参考价值，可作为元宝在视觉识别场景下的竞品分析素材。",
+    "title_clean": "How Hueman Are You：寻找不同图块游戏",
+    "summary": "这是一款限时寻找不同图块的休闲游戏，玩家需要在时间耗尽前找出与众不同的图块。作为一款简单易上手的休闲游戏，它展示了AI在游戏化交互中的应用潜力，可为元宝产品经理提供游戏化交互设计的参考。",
     "score": 45,
     "priority": "P3",
     "type": "product",
     "channels": [
-      "多模态",
-      "竞品动态"
+      "服务场景",
+      "用户需求"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/pawly-extension": {
     "title_clean": "Pawly Extension：浏览器虚拟宠物工具",
@@ -4278,16 +4298,17 @@
     "v": 4
   },
   "https://www.producthunt.com/products/detectly-2": {
-    "title_clean": "Detectly：基于车载摄像头视频的驾驶员安全评分系统",
-    "summary": "Detectly是一款将车队摄像头视频转化为驾驶员安全评分的工具，通过分析驾驶行为数据帮助车队管理者评估和提升驾驶员安全水平，对元宝在AI服务场景拓展和商业化方面具有参考价值。",
+    "title_clean": "detectly：车队摄像头驾驶安全评分工具",
+    "summary": "detectly是一款将车队摄像头视频转化为驾驶安全评分的工具，通过AI分析驾驶员行为，帮助车队管理者评估和提升驾驶安全性，对元宝在垂直领域AI服务场景拓展有参考价值。",
     "score": 65,
     "priority": "P2",
     "type": "product",
     "channels": [
+      "AI Agent",
       "服务场景",
       "商业化"
     ],
-    "v": 3
+    "v": 4
   },
   "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools": {
     "title_clean": "DevCleaner：开发工具与AI应用空间清理工具",
@@ -4719,6 +4740,130 @@
     "channels": [
       "服务场景",
       "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it": {
+    "title_clean": "Robinhood：CEO在裁员声明中未提及AI",
+    "summary": "Robinhood CEO在宣布10%裁员时未提及AI，与其他科技公司高管将裁员归咎于AI重组的做法形成鲜明对比。这反映了不同企业对AI在业务中实际价值的认知差异，对产品经理思考AI战略与组织调整的关系有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t": {
+    "title_clean": "SpaceX估值达2.7万亿美元超越亚马逊",
+    "summary": "SpaceX自股票交易以来估值增长1万亿美元，达到2.7万亿美元，超越亚马逊成为全球市值最高的公司。这一数据反映了航天科技与AI结合领域的巨大商业潜力，对元宝产品经理评估高价值科技赛道投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/portobello-delays-sale-of-legal-tech-firm-on-ai-disruption-angst": {
+    "title_clean": "Portobello：因AI担忧推迟法律科技公司Legálitas出售",
+    "summary": "私募股权公司Portobello Capital推迟出售西班牙法律科技公司Legálitas，原因是潜在投资者担忧人工智能将颠覆法律科技行业。这一事件反映了AI对传统法律服务的冲击正在影响投资决策，对元宝产品经理评估AI在专业服务领域的颠覆性影响有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/world-cup-exposes-growing-global-rift-over-prediction-markets": {
+    "title_clean": "世界杯暴露预测市场分歧",
+    "summary": "本届世界杯是预测市场如Kalshi和Polymarket兴起后首次举办，这些平台作为新型体育博彩方式迅速流行，反映了预测市场在体育领域的应用与争议。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/poland-pursues-taiwan-investments-to-end-role-as-assembly-hub": {
+    "title_clean": "波兰寻求台湾投资以结束其组装中心角色",
+    "summary": "波兰正寻求台湾企业的大量投资和技术转移，以重塑其1万亿美元的经济结构，减少作为低端组装中心的依赖，转向高科技产业升级。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/spacex-agrees-to-60-billion-cursor-takeover-post-ipo-video": {
+    "title_clean": "SpaceX以600亿美元收购AI编程工具Cursor",
+    "summary": "SpaceX将以600亿美元估值收购AI编程初创公司Cursor，埃隆·马斯克此举旨在加强公司在AI编程工具领域的能力，追赶竞争对手。这笔交易预计将在近期完成，标志着科技巨头对AI编程工具市场的进一步布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/goldman-traders-see-room-for-rally-to-broaden-beyond-ai-winners": {
+    "title_clean": "Goldman交易员：AI赢家之外的股市反弹空间",
+    "summary": "高盛交易员认为，中东紧张局势缓和为投资者提供了新理由，使其能够超越今年主导市场叙事的人工智能交易，寻找更广泛的股市反弹机会。这对产品经理了解市场资金流向变化和AI投资热度转移有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/siri-ai-catching-up-to-chatbot-competitors-video": {
+    "title_clean": "Siri AI：苹果语音助手AI能力提升",
+    "summary": "苹果新Siri AI虽主要兑现两年前的承诺，但已足以帮助苹果缓解AI危机。Bloomberg分析师Mark Gurman认为，Siri的改进使其能够与聊天机器人竞争对手抗衡，这对元宝产品经理评估语音助手AI能力提升路径有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/man-group-sees-bubble-risks-as-ai-bond-sales-break-records": {
+    "title_clean": "Man Group：AI基础设施债券销售创纪录引发泡沫风险警告",
+    "summary": "Man Group指出随着AI基础设施建设的加速，债券销售创纪录增长，同时警告其中存在泡沫风险。这对产品经理了解AI行业投资热潮背后的潜在风险有参考价值，特别是评估AI项目融资环境与可持续性。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo": {
+    "title_clean": "SpaceX将以600亿美元股票收购Cursor AI",
+    "summary": "SpaceX计划以600亿美元股票收购AI编程工具Cursor，此举旨在加强其AI业务能力。此前SpaceX在IPO中向投资者宣称其瞄准了26万亿美元的AI可寻址市场，显示其对AI领域的战略重视。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
     ],
     "v": 4
   }
