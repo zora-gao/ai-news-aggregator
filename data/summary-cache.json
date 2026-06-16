@@ -40,9 +40,9 @@
     "v": 3
   },
   "https://www.producthunt.com/products/basedash": {
-    "title_clean": "Slack Data Agent",
-    "summary": "Slack推出Data Agent，可能是基于AI的智能助手，帮助用户在Slack平台内处理和分析数据，提升工作效率。产品经理可关注其如何将AI能力集成到协作工具中，以及用户对AI助手在工作场景中的接受度。",
-    "score": 65,
+    "title_clean": "Slack Data Agent：Slack平台上的AI数据助手",
+    "summary": "Slack Data Agent是一款在Slack平台上运行的AI助手，能够帮助用户处理和分析平台内的数据信息。该产品可能为元宝团队在团队协作场景下的AI应用提供参考价值，特别是在如何将AI助手集成到现有工作流中。",
+    "score": 55,
     "priority": "P2",
     "type": "product",
     "channels": [
@@ -54,10 +54,10 @@
   },
   "https://www.producthunt.com/products/kosh-money": {
     "title_clean": "KOSH Money",
-    "summary": "KOSH Money相关信息不足，无法确定其具体功能或价值。建议获取更多产品描述信息后再评估其对元宝产品经理的参考价值。",
-    "score": 30,
+    "summary": "KOSH Money相关信息不足，仅有讨论链接，无法确定其具体功能或与AI助手/Agent的关联性，缺乏足够信息评估其对元宝产品经理的参考价值。",
+    "score": 20,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
@@ -87,13 +87,11 @@
   },
   "https://www.producthunt.com/products/medicyn": {
     "title_clean": "Medicyn",
-    "summary": "Medicyn是一个医疗相关产品，但具体功能和细节在提供的描述中信息不足，无法确定其具体用途和价值。",
+    "summary": "Medicyn 是一个医疗健康相关的产品，但具体功能和用途在提供的描述中信息不足，无法确定其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
-    "channels": [
-      "服务场景"
-    ],
+    "channels": null,
     "v": 3
   },
   "https://www.producthunt.com/products/underpay": {
@@ -385,7 +383,7 @@
   },
   "https://www.producthunt.com/products/taste-lab": {
     "title_clean": "Taste Lab",
-    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能和价值。产品经理需进一步了解其服务场景和AI应用方式。",
+    "summary": "Taste Lab是一个AI美食推荐工具，但描述信息不足，无法确认其具体功能与价值。产品经理需进一步了解其AI推荐机制、服务场景及与元宝的潜在关联。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -948,7 +946,7 @@
   },
   "https://www.producthunt.com/products/docklog": {
     "title_clean": "DockLog",
-    "summary": "DockLog是一个产品发布讨论，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝的参考价值。",
+    "summary": "DockLog是一个产品发布平台上的新工具，但描述信息不足，无法确定其具体功能和用途。产品经理需要进一步了解该产品的详细信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1006,7 +1004,7 @@
   },
   "https://www.producthunt.com/products/permute": {
     "title_clean": "Permute 4.0",
-    "summary": "Permute 4.0发布，但描述信息不足，无法确定其具体功能与AI产品关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
+    "summary": "Permute 4.0是一款文件格式转换工具，但描述信息不足，无法确定其具体功能更新或与AI产品的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1171,7 +1169,7 @@
   },
   "https://www.producthunt.com/products/tabstack": {
     "title_clean": "Tabstack Structured Extraction",
-    "summary": "Tabstack Structured Extraction 是一款结构化数据提取工具，但具体功能和用途在提供的描述中信息不足，无法确定其对元宝产品经理的参考价值。",
+    "summary": "Tabstack Structured Extraction 是一款结构化数据提取工具，但具体功能和用途在提供的描述信息中不明确，无法确定其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1724,7 +1722,7 @@
   },
   "https://www.producthunt.com/products/easybilling": {
     "title_clean": "Easybilling",
-    "summary": "Easybilling是一个产品发布页面，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其与元宝产品的相关性。",
+    "summary": "Easybilling是一款产品，但描述信息不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1758,7 +1756,7 @@
   },
   "https://www.producthunt.com/products/proxee": {
     "title_clean": "Proxee",
-    "summary": "Proxee是一个产品，但描述信息不足，无法确定其具体功能和价值。产品经理需要更多信息来评估其与元宝产品的相关性。",
+    "summary": "Proxee是一个产品，但描述信息不足，无法确定其具体功能或价值。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -1984,7 +1982,7 @@
   },
   "https://www.producthunt.com/products/vexi": {
     "title_clean": "VEXI",
-    "summary": "VEXI是一个产品发布平台，但描述信息不足，无法确定其具体功能和价值。",
+    "summary": "VEXI是一个新产品，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。需要更多信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2061,7 +2059,7 @@
   },
   "https://www.producthunt.com/products/locin-ai": {
     "title_clean": "LocIn AI",
-    "summary": "LocIn AI 是一款AI产品，但具体功能和用途在提供的描述信息中不明确，无法判断其对元宝产品经理的参考价值。",
+    "summary": "LocIn AI 是一款AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2164,7 +2162,7 @@
   },
   "https://www.producthunt.com/products/mockpilot": {
     "title_clean": "MockPilot",
-    "summary": "MockPilot是一款产品，但描述信息不足，无法确定其具体功能和用途。产品经理需要更多信息来评估其与元宝产品的相关性。",
+    "summary": "MockPilot是一个产品发布平台，但描述信息不足，无法确定其具体功能和与AI助手或Agent的相关性。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2223,12 +2221,12 @@
   },
   "https://www.producthunt.com/products/notra-3": {
     "title_clean": "Notra Image Generation",
-    "summary": "Notra Image Generation是一个图像生成工具，但描述信息不足，无法确定其具体功能、技术特点或应用场景。",
+    "summary": "Notra Image Generation是一个图像生成工具，但描述信息不足，无法确定其具体功能、技术特点或与AI助手产品的关联性。缺乏足够信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
     "channels": [
-      "AI助手"
+      "多模态"
     ],
     "v": 3
   },
@@ -2307,12 +2305,13 @@
     "v": 3
   },
   "https://www.producthunt.com/products/emailflow-ai-b2b-lead-generation": {
-    "title_clean": "EmailFlow.AI",
-    "summary": "EmailFlow.AI是一个AI邮件处理工具，但描述信息不足，无法确定其具体功能和价值。产品经理需要更多信息来判断其与元宝产品的相关性。",
-    "score": 30,
+    "title_clean": "EmailFlow.AI：AI邮件自动化工具",
+    "summary": "EmailFlow.AI是一款AI邮件自动化工具，可帮助用户自动化处理邮件流程。该产品可能提供邮件分类、自动回复、任务提取等功能，对于元宝产品经理了解AI在办公自动化场景的应用具有参考价值。",
+    "score": 45,
     "priority": "P3",
     "type": "product",
     "channels": [
+      "服务场景",
       "AI助手"
     ],
     "v": 3
@@ -2341,7 +2340,7 @@
   },
   "https://www.producthunt.com/products/memoriq": {
     "title_clean": "Memoriq",
-    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息来评估其对元宝产品的参考价值。",
+    "summary": "Memoriq是一个新产品，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。需要更多信息评估其对元宝产品经理的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -2421,7 +2420,7 @@
   },
   "https://www.producthunt.com/products/asmi-ai": {
     "title_clean": "Asmi AI",
-    "summary": "Asmi AI是一个AI产品，但具体功能和用途在提供的描述中信息不足，无法确定其具体服务内容和价值。",
+    "summary": "Asmi AI 是一款AI产品，但描述信息不足，无法确定其具体功能或价值。产品经理需要更多信息才能评估其对元宝产品的参考价值。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -3325,12 +3324,16 @@
     "v": 3
   },
   "https://www.producthunt.com/products/html-deployer-2": {
-    "title_clean": "HTML Deployer",
-    "summary": "HTML Deployer是一个网页部署工具，但描述信息不足，无法确定其具体功能与元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "HTML Deployer：从AI聊天界面直接部署网站到HTML发布工具",
+    "summary": "HTML Deployer是一款工具，允许用户直接从AI聊天界面将网站部署为已发布的HTML文件，简化了网站发布流程，为AI助手与实际开发工具的集成提供了新思路。",
+    "score": 65,
+    "priority": "P2",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
     "v": 3
   },
   "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe": {
@@ -3347,12 +3350,15 @@
     "v": 3
   },
   "https://www.producthunt.com/products/athena-desktop": {
-    "title_clean": "Athena Desktop",
-    "summary": "Athena Desktop 是一款桌面应用，但具体功能和用途在提供的描述信息中不明确，无法确定其对元宝产品经理的参考价值。",
-    "score": 30,
-    "priority": "P3",
+    "title_clean": "Athena Desktop：本地AI编程代理命令室",
+    "summary": "Athena Desktop是一款本地部署的AI编程代理命令室工具，为AI编程代理提供统一的本地操作环境，可能帮助提升AI编程工具的本地化能力和效率。",
+    "score": 65,
+    "priority": "P2",
     "type": "product",
-    "channels": null,
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
     "v": 3
   },
   "https://www.producthunt.com/products/fablewatch": {
@@ -3366,10 +3372,10 @@
   },
   "https://www.producthunt.com/products/fluxmail": {
     "title_clean": "Fluxmail",
-    "summary": "Fluxmail是一款邮件产品，但描述信息不足，无法确定其具体功能或与AI的关联性。作为产品经理，需要更多信息才能评估其对元宝产品的参考价值。",
-    "score": 30,
+    "summary": "Fluxmail相关信息不足，仅提供名称和讨论链接，无法确定其具体功能或与元宝产品的相关性。",
+    "score": 20,
     "priority": "P3",
-    "type": "product",
+    "type": "news",
     "channels": null,
     "v": 3
   },
@@ -3404,7 +3410,7 @@
   },
   "https://www.producthunt.com/products/amaroad": {
     "title_clean": "Amaroad",
-    "summary": "Amaroad是一个产品发布平台，但描述信息不足，无法确定其具体功能或价值。产品经理可能需要进一步了解该平台的具体定位和特点，以评估其对元宝产品的参考价值。",
+    "summary": "Amaroad是一个产品发布平台，但描述信息不足，无法确定其具体功能或与AI助手/Agent的相关性。产品经理需进一步了解该平台是否涉及AI聊天机器人、智能代理或相关服务场景。",
     "score": 30,
     "priority": "P3",
     "type": "product",
@@ -3651,12 +3657,151 @@
     "v": 3
   },
   "https://www.producthunt.com/products/githits": {
-    "title_clean": "GitHits beta 0.9",
-    "summary": "GitHits 发布 beta 0.9 版本，具体更新内容和功能未在描述中明确说明。由于信息不足，无法判断其对元宝产品经理的参考价值。",
-    "score": 30,
+    "title_clean": "GitHits beta 0.9：为AI编程代理提供开源代码访问工具",
+    "summary": "GitHits是一个新发布的beta版本工具，旨在为AI编程代理提供访问开源代码的能力。这一产品可能帮助AI编程助手更好地理解和生成代码，对元宝在代码辅助场景下的功能拓展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/stash-18": {
+    "title_clean": "Stash：隐藏Dock中杂乱应用的工具",
+    "summary": "Stash是一款macOS应用，允许用户将Dock中不常用的应用隐藏到\"隐藏口袋\"中，保持Dock整洁有序。这款工具解决了macOS用户界面管理痛点，为元宝产品经理提供了桌面应用组织方式的参考价值。",
+    "score": 45,
     "priority": "P3",
     "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/bossmode-your-mom-is-watching": {
+    "title_clean": "BossMode：专注管理应用，通过向妈妈展示拖延行为帮助用户提高效率",
+    "summary": "BossMode是一款专注管理应用，通过在用户拖延时向妈妈发送通知，利用社交压力机制帮助用户提高工作效率。这种利用外部监督和社交压力的专注方式，为AI助手产品在用户行为干预和习惯养成方面提供了创新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/yousaidthat-org": {
+    "title_clean": "yousaidthat.org：时间戳证明工具",
+    "summary": "yousaidthat.org 是一个时间戳证明工具，允许用户证明自己在特定时间说过某句话，防止他人抢先声明原创内容。这类工具对AI内容生成和版权保护场景有参考价值，可考虑在元宝中添加类似的时间戳验证功能。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/resumewriting-com": {
+    "title_clean": "ResumeWriting.com：专为简历写作设计的AI工具",
+    "summary": "ResumeWriting.com是一款专注于简历写作的AI工具，为求职者提供简历优化服务。该产品针对简历写作场景，可能对元宝在垂直领域AI应用开发有参考价值，尤其是如何将通用AI能力转化为特定场景的专业解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/sklm": {
+    "title_clean": "Sklm：AI Agent技能集中管理与同步平台",
+    "summary": "Sklm是一个专注于AI Agent技能管理的平台，提供技能的集中化、范围定义和同步功能，帮助AI Agent系统更高效地组织和执行各类技能。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/zenveil": {
+    "title_clean": "ZenVeil：AI安全漏洞检测与修复工具",
+    "summary": "ZenVeil是一款AI驱动的安全工具，能够帮助用户快速发现、理解和修复安全漏洞。该工具通过AI技术加速安全问题的处理流程，为开发者和安全团队提供更高效的安全解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/notum": {
+    "title_clean": "Notum：面向律师事务所的AI研究文档智能分析工具",
+    "summary": "Notum是一款专为律师事务所设计的AI驱动研究文档智能分析工具，能够帮助法律专业人士高效处理和分析法律文档，提升研究效率和专业服务能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/sift-17": {
+    "title_clean": "SIFT：AI代码调试与错误分析工具",
+    "summary": "SIFT是一款专注于代码调试的AI工具，通过剥离代码中的噪声和干扰因素，帮助开发者快速定位和修复bug。对于元宝产品经理而言，该工具展示了AI在专业开发场景中的应用价值，可作为AI助手垂直领域拓展的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/lasso-5": {
+    "title_clean": "Vidrunner：AI辅助YouTube视频发布工具",
+    "summary": "Vidrunner是一款AI工具，旨在帮助用户更快速地发布YouTube视频。该产品通过AI技术简化视频发布流程，可能涉及内容生成、编辑或自动化发布等功能，对元宝产品经理在AI辅助内容创作领域具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 3
+  },
+  "https://www.producthunt.com/products/human-in-the-love": {
+    "title_clean": "Human in the Love",
+    "summary": "该资讯仅包含标题'Human in the Love'和一个指向讨论的链接，没有提供具体的产品信息、功能描述或与AI助手相关的实质性内容，无法评估其对元宝产品经理的参考价值。",
+    "score": 20,
+    "priority": "P3",
+    "type": "news",
     "channels": null,
+    "v": 3
+  },
+  "https://www.producthunt.com/products/lyqn-ai": {
+    "title_clean": "LYQN AI：学习企业业务的AI支持系统，可转接人工",
+    "summary": "LYQN AI是一款企业级AI支持系统，能够学习特定业务知识，并在适当时候将对话转接给人工处理。这种混合AI-人工模式可能为企业客服场景提供新的解决方案，值得产品经理关注AI与人工协作的服务模式创新。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
     "v": 3
   }
 }
