@@ -68,7 +68,7 @@ export function Header({
                   }}
                 >
                   <h1 className="text-base sm:text-xl font-bold text-slate-900 dark:text-white whitespace-nowrap">
-                    AI 资讯聚合
+                    AI Radar
                   </h1>
                   <Info className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-slate-400 opacity-0 group-hover:opacity-100 transition-opacity hidden sm:block" />
                 </div>

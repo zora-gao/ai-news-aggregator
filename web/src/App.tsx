@@ -147,7 +147,7 @@ function App() {
       <footer className="border-t border-slate-200 dark:border-slate-700 py-6 mt-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-sm text-slate-500 dark:text-slate-400">
-            AI 资讯聚合 · 数据来源于多个 AI 资讯平台
+            AI Radar · 数据来源于多个 AI 资讯平台
           </p>
         </div>
       </footer>

@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI Radar · 使用指南 OnePage</title>
+<style>
+  :root {
+    --primary: #6366f1;
+    --primary-dark: #4f46e5;
+    --primary-soft: #eef2ff;
+    --text: #0f172a;
+    --text-muted: #475569;
+    --text-dim: #64748b;
+    --bg: #f8fafc;
+    --card: #ffffff;
+    --border: #e2e8f0;
+    --accent-amber: #f59e0b;
+    --accent-rose: #ef4444;
+    --accent-emerald: #10b981;
+    --accent-blue: #3b82f6;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei",
+      "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    color: var(--text);
+    background: var(--bg);
+    padding: 32px 16px 64px;
+  }
+  .page {
+    max-width: 980px;
+    margin: 0 auto;
+    background: var(--card);
+    border-radius: 20px;
+    box-shadow: 0 4px 24px rgba(15, 23, 42, 0.06);
+    overflow: hidden;
+  }
+
+  /* ===== Hero ===== */
+  .hero {
+    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+    color: #fff;
+    padding: 36px 40px 32px;
+    position: relative;
+  }
+  .hero h1 {
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    margin-bottom: 6px;
+  }
+  .hero .subtitle {
+    font-size: 14px;
+    opacity: 0.9;
+    margin-bottom: 18px;
+  }
+  .hero .url-box {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(8px);
+    padding: 10px 16px;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+  }
+  .hero .url-box code {
+    font-family: "SF Mono", Menlo, Consolas, monospace;
+    color: #fff;
+    background: transparent;
+  }
+  .hero .badges {
+    margin-top: 18px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .hero .badge {
+    background: rgba(255, 255, 255, 0.16);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  /* ===== Sections ===== */
+  .body { padding: 32px 40px 40px; }
+  section { margin-bottom: 32px; }
+  section:last-child { margin-bottom: 0; }
+
+  .section-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 14px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--primary-soft);
+  }
+  .section-title .num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    background: var(--primary);
+    color: #fff;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 700;
+  }
+
+  /* ===== Tab grid ===== */
+  .tab-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+  .tab-card {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    background: #fff;
+  }
+  .tab-card .tab-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .tab-card .tab-name {
+    font-weight: 700;
+    font-size: 15px;
+    color: var(--text);
+  }
+  .tab-card .tab-icon {
+    width: 28px;
+    height: 28px;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+  }
+  .tab-card.news .tab-icon { background: #eef2ff; color: var(--primary); }
+  .tab-card.products .tab-icon { background: #fff7ed; color: var(--accent-amber); }
+  .tab-card.skills .tab-icon { background: #fef2f2; color: var(--accent-rose); }
+  .tab-card.models .tab-icon { background: #ecfdf5; color: var(--accent-emerald); }
+  .tab-card .tab-desc {
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.65;
+  }
+
+  /* ===== Feature list ===== */
+  .feat {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  .feat-item {
+    display: flex;
+    gap: 12px;
+    padding: 14px 16px;
+    background: #f8fafc;
+    border-radius: 10px;
+    border-left: 3px solid var(--primary);
+  }
+  .feat-item .feat-icon {
+    flex-shrink: 0;
+    width: 32px;
+    height: 32px;
+    background: #fff;
+    border-radius: 8px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  }
+  .feat-item .feat-text { flex: 1; min-width: 0; }
+  .feat-item .feat-title {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--text);
+    margin-bottom: 2px;
+  }
+  .feat-item .feat-desc {
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.55;
+  }
+
+  /* ===== Card legend ===== */
+  .legend {
+    background: #f8fafc;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px;
+  }
+  .legend-row {
+    display: flex;
+    gap: 14px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+    font-size: 13.5px;
+    line-height: 1.6;
+  }
+  .legend-row:last-child { margin-bottom: 0; }
+  .legend-tag {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    min-width: 64px;
+    justify-content: center;
+  }
+  .legend-tag.p0 { background: #fef2f2; color: var(--accent-rose); }
+  .legend-tag.p1 { background: #fef3c7; color: var(--accent-amber); }
+  .legend-tag.p2 { background: #dbeafe; color: var(--accent-blue); }
+  .legend-tag.p3 { background: #f1f5f9; color: var(--text-muted); }
+  .legend-tag.score { background: #fef2f2; color: var(--accent-rose); }
+  .legend-tag.read { background: #ecfdf5; color: var(--accent-emerald); }
+  .legend-tag.fav { background: #fffbeb; color: var(--accent-amber); }
+  .legend-desc { color: var(--text-muted); }
+  .legend-desc strong { color: var(--text); }
+
+  /* ===== Steps ===== */
+  .steps {
+    counter-reset: step;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .step {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+    padding: 14px 16px;
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  }
+  .step::before {
+    counter-increment: step;
+    content: counter(step);
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    background: var(--primary);
+    color: #fff;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .step-content { flex: 1; min-width: 0; }
+  .step-title {
+    font-weight: 600;
+    font-size: 14.5px;
+    margin-bottom: 3px;
+    color: var(--text);
+  }
+  .step-desc {
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  /* ===== FAQ / Tips ===== */
+  .tips {
+    background: linear-gradient(135deg, #eef2ff 0%, #f3e8ff 100%);
+    border-radius: 12px;
+    padding: 18px 22px;
+    border-left: 4px solid var(--primary);
+  }
+  .tips h3 {
+    font-size: 14px;
+    color: var(--primary-dark);
+    margin-bottom: 8px;
+    font-weight: 700;
+  }
+  .tips ul {
+    list-style: none;
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.8;
+  }
+  .tips ul li::before {
+    content: "✓";
+    color: var(--primary);
+    font-weight: 700;
+    margin-right: 8px;
+  }
+
+  /* ===== Footer ===== */
+  .foot {
+    text-align: center;
+    color: var(--text-dim);
+    font-size: 12px;
+    padding-top: 18px;
+    border-top: 1px dashed var(--border);
+    margin-top: 24px;
+  }
+  .foot a {
+    color: var(--primary);
+    text-decoration: none;
+  }
+
+  kbd {
+    display: inline-block;
+    padding: 1px 6px;
+    background: #f1f5f9;
+    border: 1px solid var(--border);
+    border-bottom-width: 2px;
+    border-radius: 4px;
+    font-family: "SF Mono", Menlo, monospace;
+    font-size: 11.5px;
+    color: var(--text);
+  }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 720px) {
+    .body { padding: 24px 22px 32px; }
+    .hero { padding: 28px 22px; }
+    .hero h1 { font-size: 22px; }
+    .tab-grid, .feat { grid-template-columns: 1fr; }
+  }
+
+  /* ===== Print ===== */
+  @media print {
+    body { background: #fff; padding: 0; }
+    .page { box-shadow: none; border-radius: 0; }
+    .hero { background: var(--primary) !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .legend, .tips, .feat-item, .step, .tab-card { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    section { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Hero -->
+  <header class="hero">
+    <h1>📡 AI Radar · 使用指南</h1>
+    <p class="subtitle">一站式追踪 AI 领域最新动态 · 资讯 / 产品 / 项目 / 模型，每 2 小时自动更新</p>
+    <div class="url-box">
+      🔗 <code>https://zora-gao.github.io/ai-news-aggregator/</code>
+    </div>
+    <div class="badges">
+      <span class="badge">🆓 免登录直接用</span>
+      <span class="badge">📱 PC / 手机适配</span>
+      <span class="badge">🌓 深浅色模式</span>
+      <span class="badge">⚡️ 每 2 小时自动刷新</span>
+    </div>
+  </header>
+
+  <div class="body">
+
+    <!-- 1. 这是什么 -->
+    <section>
+      <div class="section-title"><span class="num">1</span>它能帮你做什么</div>
+      <p style="font-size:14px;color:var(--text-muted);line-height:1.75;">
+        把 <strong>17 个平台 / 7 大信源</strong>（Bloomberg Tech、TechCrunch AI、机器之心、AI News、Crunchbase、Meta、Google AI、Product Hunt 等）的内容聚合到一起，
+        通过 <strong>AI 自动改写中文标题、生成中文摘要、打分排序、提取标签</strong>。打开网页就能在几分钟内扫完全网最值得关注的 AI 动态——不用再挨个刷各家网站。
+      </p>
+    </section>
+
+    <!-- 2. 四个 Tab -->
+    <section>
+      <div class="section-title"><span class="num">2</span>顶部四个 Tab，各看各的</div>
+      <div class="tab-grid">
+        <div class="tab-card news">
+          <div class="tab-head">
+            <span class="tab-icon">📰</span>
+            <span class="tab-name">首页（资讯）</span>
+          </div>
+          <div class="tab-desc">
+            综合资讯流，AI 自动按价值打分排序。每条都有 P0~P3 优先级标注、AI Radar 评分、中文摘要和标签。<strong>每天打开 5 分钟扫一遍 P0/P1 就够了</strong>。
+          </div>
+        </div>
+        <div class="tab-card products">
+          <div class="tab-head">
+            <span class="tab-icon">📦</span>
+            <span class="tab-name">产品</span>
+          </div>
+          <div class="tab-desc">
+            Product Hunt 当日 / 近 7 天热门产品榜。标题统一改写为「<strong>产品名：中文功能简述</strong>」格式（如 <em>PicOne：macOS 菜单栏图片上传工具</em>），秒懂是干嘛的。
+          </div>
+        </div>
+        <div class="tab-card skills">
+          <div class="tab-head">
+            <span class="tab-icon">✨</span>
+            <span class="tab-name">Skills</span>
+          </div>
+          <div class="tab-desc">
+            GitHub 上 AI 工具 / Agent / Prompt 工程类的<strong>热门开源项目榜</strong>，按 Star 数和近 7 天涨幅排序，附中文描述与 README 摘要。
+          </div>
+        </div>
+        <div class="tab-card models">
+          <div class="tab-head">
+            <span class="tab-icon">🧠</span>
+            <span class="tab-name">Models</span>
+          </div>
+          <div class="tab-desc">
+            主流大模型一览表：上下文长度、输入输出价格、模态（文本/图像/音频/视频）、发布时间。可按上下文 / 价格 / 时间排序，方便选型。
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. 卡片信息解读 -->
+    <section>
+      <div class="section-title"><span class="num">3</span>资讯卡片上每个标记的含义</div>
+      <div class="legend">
+        <div class="legend-row">
+          <span class="legend-tag p0">P0</span>
+          <span class="legend-desc"><strong>必看级</strong>：行业重大事件、爆款产品发布、关键技术突破。每天最多十几条。</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-tag p1">P1</span>
+          <span class="legend-desc"><strong>重要</strong>：值得关注的产品更新、研究进展、商业动作。</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-tag p2">P2</span>
+          <span class="legend-desc"><strong>一般</strong>：常规资讯，赶时间可跳过。</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-tag p3">P3</span>
+          <span class="legend-desc"><strong>低优先</strong>：边角信息，仅作存档。</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-tag score">⭐ 85</span>
+          <span class="legend-desc"><strong>AI Radar 评分</strong>：综合价值分（0-100）。≥85 红色高亮，70-84 琥珀色。</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-tag read">✅ 已读</span>
+          <span class="legend-desc">点过原文后会自动标记，下次回来一眼看出什么没看过。</span>
+        </div>
+        <div class="legend-row">
+          <span class="legend-tag fav">⭐ 收藏</span>
+          <span class="legend-desc">右上角星星点亮即收藏，事后在右上角 ⭐ 入口查看你的收藏列表。</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. 主要功能 -->
+    <section>
+      <div class="section-title"><span class="num">4</span>常用功能速查</div>
+      <div class="feat">
+        <div class="feat-item">
+          <span class="feat-icon">🔍</span>
+          <div class="feat-text">
+            <div class="feat-title">搜索 + 信源筛选</div>
+            <div class="feat-desc">中部搜索框可按标题/来源关键字过滤；下方信源 chip 一键只看某个平台。</div>
+          </div>
+        </div>
+        <div class="feat-item">
+          <span class="feat-icon">⏱</span>
+          <div class="feat-text">
+            <div class="feat-title">24h / 7天 切换</div>
+            <div class="feat-desc">右上角切换近 24 小时 / 近 7 天范围，资讯和产品 Tab 都支持。</div>
+          </div>
+        </div>
+        <div class="feat-item">
+          <span class="feat-icon">⭐</span>
+          <div class="feat-text">
+            <div class="feat-title">收藏好文</div>
+            <div class="feat-desc">悬浮卡片右上角点星星收藏；顶栏 ⭐ 图标查看收藏列表，可按时间倒序浏览。</div>
+          </div>
+        </div>
+        <div class="feat-item">
+          <span class="feat-icon">🕘</span>
+          <div class="feat-text">
+            <div class="feat-title">阅读历史</div>
+            <div class="feat-desc">点过的文章自动入历史；顶栏 🕘 图标查看读过哪些，避免重复阅读。</div>
+          </div>
+        </div>
+        <div class="feat-item">
+          <span class="feat-icon">📤</span>
+          <div class="feat-text">
+            <div class="feat-title">导出备份</div>
+            <div class="feat-desc">收藏 / 历史均支持一键导出 JSON，方便备份或换设备时保存数据。</div>
+          </div>
+        </div>
+        <div class="feat-item">
+          <span class="feat-icon">🌓</span>
+          <div class="feat-text">
+            <div class="feat-title">深浅色 / Logo 入口</div>
+            <div class="feat-desc">右上角 🌙 切换深浅色主题；点左上角 Logo 可查看「全部信源」详情。</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 5. 上手三步 -->
+    <section>
+      <div class="section-title"><span class="num">5</span>三步上手</div>
+      <div class="steps">
+        <div class="step">
+          <div class="step-content">
+            <div class="step-title">打开网址，先看「首页」P0 / P1 资讯</div>
+            <div class="step-desc">页面默认按价值打分倒序排列。看红色 P0 + 琥珀 P1 标签的卡片，5 分钟扫完当日重点。</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-content">
+            <div class="step-title">看到感兴趣的，点星星收藏 / 点标题阅读原文</div>
+            <div class="step-desc">点击卡片任意位置 = 跳转原文（自动标记已读）；点击右上角 ⭐ = 收藏。</div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-content">
+            <div class="step-title">按需切到「产品 / Skills / Models」三个垂直频道</div>
+            <div class="step-desc">关注产品趋势看 Product Hunt 榜；找开源工具看 Skills；选模型看 Models 对比表。</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. 重要说明 -->
+    <section>
+      <div class="section-title"><span class="num">6</span>关于隐私与数据（重要）</div>
+      <div class="tips">
+        <h3>💡 你需要知道这几点</h3>
+        <ul>
+          <li><strong>不需要登录注册</strong>，打开就能用，所有功能立即可用。</li>
+          <li>你的 <strong>收藏 / 阅读记录</strong> 仅保存在你<strong>自己的浏览器本地</strong>（localStorage），不会上传服务器，同事之间互不可见。</li>
+          <li>换设备 / 换浏览器数据不会自动同步，需要可在 ⭐ 或 🕘 弹窗内<strong>导出 JSON 备份</strong>。</li>
+          <li>清浏览器缓存可能丢失数据，建议<strong>定期导出</strong>。</li>
+          <li>页面每 2 小时自动重新生成，刷新即获取最新内容（如缓存未更新可 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd> 强刷）。</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <div class="foot">
+      💬 问题反馈 / 想新增信源 → 联系站点维护者 ·
+      🔗 <a href="https://github.com/zora-gao/ai-news-aggregator">GitHub 仓库</a>
+    </div>
+
+  </div>
+</div>
+</body>
+</html>
