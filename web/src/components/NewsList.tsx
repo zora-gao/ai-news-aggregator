@@ -17,9 +17,13 @@ interface NewsListProps {
   onVisit: (url: string, title?: string) => void
   isFavorite?: (url: string) => boolean
   onToggleFavorite?: (url: string, title: string) => void
+  /** 平铺模式：不按日期分组，直接顺序展示（如产品 tab 还原榜单顺序） */
+  flat?: boolean
+  /** 透传给 NewsCard：隐藏 AI Radar 评分与优先级标注 */
+  hideRadarMeta?: boolean
 }
 
-export function NewsList({ items, loading, error, hasMore, onLoadMore, visitedLinks, onVisit, isFavorite, onToggleFavorite }: NewsListProps) {
+export function NewsList({ items, loading, error, hasMore, onLoadMore, visitedLinks, onVisit, isFavorite, onToggleFavorite, flat = false, hideRadarMeta = false }: NewsListProps) {
   const isVisited = (url: string) => url in visitedLinks
   const visitedCount = Object.keys(visitedLinks).length
 
@@ -42,18 +46,22 @@ export function NewsList({ items, loading, error, hasMore, onLoadMore, visitedLi
 
   const visitedInList = items.filter(item => isVisited(item.url)).length
 
-  // 按日期分组（items 已按时间倒序，分组后保持原顺序）
+  // 按日期分组（items 已按时间倒序，分组后保持原顺序）；flat 模式下不分组
   const groups: Array<{ key: string; label: string; items: NewsItem[] }> = []
-  const groupIndex = new Map<string, number>()
-  for (const item of items) {
-    const key = dateGroupKey(item.published_at || item.first_seen_at)
-    let idx = groupIndex.get(key)
-    if (idx === undefined) {
-      idx = groups.length
-      groupIndex.set(key, idx)
-      groups.push({ key, label: dateGroupLabel(item.published_at || item.first_seen_at), items: [] })
+  if (flat) {
+    groups.push({ key: '__flat__', label: '', items })
+  } else {
+    const groupIndex = new Map<string, number>()
+    for (const item of items) {
+      const key = dateGroupKey(item.published_at || item.first_seen_at)
+      let idx = groupIndex.get(key)
+      if (idx === undefined) {
+        idx = groups.length
+        groupIndex.set(key, idx)
+        groups.push({ key, label: dateGroupLabel(item.published_at || item.first_seen_at), items: [] })
+      }
+      groups[idx].items.push(item)
     }
-    groups[idx].items.push(item)
   }
 
   let globalIndex = 0
@@ -68,26 +76,31 @@ export function NewsList({ items, loading, error, hasMore, onLoadMore, visitedLi
 
       {groups.map((group) => (
         <section key={group.key}>
-          {/* 日期分组标题 */}
-          <div className="sticky top-16 z-10 flex items-center gap-2 mb-3 py-1">
-            <span className="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-semibold bg-primary-600 text-white dark:bg-primary-500 shadow-sm">
-              {group.label}
-            </span>
-            <span className="text-xs text-slate-400 dark:text-slate-500">{group.items.length} 条</span>
-            <span className="flex-1 h-px bg-slate-200 dark:bg-slate-700" />
-          </div>
+          {/* 日期分组标题（平铺模式不展示） */}
+          {!flat && (
+            <div className="sticky top-16 z-10 flex items-center gap-2 mb-3 py-1">
+              <span className="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-semibold bg-primary-600 text-white dark:bg-primary-500 shadow-sm">
+                {group.label}
+              </span>
+              <span className="text-xs text-slate-400 dark:text-slate-500">{group.items.length} 条</span>
+              <span className="flex-1 h-px bg-slate-200 dark:bg-slate-700" />
+            </div>
+          )}
 
-          {/* 时间轴：左侧竖线 + 卡片 */}
-          <div className="relative pl-5 space-y-3 before:absolute before:left-1.5 before:top-1 before:bottom-1 before:w-px before:bg-slate-200 dark:before:bg-slate-700">
+          {/* 时间轴：左侧竖线 + 卡片；平铺模式去掉竖线与节点 */}
+          <div className={flat ? 'space-y-3' : 'relative pl-5 space-y-3 before:absolute before:left-1.5 before:top-1 before:bottom-1 before:w-px before:bg-slate-200 dark:before:bg-slate-700'}>
             {group.items.map((item) => {
               const node = (
                 <div key={item.id} className="relative">
-                  <span className="absolute -left-[15px] top-5 w-2.5 h-2.5 rounded-full bg-primary-500 ring-2 ring-white dark:ring-slate-900" />
+                  {!flat && (
+                    <span className="absolute -left-[15px] top-5 w-2.5 h-2.5 rounded-full bg-primary-500 ring-2 ring-white dark:ring-slate-900" />
+                  )}
                   <NewsCard
                     item={item}
                     index={globalIndex}
                     isVisited={isVisited(item.url)}
                     isFavorite={isFavorite?.(item.url)}
+                    hideRadarMeta={hideRadarMeta}
                     onVisit={onVisit}
                     onToggleFavorite={onToggleFavorite}
                   />

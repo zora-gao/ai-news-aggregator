@@ -194,7 +194,7 @@ export function Header({
               <History className="w-4 h-4 sm:w-5 sm:h-5" />
             </button>
             <a
-              href="https://github.com/SuYxh/ai-news-aggregator"
+              href="https://github.com/zora-gao/ai-news-aggregator"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-ghost p-1.5 sm:p-2 rounded-lg"

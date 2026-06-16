@@ -56,6 +56,8 @@ export function ProductsPage({
         onVisit={onVisit}
         isFavorite={isFavorite}
         onToggleFavorite={onToggleFavorite}
+        flat
+        hideRadarMeta
       />
     </main>
   )

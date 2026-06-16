@@ -11,21 +11,23 @@ interface NewsCardProps {
   index: number
   isVisited?: boolean
   isFavorite?: boolean
+  /** 隐藏 AI Radar 评分与优先级标注（如产品 tab） */
+  hideRadarMeta?: boolean
   onVisit?: (url: string, title?: string) => void
   onToggleFavorite?: (url: string, title: string) => void
 }
 
-export function NewsCard({ item, index, isVisited = false, isFavorite = false, onVisit, onToggleFavorite }: NewsCardProps) {
+export function NewsCard({ item, index, isVisited = false, isFavorite = false, hideRadarMeta = false, onVisit, onToggleFavorite }: NewsCardProps) {
   const rawTitle = item.title_zh || item.title_en || item.title_bilingual || item.title
   // 优先使用 LLM 生成的精炼标题；无则回退到本地规则清洗
   const displayTitle = (item.title_clean && item.title_clean.trim()) || cleanTitle(rawTitle)
   const summary = item.summary?.trim() || ''
   const keywords = extractKeywords(displayTitle)
 
-  // AI Radar 准入信息
-  const priority = item.radar_priority || null
+  // AI Radar 准入信息（hideRadarMeta 时不展示评分与优先级）
+  const priority = hideRadarMeta ? null : (item.radar_priority || null)
   const channels = item.radar_channels || []
-  const score = typeof item.radar_score === 'number' && Number.isFinite(item.radar_score)
+  const score = !hideRadarMeta && typeof item.radar_score === 'number' && Number.isFinite(item.radar_score)
     ? item.radar_score
     : null
   const PRIORITY_STYLE: Record<string, string> = {
