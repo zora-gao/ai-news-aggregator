@@ -12,6 +12,8 @@ import { FavoritesModal } from './components/FavoritesModal'
 import { SwitchingOverlay } from './components/SwitchingOverlay'
 import { useTheme } from './hooks/useTheme'
 import { useNewsData } from './hooks/useNewsData'
+import { useSkillsData } from './hooks/useSkillsData'
+import { useModelsData } from './hooks/useModelsData'
 import { useVisitedLinks } from './hooks/useVisitedLinks'
 import { useFavorites } from './hooks/useFavorites'
 
@@ -56,6 +58,20 @@ function App() {
     isSwitching,
   } = useNewsData()
 
+  // 仅为顶栏「更新于 …」标签提供 generated_at；同子页面共享同一 fetch URL，
+  // 浏览器 HTTP 缓存会合并请求，不会造成额外开销。
+  const { data: skillsData } = useSkillsData(view === 'skills')
+  const { data: modelsData } = useModelsData(view === 'models')
+
+  // 根据当前 view 选择要展示的「更新时间」
+  const headerGeneratedAt =
+    view === 'skills' ? skillsData?.generated_at
+    : view === 'models' ? modelsData?.generated_at
+    : data?.generated_at
+  // windowHours 仅资讯/产品 tab 有意义（24h 或 7d 切换），Skills/Models 不显示
+  const headerWindowHours =
+    view === 'news' || view === 'products' ? data?.window_hours : undefined
+
   // 视图与 URL hash 双向同步（支持浏览器前进/后退与分享链接）
   useEffect(() => {
     const onHashChange = () => setView(getViewFromHash())
@@ -80,8 +96,8 @@ function App() {
         toggleTheme={toggleTheme} 
         onRefresh={refresh}
         loading={loading}
-        generatedAt={data?.generated_at}
-        windowHours={data?.window_hours}
+        generatedAt={headerGeneratedAt}
+        windowHours={headerWindowHours}
         onShowSources={() => setShowSourceModal(true)}
         onShowHistory={() => setShowHistoryModal(true)}
         onShowFavorites={() => setShowFavoritesModal(true)}
