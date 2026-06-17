@@ -5536,5 +5536,65 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/hsbc-s-jain-on-hormuz-strait-reopening-video": {
+    "title_clean": "HSBC高管：霍尔木兹海峡重开对航运业的影响",
+    "summary": "汇丰银行全球运输与物流主管Parash Jain表示，随着霍尔木兹海峡在美国-伊朗协议下接近重开，航运公司仍处于观望状态。这一地缘政治变化可能影响全球贸易路线和物流成本，对元宝产品经理了解国际供应链风险和AI服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/spacex-draws-800-million-from-korean-investors-on-trading-debut": {
+    "title_clean": "SpaceX：韩国投资者首日交易吸金8亿美元",
+    "summary": "SpaceX股票首日交易吸引了韩国零售投资者近8亿美元的投资，显示出当地投资者被排除在外后的强烈需求。这一市场反应对产品经理评估高价值科技公司的市场接受度和投资者信心具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/offering-on-chain-private-company-access-citi-s-khaliq-video": {
+    "title_clean": "花旗推出链上私人公司股权交易服务",
+    "summary": "花旗银行服务主管Shahmir Khaliq宣布推出新计划，允许机构客户通过区块链技术交易私人公司代币化股份。这标志着传统金融机构加速布局数字资产领域，为AI金融服务提供新的交易场景和资产类别参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/blackrock-launches-new-bitcoin-income-etf-video": {
+    "title_clean": "BlackRock 推出比特币收益型ETF",
+    "summary": "贝莱德(BlackRock)推出iShares比特币收益型ETF(BITA)，这是其数字资产战略的重要布局，为投资者提供比特币收益机会，反映了传统金融巨头对加密资产的认可，对元宝产品经理了解金融产品创新和资产配置场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests": {
+    "title_clean": "Anthropic与特朗普政府争议或推动企业用户增长",
+    "summary": "Anthropic与特朗普政府的最新争议可能反而促进了其企业用户增长，Ramp数据显示其商业用户受欢迎程度持续提升。这对元宝产品经理了解AI企业服务在政治环境下的市场反应和品牌建设有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
