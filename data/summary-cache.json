@@ -5856,5 +5856,67 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/spacex-heads-toward-fourth-day-of-gains-since-record-ipo": {
+    "title_clean": "SpaceX连续第四个交易日上涨，市值超越亚马逊",
+    "summary": "SpaceX股票连续第四个交易日上涨，市值已超越亚马逊成为全球最大公司之一。这一市场表现反映了投资者对商业航天和太空探索领域的信心增强，对元宝产品经理评估科技巨头多元化业务布局和资本市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/asia-reports-sharp-rise-in-cybercrimes-and-scams-interpol-says": {
+    "title_clean": "亚洲网络犯罪与诈骗案件激增，国际刑警组织报告",
+    "summary": "国际刑警组织最新报告显示，在部分亚洲国家，非法网络活动约占所有犯罪记录的三分之一，其中诈骗案件最为普遍且造成最严重的经济损失。这一趋势对AI安全助手产品在反欺诈、风险识别功能开发方面具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stickerwords": {
+    "title_clean": "StickerWords：现实世界单词学习工具",
+    "summary": "StickerWords是一款通过现实环境学习新单词的应用，帮助用户从周围世界中获取词汇知识。这款产品对元宝产品经理有参考价值，因为它展示了AI如何将语言学习与现实场景结合，可能启发元宝在多模态交互和场景化学习方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clipdone": {
+    "title_clean": "ClipDone：自动短视频编辑工具",
+    "summary": "ClipDone是一款自动短视频编辑工具，专注于简化短视频制作流程。该工具可能采用AI技术自动完成视频剪辑、拼接和优化等任务，帮助内容创作者快速生成短视频内容，对元宝产品经理在视频处理和内容生成功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/idmly": {
+    "title_clean": "idmly：HTML/CSS转InDesign设计工具",
+    "summary": "idmly是一款将HTML/CSS设计转换为可编辑InDesign文件的工具，解决了设计师在不同设计软件间转换格式的工作流程痛点，为元宝产品经理提供了跨平台设计协作的参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
