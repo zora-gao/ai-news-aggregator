@@ -6383,5 +6383,241 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker": {
+    "title_clean": "Google 推出搭载 Gemini 的智能音箱：用生成式 AI 实现自然对话交互",
+    "summary": "Google 发布新款 Google Home 智能音箱，售价 99.99 美元，搭载 Gemini 生成式 AI 技术，取代传统 Google Assistant 的固定命令模式，实现更自然的对话交互体验，标志着智能语音助手向对话式 AI 的演进。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/opingen-z-wants-tech-without-ai-video": {
+    "title_clean": "Gen Z Wants Tech Without AI：反AI科技产品受年轻群体青睐",
+    "summary": "Bloomberg报道，年轻一代正转向使用非AI科技产品，如赛博牌、iPod等无干扰设备，反映出对AI技术的抵触情绪。这一趋势对产品经理具有重要参考价值，提示在AI功能普及的同时，也应保留无AI选项以满足部分用户需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/france-adopts-law-to-ease-edf-grip-on-hydropower-output-spur-investment": {
+    "title_clean": "法国通过法案放宽EDF对水电市场控制，推动新一代发电能力投资",
+    "summary": "法国议会通过法案，放松法国电力公司(EDF)对水电市场的控制，此举旨在结束与欧盟的争端，并解锁数十亿欧元的新一代发电能力投资，为能源市场改革和投资环境变化提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/asml-ceo-on-ai-demand-and-supplying-musk-s-terafab-video": {
+    "title_clean": "ASML CEO谈AI需求、太空数据中心与马斯克的Terafab",
+    "summary": "ASML首席执行官Christophe Fouquet表示AI基础设施需求仍然\"巨大\"，并讨论了太空数据中心的潜力。此访谈涉及AI硬件需求、未来数据中心发展方向以及马斯克的Terafab计划，对元宝产品经理了解AI基础设施发展趋势和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/asml-ceo-warns-of-possible-supply-constraints-on-musk-s-terafab": {
+    "title_clean": "ASML CEO警告马斯克Terafab项目可能面临供应限制",
+    "summary": "ASML首席执行官Christophe Fouquet表示，该公司在服务埃隆·马斯克的Terafab等新项目时，必须确保不会出现供应限制。这反映了高端芯片制造设备供应紧张的现状，对AI芯片基础设施建设的潜在挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span": {
+    "title_clean": "The slowtech revolution：对抗手机依赖与注意力分散的运动",
+    "summary": "这是一场名为'slowtech'的科技运动，旨在帮助人们重新掌控自己的时间、生活和注意力。该运动反映了用户对减少数字依赖、提升专注力的强烈需求，为AI产品设计提供了关注用户健康与时间管理的方向参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/carmax-jbl-shares-move-on-earnings-stock-movers-video": {
+    "title_clean": "CarMax和JBL股票因财报表现波动",
+    "summary": "CarMax和JBL等公司股票因财报表现出现波动，其中La-Z-Boy第四季度调整后每股收益超出预期。这反映了零售和消费电子行业的财务表现对市场的影响，对元宝产品经理了解消费行业动态和潜在合作机会有一定参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/allenai/molmomotion": {
+    "title_clean": "MolmoMotion: 语言引导的3D运动预测",
+    "summary": "MolmoMotion是一种基于语言引导的3D运动预测技术，能够根据自然语言指令预测物体的三维运动轨迹。这项技术对AI助手在物理世界交互、机器人控制等场景的应用具有重要参考价值，可提升AI对物理世界的理解和预测能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/spacex-adds-1-trillion-in-value-since-ipo-video": {
+    "title_clean": "SpaceX上市后市值增加1万亿美元",
+    "summary": "SpaceX自近期上市以来市值迅速增加1万亿美元，总市值达到约2.7万亿美元，成为全球第五大公司，接近科技巨头地位。这一增长反映了市场对商业航天和太空探索领域的强烈信心，对元宝产品经理评估高增长科技企业的估值逻辑和用户价值认知有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/goldman-s-kaplan-on-fed-s-warsh-and-ai-capex-boom-video": {
+    "title_clean": "高盛Kaplan谈美联储Warsh与AI资本支出热潮",
+    "summary": "高盛副主席兼前达拉斯联储主席Robert Kaplan预计，美联储新任主席Kevin Warsh将在首次新闻发布会上采取更中立的立场。同时，Kaplan还讨论了AI资本支出热潮对经济的影响，这对元宝产品经理了解AI投资趋势和宏观经济环境变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/anthropic-ceo-amodei-on-compute-spend-surpassing-openai": {
+    "title_clean": "Anthropic CEO Amodei谈计算支出与超越OpenAI",
+    "summary": "Anthropic CEO Dario Amodei接受采访，讨论了与OpenAI的竞争、计算能力的爆炸式增长、五角大楼对峙等话题，为AI行业竞争格局和计算资源投入提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/google-s-100-google-home-speaker-is-available-for-preorder-and-ships-june-25": {
+    "title_clean": "Google：Gemini AI智能音箱将于6月25日上市",
+    "summary": "谷歌宣布搭载Gemini AI平台的Google Home智能音箱将于6月25日上市，售价100美元，该产品深度整合了谷歌的Gemini人工智能技术，标志着谷歌在AI硬件领域的最新布局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/ecb-s-lagarde-warns-ai-is-huge-risk-for-financial-stability": {
+    "title_clean": "欧洲央行行长拉加德警告AI对金融稳定构成重大风险",
+    "summary": "欧洲央行行长拉加德表示，人工智能可能引发危险的金融危机，欧洲央行正致力于确保这种情况不会发生。这一警示对AI金融应用的风险管控具有重要参考价值，提醒产品经理在开发金融相关AI服务时需重视稳定性与风险防范。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-17/us-order-on-anthropic-models-signals-new-era-for-ai-controls": {
+    "title_clean": "美国对Anthropic模型的新规标志AI管控新时代",
+    "summary": "美国政府发布针对Anthropic AI模型的新管控命令，涉及Mythos系统，这可能影响AI助手产品的监管环境和合规要求，对产品经理评估政策风险和调整产品策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/jpmorgan-s-david-kelly-says-ai-boom-will-refuel-risk-rally": {
+    "title_clean": "摩根大通David Kelly称AI热潮将推动股市上涨",
+    "summary": "摩根大通资产管理部门建议投资者在2026年下半年继续持有股票等高风险资产，认为AI投资热潮和消费者韧性将推动股市上涨，这对AI行业商业化前景和投资趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/macron-seeks-way-around-trump-s-ban-on-anthropic-s-ai-models": {
+    "title_clean": "马克龙寻求绕过特朗普对Anthropic AI模型的禁令",
+    "summary": "法国总统马克龙将与七国集团领导人和科技高管会谈，探索通过所谓'可信合作伙伴'部署最先进AI模型的途径，以应对美国对Anthropic AI模型的限制。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/agentic-resource-discovery-launch": {
+    "title_clean": "Agentic Resource Discovery：AI代理资源发现工具",
+    "summary": "该工具专注于让AI代理能够自主搜索和发现资源，可能涉及跨平台信息检索或资源整合能力。对于元宝产品经理而言，这反映了AI代理在资源自主获取方面的技术进展，对提升AI助手的信息获取效率和场景扩展能力有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/uber-lucid-and-nuro-plan-robotaxis-in-houston-taking-on-waymo-in-no-4-us-city": {
+    "title_clean": "Uber与Lucid和Nuro合作在休斯顿推出无人驾驶出租车",
+    "summary": "Uber将与Lucid和Nuro合作，在休斯顿推出无人驾驶出租车服务，这是美国第四大城市，此举将直接挑战Waymo在该领域的市场地位。对产品经理而言，这反映了AI自动驾驶技术在出行服务领域的商业化进展和竞争格局变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/blue-origin-says-it-will-launch-a-new-glenn-rocket-this-year": {
+    "title_clean": "Blue Origin：新格伦火箭今年将再次发射",
+    "summary": "Blue Origin正在重建其上月发生爆炸的佛罗里达发射场，计划今年重新发射新格伦火箭，重振其挑战太空竞赛的雄心。这对了解航天科技企业的产品迭代速度和危机应对策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
   }
 }
