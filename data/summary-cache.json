@@ -5596,5 +5596,265 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom": {
+    "title_clean": "新加坡电子出口创纪录增长，AI需求推动",
+    "summary": "新加坡上月电子出口创下历史最大增幅，主要受全球对AI相关设备强劲需求的推动。这一趋势表明AI硬件市场正在快速增长，对AI产品经理而言，这可能意味着AI芯片、服务器等硬件基础设施需求上升，以及AI应用与硬件协同发展的商业机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/android": {
+    "title_clean": "Android 17：Android智能系统升级",
+    "summary": "Android 17版本将Android系统升级为智能系统，可能集成AI助手功能，提升系统智能化水平。这对元宝产品经理有参考价值，可了解移动操作系统AI化趋势，探索与系统级AI助手合作的可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wolfram-mathematica": {
+    "title_clean": "Wolfram Language 15：面向人类与AI代理的计算语言",
+    "summary": "Wolfram Language 15是一款专为人类和AI代理设计的计算语言，强调人机协作与AI代理能力。该版本可能增强了AI代理的编程支持与计算能力，对元宝产品经理在AI代理功能设计与多模态交互方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/lingyi-seeks-to-raise-up-to-1-1-billion-in-hong-kong-listing": {
+    "title_clean": "Lingyi寻求在香港上市融资11亿美元",
+    "summary": "中国零一科技已开始接受香港上市投资者订单，预计最高可融资8.3亿美元(约11亿美元)。这是AI领域的重要融资动态，对了解中国AI创业公司的资本动向和估值趋势有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation": {
+    "title_clean": "韩国央行警告：AI驱动的半导体行业奖金激增可能加剧通胀",
+    "summary": "韩国央行警告称，AI驱动的半导体行业繁荣可能导致科技公司奖金激增，进而加剧整体通胀压力。这一经济信号对AI产品经理具有重要参考价值，提示需关注AI产业发展对宏观经济的影响，以及可能带来的政策变化和市场调整。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/top-fintech-gcash-owner-secures-approval-for-philippine-ipo": {
+    "title_clean": "菲律宾最大金融科技公司GCash获批进行大规模IPO",
+    "summary": "菲律宾顶级金融科技公司GCash的母公司已获得董事会和股东批准，有望进行该国历史上规模最大的首次公开募股。这一动向对元宝产品经理具有参考价值，反映了东南亚金融科技市场的活跃度和资本对数字支付解决方案的认可。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/infinite-the-growth-engineering-agent": {
+    "title_clean": "Infinite：统一数据源运行时工具",
+    "summary": "Infinite是一款运行时工具，将GA4、PostHog和Stripe等数据源统一到本地数据库，简化数据整合流程。产品经理可参考其数据整合方案，优化元宝的数据处理能力与多平台兼容性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/redactify": {
+    "title_clean": "Redactify：视频音频自动内容审查工具",
+    "summary": "Redactify是一款自动化视频和音频内容审查工具，能够自动检测并过滤不当内容。该工具对元宝产品经理有参考价值，特别是在内容安全审核和AI内容识别方面，可作为AI助手内容过滤功能的竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/snapchat": {
+    "title_clean": "Snapchat SPECS：轻量化透明眼镜内置电脑",
+    "summary": "Snapchat推出SPECS，这是一款轻量化透明眼镜，内置强大计算能力。这款产品代表了AR眼镜领域的新进展，对元宝产品经理在探索AR交互方式和可穿戴设备AI应用场景方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/kalshi-s-mansour-sees-uptick-in-small-business-hedging-video": {
+    "title_clean": "Kalshi创始人谈中小企业对冲工具使用增长",
+    "summary": "Kalshi联合创始人Tarek Mansour在彭博市场结构会议上讨论了中小企业对冲工具使用率的增长趋势。这反映了金融科技领域中小企业的风险管理需求变化，对元宝在金融服务场景拓展方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/vitrine": {
+    "title_clean": "Vitrine：照片转壁纸工具",
+    "summary": "Vitrine是一款可以将任意照片转换为精美壁纸的工具，为用户提供个性化桌面背景解决方案。这类图像处理工具对元宝在多模态交互和用户个性化服务场景方面具有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/framer": {
+    "title_clean": "Framer 3.0：AI网站构建工具更新",
+    "summary": "Framer 3.0版本发布，新增AI助手功能、分支编辑、社区功能和全新设计。作为网站构建工具，此次更新聚焦AI能力提升和协作功能增强，为产品经理提供AI工具如何融入传统SaaS产品的参考案例。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tapsign": {
+    "title_clean": "TapSign：电子文档签名管理工具",
+    "summary": "TapSign是一款电子文档处理工具，提供发送、签名和管理文档的功能，简化了文档流转流程。对于产品经理而言，这反映了电子签名和文档管理场景的AI应用机会，可作为元宝办公服务场景的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mirlo": {
+    "title_clean": "Mirlo：无算法社交媒体平台",
+    "summary": "Mirlo是一款专注于真实社交连接的社交媒体平台，取消了点赞功能和算法推荐，旨在促进用户之间的真实互动和深度连接，为产品经理提供去中心化社交产品设计思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tyto": {
+    "title_clean": "Tyto by ai-coustics：语音AI性能预测工具",
+    "summary": "Tyto是一款音频分析工具，能够预测语音AI系统的性能表现。产品经理可参考其技术方案，评估语音识别、合成等AI功能的准确性和可靠性，优化产品中的语音交互体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cilantro": {
+    "title_clean": "Cilantro：账户变化监控工具",
+    "summary": "Cilantro是一款账户监控工具，能够追踪用户账户的变化并及时通知用户。对于产品经理而言，这类工具展示了如何通过自动化监控简化用户对多个账户状态的管理，可能启发元宝在账户安全或信息聚合方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dopami": {
+    "title_clean": "Dopami：ADHD家务管理工具",
+    "summary": "Dopami是一款专为ADHD人群设计的家务管理工具，旨在减轻家务任务带来的心理负担，帮助用户更高效地完成日常家务。这款产品针对特定人群的需求，为AI助手在垂直场景的应用提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tapfree-for-android-2": {
+    "title_clean": "Tapfree for Chrome：屏幕自适应语音输入工具",
+    "summary": "Tapfree for Chrome是一款浏览器扩展工具，能够根据屏幕上显示的内容自适应调整语音输入功能，帮助用户更高效地进行语音输入操作，可能为元宝的多模态交互能力提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/universalmigrator": {
+    "title_clean": "UniversalMigrator：AI代码迁移工具",
+    "summary": "UniversalMigrator是一款AI驱动的代码迁移工具，能够支持113种编程语言的遗留代码迁移评估与分类。该工具可帮助开发者快速分析旧代码库，识别迁移优先级，大幅降低代码现代化过程中的技术债务风险，对AI辅助软件开发场景具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/swytchcode": {
+    "title_clean": "Swytchcode CLI：AI代理API执行层工具",
+    "summary": "Swytchcode CLI是一个专为AI代理设计的API执行层工具，可能帮助AI代理更高效地调用和执行API操作。对于元宝产品经理而言，这代表了AI代理技术栈中一个重要的基础设施组件，值得关注其如何简化AI代理与外部系统的集成方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/locus-founder": {
+    "title_clean": "Locus：AI商业代理工具",
+    "summary": "Locus是一款AI代理工具，能够构建并运行用户的业务。它通过文本交互方式，为用户提供商业运营的自动化解决方案，对产品经理探索AI在商业服务场景的应用具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }
