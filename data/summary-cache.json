@@ -5401,5 +5401,140 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/hsbc-google-ai-partnership-set-to-add-over-100-million-gains": {
+    "title_clean": "HSBC通过谷歌AI工具预计获得超1亿美元收益",
+    "summary": "汇丰银行宣布将使用谷歌云的AI技术在全球范围内部署人工智能应用，多个项目预计各自可带来超过1亿美元收益。这展示了大型金融机构采用AI技术提升运营效率和创造商业价值的实际案例，对AI服务在金融场景的商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/softbank-scales-back-latin-america-tech-bets-as-venture-capital-boom-fades": {
+    "title_clean": "软银缩减拉丁美洲科技投资：风险投资热潮退去",
+    "summary": "软银集团在拉丁美洲难以找到适合重大投资的新创公司，反映出当地科技热潮已从创纪录的风险投资水平急剧降温。这一趋势对元宝产品经理评估新兴市场AI投资环境和风险资本流向变化具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-16/brookfield-backed-data-center-firm-csquare-files-for-us-ipo": {
+    "title_clean": "Csquare：Brookfield支持的数据中心公司申请美国IPO",
+    "summary": "Csquare Inc.是一家由Brookfield Corp.支持的数据中心公司，已正式申请在美国进行首次公开募股。此次IPO与人工智能基础设施建设热潮相关，反映了AI基础设施领域的投资活跃度。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039445&idx=3&sn=c6160d47897b8878794fbceb0493db85": {
+    "title_clean": "从贝叶斯到大语言模型：一文详解「时序点过程」近年进展",
+    "summary": "该文章系统介绍了时序点过程从贝叶斯方法到大语言模型的发展历程，梳理了近年来的技术进展。对元宝产品经理了解AI时序数据处理方法、模型演进路径以及可能的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039342&idx=1&sn=a89fdec22f2d904c9680f235e3385960": {
+    "title_clean": "DeepSeek首次融资落地：募集超500亿，估值超3300亿元",
+    "summary": "DeepSeek完成首次融资，募集资金超过500亿元，估值达到3300亿元。这一融资规模在AI领域极为罕见，反映了市场对国产大模型企业的强劲信心，对元宝产品经理评估AI创业公司融资趋势和估值标准具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/ai-can-play-significant-role-in-tech-for-managing-diabetes-says-david-roman": {
+    "title_clean": "AI在糖尿病管理技术中扮演重要角色",
+    "summary": "高盛医疗科技分析师David Roman表示，AI在帮助患者管理糖尿病方面扮演着'重要'角色，包括Abbott等公司正在开发相关技术。这为元宝在健康服务场景的AI应用提供了行业参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039342&idx=2&sn=7f2395137e94606a236b742b1ae3e0a3": {
+    "title_clean": "XtraGPT：AI学术写作辅助工具",
+    "summary": "XtraGPT是一款专注于学术写作的AI工具，旨在帮助用户在AI时代更高效地撰写论文。该工具重新定义了AI辅助学术写作的方式，可能提供从文献整理到内容生成的全流程支持，对元宝产品经理在垂直领域AI应用开发方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/bloomberg-crypto-6-16-2026-video": {
+    "title_clean": "Bloomberg Crypto：去中心化金融行业动态",
+    "summary": "Bloomberg Crypto 节目聚焦去中心化金融领域，今日嘉宾包括花旗服务主管 Shahmir Khaliq 和贝莱德全球数字资产主管。该节目关注塑造去中心化金融世界的人物、交易和技术，为金融科技和AI服务场景提供行业洞察。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/bloomberg-tech-6-16-2026-video": {
+    "title_clean": "SpaceX完成60亿美元收购Cursor，市值超越亚马逊",
+    "summary": "SpaceX在第三交易日股价飙升，完成对AI代码助手Cursor的60亿美元收购，公司市值超越亚马逊。同时，Anthropic与美国官员会面，试图解决国家安全争议。这一收购表明AI工具领域正成为科技巨头战略重点。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds": {
+    "title_clean": "美国消费者调查显示：60%对品牌使用'AI'表述反感",
+    "summary": "WordPress VIP最新调查显示，尽管企业 increasingly 将AI搜索视为重要引流渠道，但60%的美国消费者对品牌使用'AI'表述表示反感，反映出消费者对AI生成内容的警惕心理。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-16/binance-prepares-for-eu-exit-with-local-license-in-limbo-video": {
+    "title_clean": "币安准备退出欧盟，当地许可证申请陷入停滞",
+    "summary": "币安正准备停止在欧盟提供服务，因其获得当地运营许可证的申请陷入停滞。这一动态对元宝产品经理有参考价值，反映了加密货币平台在合规压力下的市场策略调整，可能影响全球AI服务提供商的跨境运营策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
