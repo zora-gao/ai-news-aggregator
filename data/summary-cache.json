@@ -6619,5 +6619,207 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition": {
+    "title_clean": "Anthropic加入碳移除联盟Frontier",
+    "summary": "Anthropic成为首家加入Frontier碳移除联盟的AI初创公司，该联盟获得9.15亿美元新承诺资金，用于资助碳移除项目。这反映了AI企业对环境责任的重视，可能影响行业ESG标准和可持续发展策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms": {
+    "title_clean": "社交媒体新趋势：用户可控算法",
+    "summary": "社交媒体平台如Threads、Instagram和TikTok推出新工具，允许用户直接控制推荐算法，实现个性化内容定制。这一趋势对AI助手产品具有重要参考价值，特别是在用户偏好学习和个性化推荐系统设计方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/apple-to-launch-camera-airpods-foldable-iphone-in-2027-video": {
+    "title_clean": "Apple计划2027年推出带摄像头的AirPods和折叠屏iPhone",
+    "summary": "Apple计划在未来两年内推出带摄像头的AirPods、智能眼镜以及折叠屏iPhone，作为其AI战略的重要产品布局。这些新产品将增强Apple在可穿戴设备和移动终端领域的竞争力，同时拓展AI应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/bloomberg-tech-6-17-2026-video": {
+    "title_clean": "Anthropic获美国政府警告，SpaceX股价连续四日下跌",
+    "summary": "美国商务部长警告Anthropic需获得政府许可才能向外国公民提供其最先进的AI模型访问权限。同时，SpaceX股价连续第四个交易日下跌。此事件反映了AI领域面临的安全监管挑战，对元宝产品经理了解AI监管政策变化及合规要求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/ai-health-startup-wants-to-assist-half-of-latin-american-doctors": {
+    "title_clean": "AI Health Startup：拉丁美洲医生AI助手服务计划",
+    "summary": "Andreessen Horowitz支持的拉丁美洲医疗初创公司计划到2027年底将其AI助手部署给该地区190万医生中的50%，这是一项利用AI技术改善医疗服务的重大举措，对元宝在医疗垂直领域的AI助手布局具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names": {
+    "title_clean": "Odyssey：世界模型初创公司获14.5亿美元估值",
+    "summary": "Odyssey是一家专注于世界模型的AI初创公司，获得亚马逊等知名机构投资，估值达14.5亿美元。世界模型被视为LLM之后的AI发展方向，Odyssey的融资表明这一领域正获得主流资本关注，对元宝探索下一代AI架构具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows": {
+    "title_clean": "美国民众对AI社会影响持悲观态度：仅16%认为AI将带来积极影响",
+    "summary": "皮尤研究中心最新报告显示，尽管华尔街看好AI，但美国民众对AI的社会影响持明显悲观态度，仅16%的受访者认为AI将带来积极影响。这一数据反映了普通用户与行业专家对AI认知的显著差距，对产品经理了解用户真实态度和潜在抵触情绪具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/capital-factory-ceo-baer-killed-in-private-plane-crash-in-texas": {
+    "title_clean": "Capital Factory CEO在私人飞机坠毁事故中遇难",
+    "summary": "Capital Factory创始人兼CEO Joshua Baer在德克萨斯州南部的私人飞机坠毁事故中不幸遇难。作为知名风投机构负责人，这一事件可能影响当地创投生态和元宝在相关领域的合作机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/challenges-for-radio-communication-in-space-video": {
+    "title_clean": "太空通信挑战：马斯克计划2028年部署太空数据中心",
+    "summary": "马斯克计划从2028年开始在太空部署数据中心，但太空环境面临卫星与地面通信等计算挑战。前软件主管Dan Roelker探讨了太空通信的技术难题，这对元宝产品经理了解未来AI基础设施布局和边缘计算场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/vsco-challenges-adobe-with-new-app-and-a-500-plan-for-pros": {
+    "title_clean": "VSCO推出新应用与专业版计划，挑战Adobe市场地位",
+    "summary": "VSCO作为知名摄影平台，推出更先进的iOS应用和一体化订阅计划，直接与Adobe竞争。这对元宝产品经理有参考价值，展示了专业图像处理领域的竞争格局和订阅模式创新，可能启发AI助手在创意工具领域的商业化策略。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it": {
+    "title_clean": "XDOF：机器人训练数据采集服务提供商",
+    "summary": "XDOF为AI实验室提供机器人训练数据采集服务，解决物理AI发展面临的数据难题。随着物理AI试图达到LLMs的成就，这种数据采集服务成为关键支撑，为AI产品经理提供了机器人领域数据获取的新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature": {
+    "title_clean": "AMIE：医疗对话AI系统",
+    "summary": "谷歌研究发表于《Nature》的AMIE医疗AI系统在复杂疾病管理方面表现与初级保健医生相当，展示了对话式AI在医疗健康领域的应用潜力，为AI助手在专业服务场景的拓展提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai": {
+    "title_clean": "Pramaana Labs：AI形式验证工具",
+    "summary": "Pramaana Labs获Khosla Ventures 2700万美元种子轮融资，专注于为法律、药物发现和税务准备等高敏感领域提供AI形式验证服务，解决AI系统在这些领域中错误成本高、可靠性要求严苛的问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/wrong-way-ai-trade-costs-boca-raton-stock-picker-50-billion": {
+    "title_clean": "投资者错失Nvidia转投Adobe导致50亿美元损失",
+    "summary": "一位佛罗里达州股票投资者因放弃英伟达(Nvidia)转而投资Adobe，错失了科技股热潮，导致约50亿美元的投资损失。这一案例反映了市场热点转换和投资决策对投资回报的重大影响，对产品经理了解市场趋势和用户投资行为有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/the-latest-on-allbirds-abrupt-pivot-to-ai-a-new-name-and-ceo": {
+    "title_clean": "Allbirds：AI转型更名并任命新CEO",
+    "summary": "Allbirds从曾经流行的羊毛鞋品牌转型为AI公司，正式更名为Smartbird并任命新CEO。这一转型反映了传统品牌向AI领域寻求新增长路径的趋势，对元宝产品经理了解传统企业AI战略调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/ai-chemist-improves-reaction": {
+    "title_clean": "OpenAI与Molecule.one展示近自主AI化学家改进药物合成反应",
+    "summary": "OpenAI与Molecule.one合作展示使用GPT-5.4的近自主AI化学家如何改进药物合成中的关键反应，推动药物化学研究进展。这一成果展示了AI在复杂化学合成中的应用潜力，为药物研发提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }

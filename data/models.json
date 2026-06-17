@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T16:53:06.708Z",
+  "generated_at": "2026-06-17T20:05:58.833Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
@@ -1165,9 +1165,9 @@
       "output_modalities": [
         "text"
       ],
-      "price_in": 0.435,
-      "price_out": 0.87,
-      "is_free": false,
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
       "supports_tools": true,
       "supports_reasoning": true,
       "description": "MiMo-V2.5-Pro is Xiaomi’s flagship model, delivering strong performance in general agentic capabilities, complex software engineering, and long-horizon tasks, with top rankings on benchmarks such as ClawEval, GDPVal, and SWE-bench Pro....",
