@@ -7143,5 +7143,518 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/vela-7": {
+    "title_clean": "VELA：AI代码安全执行工具",
+    "summary": "VELA是一个专注于安全执行AI生成代码和不可信代码的工具，为AI开发者提供代码安全保障，解决AI生成代码的安全执行问题，对元宝产品经理在AI代码安全执行领域的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tabnxt": {
+    "title_clean": "Tabnxt：AI标签页内存管理工具",
+    "summary": "Tabnxt是一款AI标签页管理工具，能够智能挂起占用大量内存的后台标签页，优化浏览器性能。对于元宝产品经理而言，这提供了AI辅助系统资源管理的思路，可参考其智能识别和优化后台进程的机制，提升AI助手在多任务环境下的资源利用效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure": {
+    "title_clean": "AI-Native：Magento电商统一控制平台",
+    "summary": "该产品为Magento电商平台提供统一的控制面板，集成Claude Code网页功能，帮助电商企业更高效地管理和运营在线业务。对元宝产品经理的参考价值在于了解AI如何赋能传统电商平台管理，以及AI助手在B端服务场景的应用可能性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/tine-2": {
+    "title_clean": "Tine：AI桌面自动操作工具",
+    "summary": "Tine是一款AI桌面光标工具，能够自动执行用户任务，通过光标操作实现桌面自动化，为AI助手在桌面场景的应用提供了新思路，对元宝产品经理探索桌面自动化功能有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/instantdelay": {
+    "title_clean": "InstantDelay：直播流延迟调整工具",
+    "summary": "InstantDelay是一款允许用户在直播过程中实时添加、移除或调整流延迟的工具，为直播内容创作者提供更灵活的直播控制能力，有助于解决直播中的内容同步和内容审核问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cliptop": {
+    "title_clean": "Cliptop：Mac剪贴板历史记录工具",
+    "summary": "Cliptop是一款专为Mac设计的剪贴板历史记录工具，能在macOS的刘海屏下方显示剪贴板内容，方便用户快速访问和管理复制过的文本、图片等内容。这款产品对元宝产品经理有参考价值，因为它展示了如何在特定设备上优化剪贴板这一基础功能，可能启发元宝在多设备同步、内容管理方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/layerproof-social-content-generation": {
+    "title_clean": "LayerProof Bristol：AI客户报告生成工具",
+    "summary": "LayerProof Bristol是一款AI报告生成工具，专注于创建客户易于阅读和理解的专业报告。该产品通过AI技术帮助用户生成结构清晰、内容专业的报告，可能对元宝在提升报告生成质量和客户沟通方面提供参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/genie-mentions": {
+    "title_clean": "Genie Mentions：AI社交关系管理工具",
+    "summary": "Genie Mentions是一款AI工具，旨在帮助用户管理社交关系，连接用户及其生活中的重要人物。该产品可能通过AI技术帮助用户维护社交网络、安排社交活动或提供社交建议，对产品经理在社交AI和人际关系管理领域的产品设计具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/deskarcade": {
+    "title_clean": "DeskArcade：菜单栏游戏工具",
+    "summary": "DeskArcade是一款可在菜单栏运行的迷你游戏工具，允许用户在任何应用程序上方直接玩游戏，提供碎片化娱乐体验。这类轻量级娱乐工具对AI助手产品在休闲场景下的功能拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/splice-3": {
+    "title_clean": "Splice：Mac端表情包与GIF工具",
+    "summary": "Splice是一款Mac应用，允许用户在系统任何地方插入表情包和GIF动图。这款产品解决了用户在聊天、邮件等场景中快速添加表情和动图的需求，对元宝产品经理在丰富聊天交互体验方面有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/the-city-mesh": {
+    "title_clean": "The City Mesh：3D赞助城市项目融资平台",
+    "summary": "The City Mesh是一个创新的项目融资平台，通过构建由赞助商组成的3D虚拟城市来为项目筹集资金。这种可视化融资方式为项目方提供了展示赞助商的新渠道，也为赞助商提供了品牌曝光机会，为产品经理探索创新融资模式与品牌合作场景提供了参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cadam": {
+    "title_clean": "CADAM：AI 3D建模工具",
+    "summary": "CADAM是一款AI驱动的3D建模工具，定位为Tinkercad的AI版本，简化3D设计流程。产品经理可关注其如何通过AI降低3D建模门槛，这对元宝拓展设计类AI服务场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/merlin-by-encord": {
+    "title_clean": "Merlin by Encord：AI数据基础设施管理工具",
+    "summary": "Merlin是一款AI数据基础设施管理工具，通过对话式界面帮助用户统一管理AI数据工作流。该产品对元宝产品经理有参考价值，特别是在AI数据处理流程优化和用户交互设计方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/adapt-3": {
+    "title_clean": "Adapt：企业任务协作AI助手",
+    "summary": "Adapt是一款企业级AI助手，专注于帮助团队高效完成工作任务。它能够理解企业内部信息，协助员工处理各类任务，提升团队协作效率，对元宝产品经理在AI助手企业应用场景方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ploy-ai": {
+    "title_clean": "Ploy.ai：网站增长转化工具",
+    "summary": "Ploy.ai将网站转化为企业增长引擎，通过AI技术优化网站内容与交互，提升用户转化率。产品经理可关注其如何将静态网站转变为主动获客工具，这对元宝在服务场景拓展与商业化模式上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/locofy-ai": {
+    "title_clean": "Locofy：设计转代码AI代理工具",
+    "summary": "Locofy是一个连接Figma与Cursor、Claude的AI代理前端工具，能够将设计稿自动转换为代码，实现设计到代码的自动化转换，为产品经理提供提升开发效率的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/japanly-aeo": {
+    "title_clean": "Japanly AEO：日本AI搜索品牌推荐检测工具",
+    "summary": "Japanly AEO是一款帮助品牌检测日本AI搜索是否会推荐其产品的工具。产品经理可借此了解日本市场AI搜索的推荐机制，为品牌优化和本地化策略提供参考，特别是在AI搜索结果影响品牌曝光的背景下。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI搜索",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/buddy-free-figma-agent": {
+    "title_clean": "Buddy：Figma智能助手工具",
+    "summary": "Buddy是一款免费Figma智能助手，能够导入各类内容到Figma设计平台，帮助设计师提升工作效率，简化设计流程，对元宝在AI辅助设计工具方向的产品规划具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/honestly": {
+    "title_clean": "Honestly：社交媒体产品真实反馈收集工具",
+    "summary": "Honestly是一个产品反馈收集工具，通过聚合Reddit和TikTok等社交媒体平台上用户对产品的真实评价，帮助产品经理获取未经筛选的用户意见，了解市场真实反应。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cashout-quit-sportsbooks": {
+    "title_clean": "CashOut：体育博彩应用拦截与储蓄追踪工具",
+    "summary": "CashOut是一款体育博彩应用拦截工具，能够阻止用户访问博彩应用，并追踪用户因此节省的金额。这款产品针对有博彩习惯的用户，提供自律管理功能，帮助用户控制博彩行为，对产品经理了解特定场景下的AI自律工具设计有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/voiceos": {
+    "title_clean": "VoiceOS：电脑语音助手工具",
+    "summary": "VoiceOS是一款电脑语音助手，旨在为用户提供类似JARVIS的智能语音交互体验，能够通过语音指令控制电脑操作，提升人机交互效率。产品经理可关注其语音交互设计、功能实现方式和用户场景应用，为元宝的语音功能开发提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/refuse": {
+    "title_clean": "Refuse：AI安全依赖包管理工具",
+    "summary": "Refuse是一款专为AI应用设计的依赖包安全工具，能够阻止存在漏洞的软件包安装，保护AI系统免受潜在安全威胁。产品经理可参考其将安全防护能力集成到AI开发流程中的思路，提升AI产品的安全性和可靠性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/d-id": {
+    "title_clean": "D-ID：交互式对话视频生成工具",
+    "summary": "D-ID推出能够与用户进行对话的交互式视频技术，使视频内容能够实时回应观众互动。这项技术为AI视频交互提供了新思路，对元宝在多模态交互和视频内容生成方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/otty": {
+    "title_clean": "Otty：Mac原生终端模拟器",
+    "summary": "Otty是一款专为Mac设计的原生终端模拟器，注重美观与用户体验。作为开发工具，它可能通过优化界面和交互方式，为AI助手在命令行操作场景下的用户体验提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/juno-16": {
+    "title_clean": "Juno：Mac本地语音输入工具",
+    "summary": "Juno是一款面向Mac的免费本地语音输入工具，允许用户通过语音而非键盘进行输入操作，旨在提升Mac用户的输入效率和交互体验。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/retool": {
+    "title_clean": "Retool：企业低代码应用构建平台",
+    "summary": "Retool提供低代码平台，允许企业快速构建内部工具和应用程序，同时提供统一的管理和治理功能。对于元宝产品经理，这展示了企业级AI工具构建的可行性和市场需求，特别是在提高开发效率和简化管理方面的价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/plurimi-cio-sees-value-in-ai-supply-chain-video": {
+    "title_clean": "Plurimi CIO：看好AI供应链价值",
+    "summary": "Plurimi Wealth首席投资官Patrick Armstrong表示看好AI供应链价值，特别提到美光、三星和英伟达等股票。这反映了投资机构对AI基础设施供应商的信心，对元宝产品经理了解AI产业链布局和投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/viktor": {
+    "title_clean": "Viktor for Microsoft Teams：AI员工助手",
+    "summary": "Viktor是一款集成在Microsoft Teams中的AI员工助手，旨在提升团队协作效率。作为AI助手类产品，它展示了在企业协作场景中AI助手的应用价值，为元宝产品经理提供了在企业级AI助手功能设计方面的参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/china-stock-gauge-heads-for-bear-market-as-tech-weakness-extends": {
+    "title_clean": "中国股市指标接近熊市：经济增长放缓与科技股下滑",
+    "summary": "中国主要股市指标濒临熊市，反映了对经济增长前景的担忧以及互联网和消费板块的疲软表现。这一市场动态可能影响中国科技企业的融资环境和消费者信心，对元宝产品经理评估中国市场风险和用户消费行为变化具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/blackstone-s-airtrunk-seeks-3-billion-loan-for-sydney-project": {
+    "title_clean": "Blackstone旗下AirTrunk寻求30亿美元贷款支持悉尼数据中心项目",
+    "summary": "Blackstone旗下数据中心运营商AirTrunk正与银行洽谈43亿澳元(约30亿美元)贷款，用于支持澳大利亚新项目。这反映了数据中心基础设施投资持续增长，对AI服务提供商的物理基础设施布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook": {
+    "title_clean": "Instagram和Facebook推出青少年账户安全更新",
+    "summary": "Meta宣布为Instagram、Facebook和Messenger推出一系列安全更新，旨在加强对青少年的保护措施。这些更新反映了社交平台对青少年用户安全问题的重视，为元宝产品在青少年安全功能设计方面提供了参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/elvin": {
+    "title_clean": "Elvin：主动式AI工作助手",
+    "summary": "Elvin是一款主动式AI助手，能够在用户提出需求前主动发现并完成工作任务。这种预判式的工作完成方式可能为AI助手产品设计提供新的交互范式，特别是在自动化任务处理和用户需求预测方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/kingboard-s-570-rally-is-being-powered-by-mainland-investors": {
+    "title_clean": "Kingboard：中国大陆投资者推动的AI概念股暴涨",
+    "summary": "中国大陆投资者大幅增持AI概念股Kingboard Laminates Holdings Ltd.，持股比例增至13%，推动该股今年上涨570%。这反映了市场对AI相关投资机会的热度，可作为产品经理判断AI商业化趋势和投资者偏好的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/circles-sold-phone-spy-tools-to-repressive-states-report-says": {
+    "title_clean": "Circles：向专制国家销售手机监控工具",
+    "summary": "保加利亚公司Circles向有镇压记录的国家政府销售争议性监控技术，使当局能够追踪手机位置并窃听私人通讯。这反映了AI监控技术的伦理风险和监管挑战，对产品经理评估AI工具的安全边界和合规设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-18/ai-for-industries-europe-s-mistral-siemens-schneider-lead-tech-vanguard": {
+    "title_clean": "欧洲押注工业AI挽救制造业优势",
+    "summary": "欧洲正加速将人工智能引入工厂车间，以提高生产效率，试图通过工业AI技术挽救其制造业竞争优势。这一趋势对元宝产品经理有重要参考价值，展示了AI在传统工业场景的应用机会，特别是自动化和效率提升方面的服务场景拓展。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/korea-rejects-baemin-coupang-settlement-bids-in-antitrust-probe": {
+    "title_clean": "韩国拒绝Baemin和Coupang的反垄断调查和解提案",
+    "summary": "韩国反垄断监管机构拒绝了两大外卖平台Baemin和Coupang Eats的和解提案，这两家公司可能面临更严厉的处罚。这一决定对元宝产品经理了解外卖市场竞争格局和监管趋势有参考价值，特别是在考虑进入类似市场时需注意合规风险。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs": {
+    "title_clean": "如何关闭 Google Docs 中的 AI 功能",
+    "summary": "文章介绍了如何禁用 Google Docs 中的'使用 Gemini 写作'弹窗功能，帮助用户控制文档编辑中的 AI 辅助选项，这对产品经理了解用户对 AI 功能的接受度和控制需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/hillhouse-seeks-600-million-loan-to-fund-dayone-investment": {
+    "title_clean": "Hillhouse寻求6亿美元贷款投资DayOne数据中心",
+    "summary": "高瓴资本正与银行洽谈约6亿美元贷款，用于投资数据中心运营商DayOne Data Centers。这反映了AI基础设施投资热潮，对元宝产品经理了解AI算力资源布局和数据中心服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/opinion-can-musk-pull-off-a-spacex-tesla-merger-video": {
+    "title_clean": "马斯克能否推动SpaceX与特斯拉合并？",
+    "summary": "彭博社专栏作者Liam Denning探讨马斯克是否应将SpaceX与特斯拉合并，指出其中存在巨大利益冲突。这对元宝产品经理了解科技巨头战略决策与潜在商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/lenovo-seeks-2-billion-in-seven-year-convertible-bonds": {
+    "title_clean": "联想发行20亿美元七年期可转换债券",
+    "summary": "联想集团通过发行七年期可转换债券筹集20亿美元资金，这是该公司两年后再次从沙特主权财富基金获得类似规模的融资。这一融资动向反映了大型科技企业在当前市场环境下的资本运作策略，对AI硬件和基础设施领域的资金流动具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/china-s-ai-race-spurs-emergence-of-winner-laggard-pair-trade": {
+    "title_clean": "中国AI实验室股价暴涨170%强化赢家输家配对交易",
+    "summary": "中国AI行业出现明显的赢家输家配对交易现象，投资者涌入被视为领先的中国AI实验室股票，同时做空其竞争对手，反映出市场对AI商业化竞争格局的判断。这对元宝产品经理了解AI行业投资趋势和市场对AI商业化路径的预期具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }

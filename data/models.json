@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-06-18T02:54:10.255Z",
+  "generated_at": "2026-06-18T08:40:56.859Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-3.1-flash-image",
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-image-20260528",
+      "created_at": "2026-06-18T03:41:05Z",
+      "context_length": 131072,
+      "modality": "text+image->text+image",
+      "input_modalities": [
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "image",
+        "text"
+      ],
+      "price_in": 0.5,
+      "price_out": 3,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Gemini 3.1 Flash Image, a.k.a. \"Nano Banana 2,\" is Google’s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines advanced...",
+      "description_zh": "Gemini 3.1 Flash Image，又名“Nano Banana 2”，是 Google 最新的最先进的图像生成和编辑模型，以 Flash 速度提供专业级的视觉质量。它结合了先进..."
+    },
+    {
+      "id": "google/gemini-3-pro-image",
+      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3-pro-image-20260528",
+      "created_at": "2026-06-18T03:40:54Z",
+      "context_length": 65536,
+      "modality": "text+image->text+image",
+      "input_modalities": [
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "image",
+        "text"
+      ],
+      "price_in": 2,
+      "price_out": 12,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Nano Banana Pro is Google’s most advanced image-generation and editing model, built on Gemini 3 Pro. It extends the original Nano Banana with significantly improved multimodal reasoning, real-world grounding, and...",
+      "description_zh": "Nano Banana Pro 是 Google 最先进的图像生成和编辑模型，基于 Gemini 3 Pro 构建。它扩展了原始的 Nano Banana，显着改进了多模态推理、现实世界的基础，以及……"
+    },
     {
       "id": "cohere/north-mini-code:free",
       "name": "North Mini Code (free)",
@@ -1415,56 +1465,6 @@
       "supports_reasoning": true,
       "description": "GLM-5.1 delivers a major leap in coding capability, with particularly significant gains in handling long-horizon tasks. Unlike previous models built around minute-level interactions, GLM-5.1 can work independently and continuously on...",
       "description_zh": "GLM-5.1 在编码能力方面实现了重大飞跃，在处理长期任务方面尤其显着。与之前围绕分钟级交互构建的模型不同，GLM-5.1 可以独立且连续地工作......"
-    },
-    {
-      "id": "google/gemma-4-26b-a4b-it:free",
-      "name": "Gemma 4 26B A4B  (free)",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it-20260403",
-      "created_at": "2026-04-03T14:53:09Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0,
-      "price_out": 0,
-      "is_free": true,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemma 4 26B A4B IT is an instruction-tuned Mixture-of-Experts (MoE) model from Google DeepMind. Despite 25.2B total parameters, only 3.8B activate per token during inference — delivering near-31B quality at...",
-      "description_zh": "Gemma 4 26B A4B IT 是 Google DeepMind 的指令调整专家混合 (MoE) 模型。尽管总参数为 25.2B，但在推理过程中每个令牌仅激活 3.8B——以...提供接近 31B 的质量"
-    },
-    {
-      "id": "google/gemma-4-26b-a4b-it",
-      "name": "Gemma 4 26B A4B",
-      "vendor": "Google",
-      "vendor_slug": "google",
-      "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it-20260403",
-      "created_at": "2026-04-03T14:53:09Z",
-      "context_length": 262144,
-      "modality": "text+image+video->text",
-      "input_modalities": [
-        "image",
-        "text",
-        "video"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 0.06,
-      "price_out": 0.33,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Gemma 4 26B A4B IT is an instruction-tuned Mixture-of-Experts (MoE) model from Google DeepMind. Despite 25.2B total parameters, only 3.8B activate per token during inference — delivering near-31B quality at...",
-      "description_zh": "Gemma 4 26B A4B IT 是 Google DeepMind 的指令调整专家混合 (MoE) 模型。尽管总参数为 25.2B，但在推理过程中每个令牌仅激活 3.8B——以...提供接近 31B 的质量"
     }
   ]
 }
