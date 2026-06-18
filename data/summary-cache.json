@@ -8085,5 +8085,272 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/rumble-bets-on-ai-compute-demand-with-new-ai-platform-video": {
+    "title_clean": "Rumble 推出 Quake AI 平台：云服务与AI基础设施",
+    "summary": "视频平台 Rumble 推出名为 Quake AI 的新平台，结合云服务、计算能力和AI基础设施，瞄准AI计算需求市场。这一举措显示传统平台向AI基础设施领域拓展的趋势，对元宝产品经理了解AI服务商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo": {
+    "title_clean": "OpenAI引入Transformer发明者前高管，为IPO做准备",
+    "summary": "OpenAI在IPO前夕引入重磅人才，包括谷歌DeepMind的Transformer发明者Noam Shazeer和前特朗普AI政策官员Dean Ball。这一系列高管变动表明OpenAI正为上市做人才储备，可能影响其战略方向和产品开发。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says": {
+    "title_clean": "美国约会平台Match报告：近半数单身人士对AI在约会中持负面态度",
+    "summary": "Match调查显示约47%的单身人士对AI在约会中的应用持负面看法，但多数用户接受AI帮助优化个人资料和提供对话开场白。这反映了用户对AI在亲密关系中的谨慎态度，为AI助手在社交场景中的功能设计提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/investors-look-beyond-chips-for-next-big-thing-in-tech-video": {
+    "title_clean": "投资者寻找科技领域下一个突破：超越芯片的AI投资方向",
+    "summary": "随着AI热潮持续升温，投资者正寻找超越芯片的下一个科技突破点。Alger投资组合经理Ankur Crawford表示，科技领域尚未出现真正的颠覆性创新，投资者正关注AI应用层和基础设施等新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips": {
+    "title_clean": "Amazon计划通过销售AI芯片直接挑战Nvidia",
+    "summary": "AWS正洽谈将其AI芯片销售给其他数据中心，CEO安迪·贾西表示这将为公司带来500亿美元的机会。这一动向表明亚马逊正积极扩大其在AI芯片市场的份额，与Nvidia形成直接竞争，对AI基础设施市场格局有重要影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/opinion-autonomous-trucks-can-be-life-saving-video": {
+    "title_clean": "自动驾驶卡车：提升道路安全的新技术",
+    "summary": "彭博社专栏作家Thomas Black亲身测试自动驾驶卡车技术后，通过数据分析探讨了这项技术对未来道路安全的潜在影响。作为AI在交通领域的应用案例，对元宝产品经理了解AI技术在安全关键型场景的应用价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid": {
+    "title_clean": "AI数据中心获得电网接入优先权",
+    "summary": "美国联邦能源监管委员会(FERC)要求电网运营商为数据中心提供快速接入通道，但未能解决电力供应短缺问题。这一政策变化可能加速AI基础设施建设，但也带来电力供应挑战，对元宝等AI服务提供商的部署策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/tesla-stock-underperforms-spacex-in-first-week-after-ipo": {
+    "title_clean": "特斯拉股票在IPO首周表现落后于SpaceX",
+    "summary": "特斯拉股票在SpaceX上市后的首个交易周表现不佳，股价下跌。这反映了市场对两家公司未来增长预期的差异，对AI产品经理评估科技巨头市值波动和投资者信心变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/alibaba-s-tsai-zu-furstenberg-discuss-ai-investment-video": {
+    "title_clean": "阿里巴巴蔡崇杰与冯斯伯格探讨AI投资",
+    "summary": "阿里巴巴集团董事长蔡崇杰与General Catalyst董事总经理冯斯伯格就人工智能发展中的投资机会和领导力进行讨论，关注AI领域的投资策略和领导力发展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/ukraine-s-denikeieva-on-building-ai-for-citizens-video": {
+    "title_clean": "乌克兰数字转型副部长：构建面向公民的AI系统",
+    "summary": "乌克兰数字转型副部长Nataliia Denikeieva与彭博社讨论数字韧性及构建面向公民的人工智能系统，探讨政府如何利用AI服务公民需求，这对公共服务AI应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ServiceNow/mosaicleaks": {
+    "title_clean": "MosaicLeaks：研究数据安全与隐私保护工具",
+    "summary": "MosaicLeaks是一款专注于研究数据安全与隐私保护的工具，主要解决AI研究代理在处理敏感信息时的数据泄露风险。该工具为产品经理提供了关于如何在AI系统中实现数据安全与隐私保护的重要参考，特别是在处理用户敏感数据和研究信息时。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-18/square-enix-takes-on-zelda-with-the-adventures-of-elliot": {
+    "title_clean": "Square Enix 推出《The Adventures of Elliot》：融合动作战斗与HD-2D艺术风格的游戏",
+    "summary": "Square Enix推出新游戏《The Adventures of Elliot》，尝试将动作战斗与HD-2D艺术风格相结合，这是该公司首次尝试此类游戏设计，可能对游戏AI交互和视觉呈现方式提供参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/chatgpt-enterprise-spend-controls": {
+    "title_clean": "OpenAI推出企业级ChatGPT使用分析与支出控制功能",
+    "summary": "OpenAI为ChatGPT企业版新增使用分析和支出控制功能，帮助企业组织管理成本并安全扩展AI应用。这对产品经理了解企业级AI服务的商业化路径和成本控制策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone": {
+    "title_clean": "Kē：名人AI健康教练应用",
+    "summary": "《Queer Eye》生活教练Karamo Brown推出Kē健康应用，内置其AI数字克隆，提供个性化健康指导。该应用结合了Brown的个人健康经验与AI技术，为用户提供心理健康和身体健康的综合支持服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/healthcare-s-next-ai-revolution-video": {
+    "title_clean": "Healthcare's Next AI Revolution：医疗领域AI自主代理革命",
+    "summary": "Infinitus CEO Ankit Jain在Bloomberg Open Interest节目中指出，下一代AI将不再是辅助工具或聊天机器人，而是能够端到端处理医疗任务的自主代理。这一观点对AI医疗应用场景和产品发展方向具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/ai-costs-what-shift-from-flat-rate-to-token-pricing-model-means-for-industry": {
+    "title_clean": "AI无限使用时代即将终结",
+    "summary": "硅谷过去几年大力推动AI在各场景的应用，现在AI开发者开始寻求更可持续的商业模式，可能转向按使用量收费或订阅制，这将影响AI产品的定价策略和用户使用习惯，对元宝的产品商业化方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/amazon-is-in-talks-to-sell-nvidia-rival-chips-to-other-companies": {
+    "title_clean": "Amazon拟销售定制AI芯片以挑战Nvidia主导地位",
+    "summary": "亚马逊正洽谈将其定制的人工智能芯片销售给其他公司用于数据中心，这是其努力削弱Nvidia市场主导地位的关键扩张举措。此举将直接改变AI芯片市场格局，为元宝产品经理提供供应链多元化参考和成本优化思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/accenture-s-outlook-disappoints-in-uncertain-consultancy-market": {
+    "title_clean": "埃森哲：AI冲击咨询行业致营收预期下调",
+    "summary": "埃森哲宣布未来几个月营收预期将低于预期，称人工智能正在颠覆咨询服务业，且客户因冲突而暂停业务。这对AI服务商业化及咨询行业转型有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/diagnose-rare-childhood-diseases": {
+    "title_clean": "AI辅助诊断儿童罕见遗传疾病",
+    "summary": "研究人员利用OpenAI推理模型帮助诊断罕见疾病，在先前未解决的病例中识别出18个新诊断。这项技术展示了AI在医疗诊断领域的实际应用价值，特别是针对罕见病这类传统诊断方法难以应对的领域。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/europe-scales-down-ai-ambitions-with-smaller-data-center-tender": {
+    "title_clean": "欧洲缩减AI数据中心规模：降低数据中心招标规模",
+    "summary": "欧盟缩减了支持人工智能的数据中心计划，在招标文件中提出建设规模小于原设想的数据中心设施。这一调整反映了欧洲在AI基础设施发展上的务实转向，对元宝产品经理了解全球AI基础设施政策变化和区域市场策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
+    "title_clean": "Improving health intelligence in ChatGPT：ChatGPT健康智能升级",
+    "summary": "GPT-5.5 Instant提升了ChatGPT在健康与 wellness领域的回答能力，通过增强推理能力、优化上下文理解、改善沟通清晰度，并引入医生评估信息，为用户提供更专业的健康咨询服务。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
