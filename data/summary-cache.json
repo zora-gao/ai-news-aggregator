@@ -8352,5 +8352,289 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040042&idx=1&sn=8b58c44855d351c1640c6269bb166f6a": {
+    "title_clean": "DeepSeek识图模式全量上线，却认不出自家老板梁文锋",
+    "summary": "DeepSeek识图模式已全面上线，但存在识别缺陷，无法正确识别自家创始人梁文锋的照片。这一案例揭示了当前AI图像识别技术在特定人物识别上的局限性，对产品经理评估AI多模态能力的实际表现和可靠性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040042&idx=2&sn=7414585465c2102446518f0f9e490577": {
+    "title_clean": "大晓Kairos：原生一体化世界模型定义物理AI新路线",
+    "summary": "大晓Kairos推出原生一体化世界模型，声称在物理AI领域领先于英伟达和李飞飞团队，为物理AI发展提供新路线。该模型可能对AI助手理解物理世界、增强多模态交互能力有参考价值，值得关注其技术实现与实际应用场景。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039911&idx=2&sn=2b99ae81a2110fc37afeed89d4a367b3": {
+    "title_clean": "奥特曼：OpenAI CEO更迭与战略方向调整",
+    "summary": "OpenAI CEO奥特曼经历离职与回归后，公司战略方向可能发生变化，这反映了AI行业领导层变动对产品方向的影响，对元宝产品经理评估AI企业治理与战略调整有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039911&idx=1&sn=c48788c1fe5f78c29e83f00c6de9b972": {
+    "title_clean": "RAG新SOTA：5亿条数据秒级检索技术",
+    "summary": "该技术实现了在5亿条大规模数据上的秒级检索响应，成为RAG领域的新SOTA(最先进水平)。这一突破对AI助手产品经理具有重要参考价值，可能影响知识库构建、检索效率和响应速度等核心功能的设计与优化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI搜索",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/spacex-criticizes-eu-s-proposal-for-satellite-spectrum-tender": {
+    "title_clean": "SpaceX批评欧盟卫星频谱招标提案",
+    "summary": "SpaceX批评欧盟计划分配卫星频谱的方式，这关系到埃隆·马斯克领导的Starlink服务的增长计划。该提案可能影响Starlink在欧洲市场的扩张，对了解卫星互联网服务监管环境有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/sevenrooms-ceo-on-new-reservation-organizing-platform-video": {
+    "title_clean": "SevenRooms CEO：餐厅预订管理新平台Channel Connect",
+    "summary": "SevenRooms联合创始人兼CEO Joel Montaniel介绍了公司新推出的Channel Connect平台，该平台通过整合多渠道预订信息，简化餐厅的预订管理流程，帮助餐饮企业更高效地处理各类预订来源。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/fmr-lululemon-cio-on-ai-s-impact-on-c-suites-jobs-video": {
+    "title_clean": "前Lululemon首席信息官谈AI对高管层和就业的影响",
+    "summary": "前Lululemon、REI和Nordstrom首席信息官Julie Averill在其新书《首席影响官》中探讨了AI对高管层和就业的影响，提供了在持续变革背景下的领导力新视角，对元宝产品经理了解AI如何影响企业决策和人才需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/fmr-disney-exec-media-consolidating-around-new-model-video": {
+    "title_clean": "前迪士尼高管：媒体行业正围绕新模式整合",
+    "summary": "前迪士尼高管凯文·梅耶尔讨论福克斯22亿美元收购Roku的战略意义，指出传统媒体正向新方向转型。这一整合趋势反映了媒体行业在数字化时代的战略调整，对元宝产品经理了解内容行业与AI服务结合的商业模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/candle-s-mayer-says-ad-backed-streaming-snuck-up-on-industry": {
+    "title_clean": "Candle：广告支持流媒体服务行业分析",
+    "summary": "Candle Media分析指出，Fox以220亿美元收购Roku的交易表明，免费观看、广告支持的流媒体服务正成为娱乐行业的重要力量，这种模式已悄然崛起并改变了行业格局。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/bloomberg-tech-6-18-2026-video": {
+    "title_clean": "特朗普宣布苹果与英特尔芯片合作：美国本土芯片生产",
+    "summary": "特朗普宣布苹果与英特尔将合作在美国本土生产芯片，此举将推动芯片制造商股价上涨。这一合作可能影响AI硬件供应链，对元宝的产品经理评估AI芯片依赖和本地化生产策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/jpm-asset-mgt-ceo-ai-can-power-markets-for-some-time-video": {
+    "title_clean": "JPM Asset Mgt. CEO：AI可长期赋能金融市场",
+    "summary": "摩根大通资产管理CEO George Gatch讨论了科技巨头IPO热潮，强调AI在金融市场中的长期赋能作用，指出AI技术将持续推动市场创新和效率提升，为金融科技领域提供重要参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs": {
+    "title_clean": "Snap将AI视频团队分拆为新公司Dotmo",
+    "summary": "Snapchat母公司Snap将内部AI视频团队分拆为新公司Dotmo，由原Snap员工组成，专注于AI视频开发。这一举措反映了Snap在AI领域的战略调整，对AI视频产品开发方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe": {
+    "title_clean": "Meta与Crusoe达成新AI计算协议",
+    "summary": "Meta与数据中心开发商Crusoe达成新协议，获取AI计算能力，以支持其人工智能扩张计划。这反映了大型科技公司正在积极布局AI基础设施，对元宝产品经理了解行业巨头AI战略和基础设施需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-18/even-madonna-has-to-fight-for-every-scrap-of-internet-attention": {
+    "title_clean": "Even Madonna Has to Fight for Every Scrap of Internet Attention：明星营销困境与新兴平台机遇",
+    "summary": "即使是麦当娜这样的超级巨星也需要借助Grindr和Bilt等新兴平台来推广专辑，反映了当前互联网注意力极度分散的现状，以及传统明星营销方式面临的挑战。这对元宝产品经理思考如何在信息过载环境中提升用户粘性和内容触达策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/google-s-secret-warrant-fight-over-doj-pipe-bomb-probe-revealed": {
+    "title_clean": "Google与美国司法部就用户搜索信息获取的保密法律战",
+    "summary": "Google与美国司法部就一起管道炸弹调查展开秘密法律斗争，司法部要求获取数百名搜索过民主党与共和党华盛顿总部地址的用户信息。这反映了科技公司与政府之间关于用户隐私与执法权限的持续博弈，对元宝产品经理理解数据隐私边界与合规挑战具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/steinberger-lecun-habib-on-ai-deployment-video": {
+    "title_clean": "Steinberger, LeCun, Habib on AI Deployment：AI部署专家讨论会",
+    "summary": "奥地利程序员Peter Steinberger、AMI Labs的Yann LeCun和Writer CEO May Habib与彭博社主持人讨论人工智能的部署可能性。作为AI领域专家，他们的观点对元宝产品经理了解行业前沿部署策略和方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/goldman-s-pullen-ross-pe-actively-engaged-in-sports-video": {
+    "title_clean": "Goldman's Pullen Ross：私募股权积极投资体育领域",
+    "summary": "高盛东北区负责人兼体育与娱乐解决方案主管Nicole Pullen Ross讨论了美国体育领域的演变趋势，以及推动体育人气增长的运动员情况。这反映了资本对体育产业的关注和投资动向，对元宝产品经理了解AI在体育内容、运动员服务等方面的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-defense-startup-ai-odyssey-leads": {
+    "title_clean": "本周十大融资轮次：世界模型初创公司Odyssey获3.1亿美元领投",
+    "summary": "本周大型融资交易活动相对放缓，但AI、金融科技、量子计算、生物技术和网络安全等领域仍有多笔可观融资。其中，世界模型初创公司Odyssey以3.1亿美元融资额位居榜首，反映了AI领域特别是世界模型方向的持续投资热度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/jeremy-grantham-on-how-to-tell-if-a-bubble-s-about-to-burst": {
+    "title_clean": "Jeremy Grantham：如何判断市场泡沫即将破裂",
+    "summary": "投资策略师Jeremy Grantham在播客中分享了他识别市场泡沫的经验和方法。作为多次成功预测市场泡沫的专家，他的分析对元宝产品经理理解市场情绪判断和用户风险感知有参考价值，可启发AI在金融信息解读和风险提示场景的应用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains": {
+    "title_clean": "计算机视觉部署推动零售生产力提升",
+    "summary": "计算机视觉技术正通过自动化货架追踪帮助零售商提升生产力，应对利润下滑问题。这种硬件部署直接解决了零售业长期存在的库存管理挑战，为元宝在零售服务场景的AI应用提供了参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences": {
+    "title_clean": "Pixi：短信转交互式AR体验工具",
+    "summary": "Pixi推出iOS应用，可将文本消息转化为交互式增强现实(AR)体验，认为这是消息传递的下一个演进方向，超越了传统贴纸、GIF和表情反应。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it": {
+    "title_clean": "Slowtech：解决智能手机注意力危机的工具",
+    "summary": "Slowtech致力于解决智能手机时代带来的注意力危机，帮助用户重新掌控自己的时间、生活和注意力。该产品反映了用户对数字健康和专注力管理的需求增长，对元宝产品经理在AI助手专注度管理功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/microsoft-amazon-cloud-services-face-tough-eu-antitrust-law": {
+    "title_clean": "微软、亚马逊云服务面临欧盟严格反垄断法审查",
+    "summary": "微软Azure和亚马逊AWS因其在云计算市场的主导地位正面临欧盟初步调查，可能违反欧盟严格的数字竞争规则。这对元宝产品经理了解云服务监管趋势和合规要求具有重要参考价值，特别是在考虑国际市场拓展时。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
