@@ -7032,5 +7032,116 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/stevenson-on-fed-keeping-rates-steady-video": {
+    "title_clean": "Stevenson：美联储维持利率不变的经济展望",
+    "summary": "密歇根大学公共政策与经济学教授、美国前劳工部首席经济学家Betsey Stevenson分享对美国经济的展望，讨论美联储维持利率不变的决定及其影响。对产品经理了解宏观经济环境对AI产品商业化策略的参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/hutong-research-s-guo-on-pboc-policy-yuan-video": {
+    "title_clean": "Hutong Research郭珊：央行政策与人民币前景分析",
+    "summary": "胡同研究合伙人郭珊讨论中国央行利率框架潜在转变及人民币前景，对元宝产品经理了解宏观经济政策变化对AI助手服务场景的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039842&idx=1&sn=98cac199263192d0ca6c8f457d89b8ec": {
+    "title_clean": "国产3B小模型编程能力媲美Opus 4.5",
+    "summary": "一款国产3B参数规模的小型模型在编程能力测试中表现优异，得分接近OpenAI的Opus 4.5模型，引发行业关注。这一突破表明小参数模型在特定任务上已具备与大模型竞争的能力，为AI产品经理提供了模型轻量化与性能平衡的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039842&idx=2&sn=62eb052b9f906ad8cd44199a8c63b0cb": {
+    "title_clean": "NVIDIA团队让编程Agent接管真实机器人实验，成功率达99%",
+    "summary": "NVIDIA团队开发了一种编程Agent，能够接管真实机器人实验并实现99%的成功率。这一突破展示了AI Agent在物理世界执行复杂任务的能力，对元宝产品经理在AI Agent实际应用和物理交互方面具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651039784&idx=2&sn=3e73223b9ccb5e65d4a3db36190e233b": {
+    "title_clean": "DeepMind：Transformer存在拓扑缺陷，思维链治标不治本",
+    "summary": "DeepMind研究指出Transformer架构存在拓扑缺陷，思维链方法虽能缓解问题但无法从根本上解决。这一发现对AI大模型架构设计具有重要参考价值，可能影响未来AI助手和Agent的核心技术路线选择。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/fmr-fdic-chair-bair-warsh-gets-a-for-1st-fed-meeting-video": {
+    "title_clean": "前FDIC主席Bair评价Warsh首次美联储会议表现",
+    "summary": "前FDIC主席Sheila Bair对美联储主席Kevin Warsh的首次会议及新闻发布会给予A+评价。Bair赞扬了Warsh在首次会议上的表现，这反映了金融监管领域高层人事变动可能带来的政策方向变化，对金融科技和AI金融服务领域的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027": {
+    "title_clean": "苹果计划2027年春季推出第二代iPhone Air",
+    "summary": "苹果公司正计划于2027年春季推出第二代iPhone Air，旨在提升这款轻薄设备的吸引力。这一产品更新可能影响元宝在移动端AI助手的设计策略，特别是针对轻薄设备的功能优化和用户体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/orbital-data-centers-face-real-challenges-says-peridot-video": {
+    "title_clean": "Orbital Data Centers：太空数据中心面临实际挑战",
+    "summary": "Peridot Services顾问、前NASA戈达德太空飞行中心主任Makenzie Lystrup指出，太空数据中心在能源等方面面临实际挑战，这对AI基础设施布局和边缘计算场景规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-17/us-looks-to-expand-nuclear-power-as-ai-drives-demand-video": {
+    "title_clean": "美国寻求扩大核能发电以应对AI驱动的能源需求增长",
+    "summary": "美国核管理委员会主席表示，为应对AI技术带来的能源需求激增，美国已采取'重大步骤'改革核电站许可框架和监管检查流程，旨在加速核能发展以满足日益增长的电力需求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }
