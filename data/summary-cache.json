@@ -7825,5 +7825,265 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/intel-rallies-after-trump-says-it-struck-apple-chip-deal-video": {
+    "title_clean": "Intel与苹果达成芯片合作：特朗普证实将共同设计生产本土半导体",
+    "summary": "美国总统特朗普宣布英特尔与苹果达成协议，将共同设计和生产本土半导体芯片。这一合作将帮助苹果减少对亚洲供应链的依赖，同时为英特尔带来重要业务机会，对AI硬件供应链和芯片行业格局有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/amazon-workers-say-data-center-testimony-prompted-interrogation": {
+    "title_clean": "亚马逊员工：数据中心监管证词引发公司质询",
+    "summary": "三名亚马逊员工表示，他们在支持西雅图数据中心监管的证词后遭到公司质询，违反了西雅图市的相关法规。此事件反映了科技公司在监管政策上的立场与员工权益之间的冲突，对产品经理了解企业社会责任与员工关系管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/anduril-secures-landmark-air-force-drone-contract": {
+    "title_clean": "Anduril：美国空军自主战斗机无人机供应商",
+    "summary": "Anduril获得美国空军自主战斗机生产合同，并成为这些飞机软件供应的关键竞争者，正迈向规模化生产。这对AI产品经理有参考价值，展示了AI技术在军事自主系统中的商业化应用和大规模落地机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation": {
+    "title_clean": "General Intuition：AI训练数据服务商",
+    "summary": "General Intuition正在以约20亿美元估值寻求3亿美元融资，该公司利用Medal平台每年20亿视频数据训练具身AI和世界模型，数据来自1000万月活用户。这对元宝产品经理了解AI训练数据来源和具身AI发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/trump-says-intel-inked-chip-deal-with-apple-video": {
+    "title_clean": "特朗普称英特尔与苹果达成芯片合作",
+    "summary": "美国特朗普宣布英特尔将与苹果合作设计和生产国内半导体芯片，这可能影响AI硬件供应链和芯片市场格局，对元宝产品经理评估AI基础设施合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/us-to-fast-track-grid-connections-for-ai-data-centers": {
+    "title_clean": "美国批准数据中心电网连接快速审批",
+    "summary": "美国联邦监管机构发布新规，为数据中心提供电网连接快速审批通道，以应对AI基础设施需求激增。这一政策将加速数据中心建设，对AI算力基础设施布局有直接影响。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/apollo-s-shutterfly-debt-concessions-expose-ai-competition-risk": {
+    "title_clean": "Shutterfly债务问题暴露AI与竞争风险",
+    "summary": "Shutterfly在信贷市场表现不佳，最新再融资揭示了在竞争加剧背景下管理沉重债务成本的新挑战。这反映了传统企业在AI时代面临的财务压力和竞争风险，对元宝产品经理了解AI对传统行业的影响和商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight": {
+    "title_clean": "科技工作者支持的PAC投入500万美元对抗科技巨头1亿美元政治影响力",
+    "summary": "Guardrails定位为平民主义政治运动，依靠AI行业一线人士的小额捐款运作，旨在对抗科技巨头在政治领域的影响力。这一动向反映了科技行业内部对权力平衡的关注，可能影响AI政策制定和监管环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/waymo-recalls-robotaxis-over-driving-through-freeway-work-zones": {
+    "title_clean": "Waymo：自动驾驶汽车软件漏洞召回",
+    "summary": "Waymo因自动驾驶汽车软件缺陷召回数千辆Robotaxi，该缺陷可能导致车辆误入高速公路施工区域并高速行驶。此次召回反映了自动驾驶系统在复杂道路环境中的安全挑战，对AI服务场景中的安全可靠性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-lays-out-vision-for-how-to-bolster-ai-models-safety": {
+    "title_clean": "Anthropic：阐述增强AI模型安全性的愿景",
+    "summary": "Anthropic联合创始人Jack Clark表示，公司正与特朗普政府就其两大顶级AI模型的安全问题进行日常讨论，旨在解决相关安全顾虑。这对元宝产品经理了解AI安全合规方向及与政府沟通策略有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/take-two-s-grand-theft-auto-vi-pre-orders-set-to-open-june-25": {
+    "title_clean": "《侠盗猎车手VI》6月25日开启预售，Take-Two股价上涨",
+    "summary": "Take-Two Interactive宣布将于6月25日开启《侠盗猎车手VI》预售，这款游戏被誉为史上最受期待的游戏之一。此消息推动Take-Two股价上涨，显示大型游戏IP的商业价值与市场影响力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/orlando-bravo-built-a-software-investing-empire-now-ai-is-changing-the-rules": {
+    "title_clean": "Software Buyout King Orlando Bravo 尝试AI时代转型",
+    "summary": "Thoma Bravo创始人Orlando Bravo试图向投资者保证，这家私募股权公司已准备好拥抱AI，并将此前对Medallia的失败投资归为个案。这反映了传统软件投资巨头在AI时代的战略调整，对元宝产品经理了解资本对AI领域的投资趋势和战略方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-18/trumpf-on-geopolitics-china-ai-video": {
+    "title_clean": "Trumpf：关税对机床行业影响大于战争",
+    "summary": "德国机床制造商Trumpf CEO表示，伊朗战争对机床行业并未造成\"严重\"影响，而关税政策才是更大的阻力。这一观点揭示了国际贸易政策对制造业的直接影响，对元宝产品经理了解全球供应链风险和政策变化对AI服务行业的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/us-stock-futures-today-accenture-albemarle-apple-pfizer-spacex": {
+    "title_clean": "美股前盘走势：特朗普签署与伊朗临时和平协议后反弹",
+    "summary": "美国总统特朗普签署与伊朗的临时和平协议后，美股预期反弹，标普500指数期货在纽约时间早上7:45上涨0.5%。这一地缘政治事件可能影响全球金融市场波动，对AI产品经理了解宏观环境对科技行业的影响有参考价值。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/boardroom-blind-spot-success-hides-ai-disruption-sagie": {
+    "title_clean": "The Boardroom Blind Spot：企业董事会忽视AI等颠覆性技术的风险",
+    "summary": "文章指出企业董事会不应等到业绩不佳才应对AI和量子计算等颠覆性技术，而应提前评估这些技术对业务的潜在影响。这对元宝产品经理有参考价值，提示需关注企业级AI服务场景和决策者对AI技术的采纳态度。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/swiss-ai-startup-prem-is-raising-100-million-series-a-round": {
+    "title_clean": "Prem AI：企业私有基础设施AI模型运行服务商获1亿美元A轮融资",
+    "summary": "瑞士初创公司Prem AI帮助对冲基金和律等企业在私有基础设施上运行AI模型，正在完成1亿美元的A轮融资。该服务针对企业级AI部署需求，为元宝在私有化部署和行业垂直解决方案方面提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership": {
+    "title_clean": "HSBC扩大与谷歌云的AI银行合作",
+    "summary": "汇丰银行与谷歌云达成多年合作，将在全球业务中开发并部署人工智能工具。这一合作在谷歌云伦敦峰会上宣布，标志着传统金融机构与AI云服务的深度融合，对金融AI服务场景有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-ban-forces-investors-to-reckon-with-political-risk": {
+    "title_clean": "Anthropic政治风险事件引发投资者重新评估AI投资",
+    "summary": "Anthropic因政治因素面临限制，导致投资者开始重新评估AI投资的政治风险，认为这可能比高估值和大额支出更具破坏性。这一事件提醒AI产品经理需关注政策环境变化对业务的影响，并考虑多元化战略以降低政治风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/peft-beyond-lora": {
+    "title_clean": "超越LoRA：探索更优的微调技术",
+    "summary": "本文探讨了超越LoRA微调技术的可能性，分析了当前最流行的微调方法的局限性，并提出了可能的改进方向。对于AI产品经理而言，这有助于理解模型微调技术的发展趋势，评估不同微调技术对产品性能的影响，以及为产品优化提供技术参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china": {
+    "title_clean": "Microsoft向中国销售OpenAI模型，OpenAI和Anthropic不进入",
+    "summary": "Microsoft已悄然成为中国OpenAI模型的主要供应商，向中国最大的互联网公司销售该技术，而OpenAI和Anthropic则未进入中国市场。这一动态对元宝产品经理具有重要参考价值，反映了AI模型供应商策略差异和市场准入壁垒。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/is-it-agentic-enough": {
+    "title_clean": "Is it agentic enough?：开放模型工具调用能力评测",
+    "summary": "该研究对开放模型在自主工具使用能力方面进行了基准测试，评估了AI Agent在实际工具调用场景中的表现，为产品经理提供了评估AI助手自主执行能力的参考框架。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
