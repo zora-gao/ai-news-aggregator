@@ -9182,5 +9182,106 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand": {
+    "title_clean": "美国政府对Anthropic的禁令意外助力品牌发展",
+    "summary": "美国政府以国家安全为由要求Anthropic撤回两款最新模型Fable 5和Mythos 5，此举可能反而提升了品牌知名度。产品经理可关注此类政策事件对AI企业市场策略的影响，以及如何将监管挑战转化为品牌优势。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/unitedhealth-bets-3-billion-on-ai-to-cut-costs-tame-backlash": {
+    "title_clean": "UnitedHealth：30亿美元AI医疗助手项目",
+    "summary": "联合健康集团投入30亿美元开发AI系统，可朗读医疗摘要供护士在出诊时使用，并分析数百万客户电话以识别投诉原因。这展示了大型医疗机构如何将AI整合到实际医疗服务流程中，为元宝在医疗垂直领域的AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture": {
+    "title_clean": "SAP与谷歌云推出代理商务架构",
+    "summary": "SAP与谷歌云合作部署代理商务架构，旨在自动化企业级多代理营销和零售运营。SAP研究显示78%的企业认为AI代理对业务至关重要，这一合作将为企业提供更智能的商务自动化解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home": {
+    "title_clean": "Billionaire Ambani wants AI in every call, app, and home",
+    "summary": "印度信实集团将AI整合至电信服务，覆盖超5亿用户，旨在实现通话、应用和家居场景的全域AI覆盖。这展示了大型企业如何将AI深度融入基础服务，为元宝在电信场景的AI应用提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-19/oura-ring-5-review-the-399-smart-ring-makes-more-sense-for-first-time-buyers": {
+    "title_clean": "The Oura Ring 5：新一代健康监测戒指",
+    "summary": "Oura推出第五代健康监测戒指，售价399美元，主要面向首次购买用户，老用户升级动力不足。作为可穿戴健康设备，它可能为AI健康助手提供生理数据监测场景参考，对健康管理类AI产品有启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/autoform-s-debt-rejig-highlights-revived-appetite-for-software": {
+    "title_clean": "AutoForm债务重组：投资者对软件行业垃圾债券需求回升",
+    "summary": "欧洲担保贷款投资者积极认购AutoForm的最新债务重组交易，这是今年早些时候软件行业抛售后，市场首次测试对垃圾债务借款人的需求，显示投资者对软件行业风险偏好的变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-19/eu-tech-chief-virkkunen-on-ai-sovereignty-us-video": {
+    "title_clean": "欧盟技术主管Virkkunen谈AI与主权",
+    "summary": "欧盟技术主管Henna Virkkunen在VivaTech会议上与彭博社讨论了欧盟AI监管和网络安全风险，反映了欧盟在AI政策制定上的立场和方向，对了解全球AI监管趋势和元宝产品合规策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-19/nvidia-s-ai-wins-had-quashed-the-benchmark-fight-cpu-race-is-bringing-it-back": {
+    "title_clean": "芯片厂商重启性能竞争：NVIDIA主导地位下的基准测试争夺战",
+    "summary": "随着CPU重新成为焦点，芯片厂商之间围绕基准测试展开的公关战再次兴起，这反映了在NVIDIA主导GPU市场后，其他芯片制造商试图通过性能指标重新争夺市场注意力的策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI搜索"
+    ],
+    "v": 4
   }
 }
