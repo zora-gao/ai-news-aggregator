@@ -8758,5 +8758,281 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/mutter-ai-dictation": {
+    "title_clean": "Mutter AI Dictation：AI语音转文字工具",
+    "summary": "Mutter AI Dictation是一款语音转文字工具，可将用户的口语化思考转化为精炼的文字内容。产品经理可关注此类AI辅助写作工具如何提升内容创作效率，以及其在办公、学习等场景的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/midjourney": {
+    "title_clean": "Midjourney Scanner：AI全身超声波扫描仪",
+    "summary": "Midjourney Scanner是一款基于超声波的全身扫描设备，可在60秒内完成全身扫描，效果优于传统MRI。这项技术可能为医疗诊断领域带来革新，为AI在医疗影像分析中的应用提供新思路，对元宝在健康服务场景的拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/foglamp": {
+    "title_clean": "Foglamp：可视化AI代理部署工具",
+    "summary": "Foglamp是一款AI代理部署工具，专注于让用户能够直观地看到和监控AI代理的运行状态。产品经理可参考其可视化方案，提升AI代理的透明度和用户体验，特别是在复杂任务执行过程中的状态反馈设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blazly-backlinker": {
+    "title_clean": "Blazly Backlinker：自动化反向链接生成工具",
+    "summary": "Blazly Backlinker是一款自动化反向链接生成工具，可帮助用户自动创建和管理网站的反向链接，提升SEO效果。对于元宝产品经理而言，该工具展示了AI在自动化营销和SEO领域的应用，可能启发产品在内容营销和网站优化方面的功能扩展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/pitchbar": {
+    "title_clean": "Pitchbar：世界杯比分macOS菜单栏工具",
+    "summary": "Pitchbar是一款macOS菜单栏工具，可实时追踪2026年世界杯比分。产品经理可参考其轻量级信息展示设计，为元宝体育资讯场景提供实时数据推送的交互思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/unreal-engine": {
+    "title_clean": "Unreal Engine 5.8：AI游戏开发引擎",
+    "summary": "Unreal Engine 5.8版本引入AI代理功能，允许开发者使用AI agents构建游戏。这一更新将AI能力整合到游戏开发流程中，为游戏开发者提供更智能的开发工具，可能改变游戏设计和交互方式，对元宝在游戏化AI应用场景开发上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/screen-ruler": {
+    "title_clean": "Screen Ruler：网页内容编辑与追踪工具",
+    "summary": "Screen Ruler是一款网页内容编辑工具，支持对网页内容进行修改并带有变更追踪功能。产品经理可关注此类工具如何增强AI助手在网页内容编辑场景的能力，以及变更追踪功能对协作类AI服务的启发价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quackscreen": {
+    "title_clean": "QuackScreen：MacBook刘海屏交互工具",
+    "summary": "QuackScreen是一款针对MacBook刘海屏设计的交互工具，允许用户从刘海屏区域捕获、拖拽和分享内容。这款产品解决了MacBook刘海屏区域利用不足的问题，为产品经理提供了优化屏幕空间利用和交互设计的参考案例。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/snap-deck-hq": {
+    "title_clean": "Snap Deck HQ：macOS原生命令栏工具",
+    "summary": "Snap Deck HQ是一款macOS原生应用，通过单一命令栏整合用户所需功能，提供便捷的操作体验。该产品为AI助手产品经理提供了桌面端交互设计的参考价值，特别是在简化多任务操作和提升用户效率方面的解决方案。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ask-ad-manager": {
+    "title_clean": "Ask Ad Manager by Google Ads：Gemini驱动的广告决策AI助手",
+    "summary": "Google Ads推出基于Gemini的AI助手Ask Ad Manager，旨在提供广告洞察并加速广告决策过程。这标志着谷歌正在将AI能力整合到广告管理工具中，可能改变广告主使用AI进行营销决策的方式，对元宝在AI助手商业化和服务场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/upsolve-ai": {
+    "title_clean": "Upsolve AI：可信数据代理构建工具",
+    "summary": "Upsolve AI推出可信数据代理构建工具，专注于创建有依据、受监管且值得信赖的数据代理。该工具可能帮助产品经理了解如何构建更安全、可控的企业级AI代理系统，对元宝在数据治理和可信AI方向的产品设计有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/claude-redesigned": {
+    "title_clean": "Claude Code Artifacts：代码实时预览与分享工具",
+    "summary": "Claude推出Code Artifacts功能，允许开发者实时预览和分享正在编写的代码工作。这一功能提升了协作效率，使团队成员能够即时查看代码进展，对产品经理评估AI辅助编程工具的协作价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meshpilot": {
+    "title_clean": "MeshPilot：AI终端与任务管理工具",
+    "summary": "MeshPilot是一款AI工作空间工具，专注于终端、任务和代理管理。它整合了AI能力到命令行界面，帮助用户自动化执行任务和管理代理，为产品经理提供了AI助手在命令行场景下的应用参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt": {
+    "title_clean": "ASML光刻机出口争议：美国称中国可能获得顶级芯片工具，ASML否认",
+    "summary": "美国指控ASML可能向中国出口其顶级芯片光刻工具，而ASML公司否认这一说法。此事件涉及高端芯片制造设备的地缘政治争议，对AI芯片供应链和全球AI产业格局有潜在影响，值得产品经理关注芯片供应链风险和替代方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/prosus-expects-surge-in-profits-on-e-commerce-tencent-growth": {
+    "title_clean": "Prosus：电商与腾讯持股推动利润大幅增长",
+    "summary": "Prosus NV预计截至3月31日的财年核心利润将增长高达28%，主要得益于其电商业务的持续增长以及在中国腾讯公司持股价值的提升。这一增长趋势对元宝产品经理了解互联网巨头投资组合与电商业务协同效应具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/darkmoon": {
+    "title_clean": "Darkmoon：自动化渗透测试平台",
+    "summary": "Darkmoon是一款自动化渗透测试平台，能够自主执行网络安全测试，帮助企业和安全团队发现系统漏洞。这类AI驱动的安全工具对元宝产品经理有参考价值，特别是在AI自主执行任务和跨应用操作方面的能力展示。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/traders-latest-ai-related-play-is-a-struggling-car-parts-stock": {
+    "title_clean": "投资者关注汽车零部件商Valeo的AI相关投资",
+    "summary": "投资者正将目光投向陷入困境的法国汽车零部件制造商Valeo SE，将其视为人工智能领域的潜在赢家。这反映了投资者对AI技术在传统制造业中应用价值的关注，以及对AI相关股票投资机会的持续探索。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order": {
+    "title_clean": "Anthropic Mythos：早期测试用户仍可访问AI模型",
+    "summary": "Anthropic PBC选择的早期测试用户在美国政府限制令后仍可访问Mythos AI模型的预览版本。这表明Anthropic在合规框架下仍为特定合作伙伴保留测试权限，对产品经理了解AI模型发布策略与政府监管应对有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/indian-software-stocks-tumble-after-accenture-warns-on-growth": {
+    "title_clean": "埃森哲预警增长放缓，印度软件股大幅下跌",
+    "summary": "埃森哲预测收入增长放缓后，印度软件公司股价周五大幅下跌，加入全球科技股抛售潮，引发对该行业已近30%市值损失的担忧。这反映了全球IT服务市场的潜在风险，对元宝产品经理评估企业服务AI工具的市场环境有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m": {
+    "title_clean": "Elastic收购DeductiveAI：AI软件错误检测工具",
+    "summary": "Elastic以最高8500万美元收购CRV投资的DeductiveAI，这是一家成立仅三年的初创公司，专注于使用AI技术检测和解决软件中的错误。此次收购表明AI在软件开发质量保障领域的商业价值获得认可，对元宝产品经理评估AI在专业场景的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040002&idx=1&sn=2350f75c30770f5657c2911aed4ef022": {
+    "title_clean": "CurrentRobotics发布全身灵巧操作模型Curr-0",
+    "summary": "CurrentRobotics发布了人形机器人全身灵巧操作模型Curr-0，解决了人形机器人只能简单行走而无法进行精细操作的问题。这一突破性进展为人形机器人在实际服务场景中的应用提供了可能，对元宝产品经理在AI服务场景拓展方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-19/us-tells-asml-china-may-have-top-chip-tool-video": {
+    "title_clean": "美国警告ASML中国可能获得顶级芯片工具",
+    "summary": "美国商务部长警告ASML公司，中国可能获得其先进光刻机设备，这将对全球芯片供应链产生重大影响。作为全球最大的光刻机制造商，ASML面临地缘政治与技术出口限制的双重挑战，对元宝产品经理了解AI硬件供应链风险有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }
