@@ -9034,5 +9034,153 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/frontpage-sh-8-squares-forever-for-sale": {
+    "title_clean": "frontpage.sh：永久性广告位拍卖平台",
+    "summary": "frontpage.sh是一个永久性广告位拍卖平台，提供8个广告位进行持续竞拍。这种创新的广告模式可能为元宝产品经理提供关于新型广告变现和用户注意力竞争的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/prism-28": {
+    "title_clean": "Prism：macOS AI助手伴侣",
+    "summary": "Prism是一款专为macOS系统设计的AI伴侣应用，旨在为用户提供智能辅助功能。作为macOS平台的AI助手工具，它可能帮助用户提升工作效率，处理日常任务，值得元宝产品经理关注AI助手在不同操作系统平台上的适配与差异化策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees": {
+    "title_clean": "Allbirds CEO新AI业务：无员工但有巨额种子轮融资",
+    "summary": "Allbirds CEO创立新AI业务，目前仅有创始人一人，但已获得巨额种子轮融资。这反映了AI领域创业模式的新趋势，即轻资产启动和快速资本化，对AI产品经理评估创业路径和融资策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/just-f-ing-send-it": {
+    "title_clean": "just f***ing send it：浏览器间文件传输工具",
+    "summary": "一款允许用户直接在浏览器间传输任意大小文件的工具，无需上传到服务器。对于产品经理而言，这展示了点对点文件传输的轻量级解决方案，可能启发元宝在文件共享功能上的设计思路。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models": {
+    "title_clean": "Lutnick的Anthropic管控：美国政府以出口管制法加强对AI模型控制",
+    "summary": "特朗普政府通过商务部命令，以出口管制法对Anthropic PBC实施前所未有的管控，引发法律争议。此举可能影响AI模型开发与出口，对AI行业监管趋势和产品合规性有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/ambani-s-jio-weighs-india-satellite-network-to-rival-starlink": {
+    "title_clean": "Jio计划建设卫星网络与Starlink竞争",
+    "summary": "印度信实集团旗下Jio平台正计划建设自己的卫星网络，以巩固对国家通信基础设施的控制。此举将直接与SpaceX的Starlink形成竞争，可能影响印度卫星互联网市场格局和元宝在新兴市场的服务拓展策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/turkish-fintech-firm-midas-plans-expansion-into-payment-systems": {
+    "title_clean": "Midas：土耳其金融科技支付系统扩展计划",
+    "summary": "土耳其金融科技公司Midas已向央行申请电子货币机构许可证，计划推出数字消费者支付产品。这反映了金融科技领域向支付系统扩展的趋势，对元宝产品经理了解金融科技服务场景扩展和支付系统整合有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/scatec-says-egypt-solar-project-can-save-400-million-over-lng": {
+    "title_clean": "Scatec：埃及太阳能项目可节省4亿美元液化天然气进口成本",
+    "summary": "Scatec公司在埃及的方尖碑太阳能与电池储能项目每年可为该国节省高达4亿美元的液化天然气进口费用。该项目展示了大规模可再生能源替代传统能源的经济效益，对AI助手产品经理评估能源服务场景和商业化价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/siemens-xcelerator-online-store-revenue-expected-to-double-this-year": {
+    "title_clean": "西门子工业应用商店销售额预计翻倍",
+    "summary": "西门子预计其在线商店收入今年将增长一倍以上，这是其技术战略的重要部分。作为工业软件和列车制造商，西门子正在推动其工业应用商店的发展，但未披露具体数据。这一趋势对AI产品经理有参考价值，展示了工业领域应用商店的商业模式和增长潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-19/anthropic-co-founder-top-economist-on-the-ai-frontier-video": {
+    "title_clean": "Anthropic联合创始人兼首席经济学家谈AI前沿研究",
+    "summary": "Anthropic联合创始人兼首席经济学家深入探讨AI前沿研究，涵盖对劳动力市场和社会的潜在影响，以及AI存在的极端风险问题。这对元宝产品经理了解顶级AI研究机构的核心关注点和研究方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments": {
+    "title_clean": "e2e-assure：英国唯一主权AI零日SOC安全平台",
+    "summary": "e2e-assire推出Cumulo平台，采用数字孪生技术和专属AI模型，响应GCHQ的AI网络盾牌倡议，可提前识别IT和OT环境中的威胁与漏洞，是英国唯一的主权AI驱动SOC平台。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/uk-digital-bank-starling-shrinks-board-as-mcpike-cements-control": {
+    "title_clean": "Starling Bank：英国数字银行董事会重组",
+    "summary": "英国数字银行Starling Bank进行董事会精简，此举增强了最大股东McPike的控制权。这一组织结构调整反映了金融科技公司在成熟期可能面临的治理变化，对AI金融服务产品经理了解行业治理结构变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
