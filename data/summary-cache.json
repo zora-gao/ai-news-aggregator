@@ -9283,5 +9283,54 @@
       "AI搜索"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic": {
+    "title_clean": "诺贝尔奖得主John Jumper将离开Google DeepMind加入Anthropic",
+    "summary": "2024年诺贝尔化学奖得主、Google DeepMind副总裁John Jumper宣布离职，将加入Anthropic。这位因AI研究获奖的科学家转投Anthropic，可能对两家AI公司的技术竞争格局产生影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care": {
+    "title_clean": "美国叫停Anthropic Fable 5发布，但模型表现依然强劲",
+    "summary": "美国政府以国家安全为由叫停Anthropic发布Fable 5和Mythos 5两款新模型，此前亚马逊研究人员 allegedly 发现了相关风险。尽管面临监管压力，Anthropic模型性能仍表现出色，反映了AI监管与技术创新之间的持续博弈。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/aspen-disruption-triggers-south-africa-contraceptive-shortage": {
+    "title_clean": "南非制药厂停产导致避孕药短缺",
+    "summary": "南非Aspen Pharmacare制药厂生产中断，导致全国范围内口服避孕药供应短缺，这反映了药品供应链脆弱性，对AI助手在健康提醒、药品信息查询等场景开发有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-19/signal-s-whittaker-on-big-tech-s-privacy-threat-video": {
+    "title_clean": "Signal总裁惠特克谈科技巨头隐私威胁",
+    "summary": "Signal总裁梅瑞狄斯·惠特克指出，少数科技巨头能够做出损害集体网络安全的决策，她认为AI和大型科技公司构成重大威胁，这对元宝产品经理关注隐私保护和数据安全具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
