@@ -9332,5 +9332,70 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040113&idx=1&sn=65f4eb89a20d986bd4a0f3e8a8f337d7": {
+    "title_clean": "ClaudeCode：AI终端工作实时看板工具",
+    "summary": "ClaudeCode发布重大更新，突破传统终端限制，将终端工作内容实时转换为可视化网页看板，提升开发者工作效率与界面体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040128&idx=1&sn=45ca3ccd3aa9a87d53939ca489718401": {
+    "title_clean": "中美AI大模型研发进度对比：马斯克与唐杰观点分歧",
+    "summary": "马斯克预测其AI大模型Mythos将于明年Q1发布，而清华大学唐杰教授认为中国研发进度可能更快。文章探讨中美在AI大模型领域的竞争态势，以及中国团队在追赶过程中的技术突破与挑战，对元宝产品经理了解AI行业竞争格局和技术发展路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040082&idx=2&sn=e24fd121e7f940e99e1e7a8b14fdabc9": {
+    "title_clean": "博世×清华推出FunctionEvolve：LLM公式推理基准测试",
+    "summary": "博世与清华大学合作推出FunctionEvolve和LLM-SRBench，提升大语言模型在数学公式推理方面的能力。这一基准测试专注于评估LLM处理复杂数学问题的能力，为AI助手在科学计算、工程问题解决等场景的应用提供了新的评估标准。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat": {
+    "title_clean": "特朗普表示不认为Anthropic构成美国安全威胁",
+    "summary": "特朗普总统表示不将Anthropic视为国家安全威胁，尽管其政府近期已采取措施限制外国访问该公司的先进AI技术。这一表态可能影响Anthropic在美国市场的监管环境和商业策略，对AI公司国际化布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040113&idx=2&sn=ab7df9774cba0f0bbebd41cc7feaeddb": {
+    "title_clean": "GLM-5.2全球免费6小时，马斯克点赞，HuggingFace 掏钱",
+    "summary": "GLM-5.2模型推出全球免费6小时体验活动，获得马斯克公开点赞，并由HuggingFace平台提供资金支持。这一活动展示了AI大模型厂商通过限时免费策略扩大用户基础和影响力的商业尝试，对元宝产品经理评估AI模型推广策略和用户获取方式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
   }
 }
