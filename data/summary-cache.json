@@ -9569,5 +9569,28 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-20/byd-rejects-claims-it-violated-hungary-s-environmental-rules": {
+    "title_clean": "比亚迪否认违反匈牙利环保规则",
+    "summary": "中国电动汽车制造商比亚迪否认在匈牙利建设其首个欧盟工厂期间违反环保规定。此事件对元宝产品经理的参考价值在于了解国际企业在海外扩张中面临的环境合规挑战，以及如何处理类似公关危机。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/azure-cosmos-db": {
+    "title_clean": "Free AI Image Upscaler：本地图像分辨率提升工具",
+    "summary": "这是一款本地运行的AI图像分辨率提升工具，能够免费提高图像清晰度。对于元宝产品经理而言，这代表AI在图像处理领域的一个实用工具应用，可能启发产品在图像增强、多模态交互方面的功能扩展。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
   }
 }
