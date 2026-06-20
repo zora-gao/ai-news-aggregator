@@ -9603,5 +9603,30 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-20/millions-in-brazil-get-fake-government-mobile-alert-after-hack": {
+    "title_clean": "巴西政府民防系统遭黑客入侵，发送虚假警报信息",
+    "summary": "巴西民防预警系统遭黑客入侵，向数百万用户发送包含'misanthropy'一词的虚假政府警报信息。巴西整合与地区发展部及联邦警察正在调查此次安全事件，这对AI助手产品在处理敏感信息时的安全性和可靠性具有重要警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic": {
+    "title_clean": "诺贝尔奖得主John Jumper离开DeepMind加入Anthropic",
+    "summary": "DeepMind核心科学家、诺贝尔奖得主John Jumper将加入竞争对手Anthropic，这已是DeepMind近期多位重要人才流失案例之一，反映AI顶尖人才流动趋势，对元宝产品经理评估AI人才竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
