@@ -9702,5 +9702,30 @@
       "AI Agent"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040145&idx=1&sn=ea748869371082795c107cd7b9d00b26": {
+    "title_clean": "隐性知识与Token资本如何影响企业生命线？",
+    "summary": "探讨隐性知识与Token资本对企业生存和发展的关键影响，分析知识管理与数字资产如何成为企业核心竞争力，为元宝产品经理提供企业级AI服务场景的思考方向。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040185&idx=1&sn=b6b423222924587bc75c0b837aae2192": {
+    "title_clean": "谷歌：诺奖科学家流失问题分析",
+    "summary": "谷歌面临顶尖科学家流失问题，尽管拥有全球最多的诺贝尔奖得主。这反映了科技巨头在人才保留方面的挑战，对AI产品经理而言，需关注如何构建有吸引力的研发环境和人才激励机制，以保持技术竞争力。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
