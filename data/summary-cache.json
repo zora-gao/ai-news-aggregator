@@ -9727,5 +9727,107 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/poolside": {
+    "title_clean": "Laguna by Poolside：AI编程代理基础模型",
+    "summary": "Laguna是Poolside推出的AI编程代理基础模型，专注于支持长期任务规划和代码执行。该模型能够处理复杂的编程任务，为AI编程代理提供底层支持，对元宝在代码生成与执行功能开发方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grok-by-spacexai-for-word": {
+    "title_clean": "Grok by SpaceXAI：Word文档AI编辑助手",
+    "summary": "Grok by SpaceXAI推出Word插件，可在文档内部进行草稿撰写、结构调整和文字精炼，帮助用户提升文档编辑效率。这款工具展示了AI在办公场景中的具体应用，为元宝产品在文档处理和办公辅助方面的功能开发提供了参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/oioi": {
+    "title_clean": "oioi：跨平台剪贴板管理工具",
+    "summary": "oioi是一款适用于macOS、Windows和Linux的快速、简洁剪贴板管理工具，帮助用户高效管理和复用剪贴板内容。对于元宝产品经理而言，这类工具展示了用户对跨平台信息管理需求的解决方案，可作为元宝增强剪贴板集成功能的参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/backgrind": {
+    "title_clean": "Backgrind：跨应用AI代理运行工具",
+    "summary": "Backgrind是一款允许AI代理在任何应用程序甚至游戏中运行的工具，突破了传统AI助手的应用限制，为元宝产品经理提供了AI代理跨平台能力实现的技术参考和场景拓展思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/atomic-mail-agentic": {
+    "title_clean": "Atomic Mail Agentic：AI邮件自主处理工具",
+    "summary": "Atomic Mail Agentic是一款能够自主阅读、发送和响应邮件的AI代理工具，可自动化处理邮件交互流程，为AI助手在邮件服务场景的应用提供参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/notchkin": {
+    "title_clean": "Notchkin：MacBook刘海屏笔记应用",
+    "summary": "Notchkin是一款专为MacBook刘海屏设计的笔记应用，直接在屏幕顶部刘海区域显示笔记内容，为用户提供便捷的笔记记录体验，适合需要快速记录信息的场景。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agent-37-38": {
+    "title_clean": "Agent 37：客户专属AI代理服务",
+    "summary": "Agent 37提供为客户定制专属AI代理的服务，类似于Hermes或OpenClaw，帮助企业为每个客户创建个性化AI助手，提升客户服务体验和自动化水平。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/plansera-ai": {
+    "title_clean": "Plansera AI：AI生成的E-2签证商业计划工具",
+    "summary": "Plansera AI是一款专门为E-2签证申请提供AI生成商业计划的服务，帮助用户快速创建符合签证要求的商业计划文档。该工具针对特定签证场景提供专业文档生成服务，为元宝在垂直领域AI应用场景拓展提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
   }
 }
