@@ -9893,5 +9893,90 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040235&idx=1&sn=1dc07c284cf5853fadfe83b5bbf3c12f": {
+    "title_clean": "LLM推理的动态短板能靠世界模型补上吗？",
+    "summary": "探讨大语言模型在推理能力上的动态短板，以及世界模型是否能够弥补这一缺陷。这对元宝产品经理评估AI助手能力边界和未来技术方向具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040235&idx=2&sn=5e43b1b490103dcf8e96f3e16d95a558": {
+    "title_clean": "PPO算法：经典强化学习算法曾被NeurIPS拒稿",
+    "summary": "PPO算法是强化学习领域的经典算法，尽管最初被NeurIPS会议拒稿，但后来成为广泛应用的重要算法。对产品经理了解AI算法发展历程和学术与工业界的关系有参考价值，有助于理解技术突破的偶然性和必然性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040234&idx=2&sn=1efae613482a41c6b0722999d581576b": {
+    "title_clean": "靠零食和黑客松，能重振Meta士气吗？",
+    "summary": "Meta尝试通过提供零食和举办黑客松活动来提升员工士气，这反映了公司可能面临团队士气低落的问题。对于元宝产品经理，这提示关注员工激励机制和团队文化建设的重要性，以及如何通过内部活动激发创新活力。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040203&idx=1&sn=00d7a504194702e57f5d351bdea7b5e6": {
+    "title_clean": "GRPO过时了吗?",
+    "summary": "探讨GRPO(Gradient-based Reward Optimization)方法在AI训练中的适用性，分析其当前技术状态与替代方案，为AI产品经理提供模型训练策略参考。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040234&idx=1&sn=b9d20058d84b417a596123a0c7e0ce4d": {
+    "title_clean": "机器学习之父Jordan：Hinton等思想领袖正在伤害年轻一代",
+    "summary": "机器学习之父Jordan批评Hinton等AI思想领袖对年轻一代造成负面影响，指出行业领袖的观点可能误导AI发展方向，影响年轻从业者的职业选择和技术认知。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040233&idx=1&sn=912663a1c53071d5fd2bd1dc4fa5c03a": {
+    "title_clean": "强化学习之父Sutton联手毁灭战士之父Carmack：让机器人进入真实世界打游戏",
+    "summary": "强化学习之父Richard Sutton与游戏开发者John Carmack合作，探索如何让机器人在真实环境中通过游戏学习。这一结合强化学习与游戏技术的尝试，为AI在复杂现实环境中的应用提供了新思路，对元宝产品经理在AI交互与场景拓展方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040233&idx=2&sn=bcc6686e7a7b7ab1696ca3c93eb0bd49": {
+    "title_clean": "ICML 2026：大模型训练越自信越缺乏探索能力，LED技术为LRM模型找回探索上限",
+    "summary": "ICML 2026研究表明，大模型在训练过程中会逐渐变得自信，但同时也失去了探索新解决方案的能力。LED技术为LRM模型提供了找回探索上限的方法，这对AI产品经理理解模型训练与探索能力的平衡具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
