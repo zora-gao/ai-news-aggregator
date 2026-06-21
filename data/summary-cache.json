@@ -9978,5 +9978,18 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+    "title_clean": "三星电子引入ChatGPT和Codex服务全球员工",
+    "summary": "三星电子在全球范围内部署ChatGPT Enterprise和Codex服务，成为OpenAI最大的企业级AI应用案例之一。这展示了大型企业对AI助手和代码生成工具的采纳趋势，对元宝产品经理了解企业级AI应用场景和商业化路径具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
