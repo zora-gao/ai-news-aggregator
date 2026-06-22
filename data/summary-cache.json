@@ -10039,5 +10039,207 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cloudflare": {
+    "title_clean": "Cloudflare Temporary Accounts：AI Agent免注册部署工具",
+    "summary": "Cloudflare推出临时账户功能，允许AI Agent在用户正式注册前进行部署和测试，简化了AI助手的接入流程，有助于降低用户使用门槛，提升产品转化率，对AI服务场景的快速接入有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/md-html-reader": {
+    "title_clean": "MD+HTML Reader：AI生成内容预览工具",
+    "summary": "这是一款专注于预览AI生成的Markdown和HTML内容的工作区工具，帮助产品经理在开发AI内容生成功能时，能够更清晰地查看和评估AI输出的格式化内容，对内容展示和编辑功能有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentx": {
+    "title_clean": "AgentX：AI Agent 评估与修复工具",
+    "summary": "AgentX 是一款用于评估 AI agent 性能、定位问题并提供一键修复功能的工具。它帮助产品经理快速发现和解决 AI agent 在实际应用中的问题，提升服务质量和用户体验，对优化 AI Agent 产品具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mediaseg": {
+    "title_clean": "MediaSeg：macOS媒体文件分割工具",
+    "summary": "MediaSeg是一款macOS工具，可将大型媒体文件分割为适合上传的小块文件。对于处理视频、音频等大文件的用户和需要批量上传媒体内容的产品经理，该工具提供了实用的文件处理解决方案，有助于优化上传流程和用户体验。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/selector-forge": {
+    "title_clean": "Selector Forge：AI生成弹性选择器浏览器扩展",
+    "summary": "Selector Forge是一款浏览器扩展工具，利用AI技术生成具有弹性的网页元素选择器，能够应对网页结构变化，提高自动化测试和网页抓取的稳定性。产品经理可关注其在AI辅助网页自动化领域的应用价值，为元宝的网页交互能力提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bg-app": {
+    "title_clean": "Photoroom API：批量产品图像编辑API",
+    "summary": "Photoroom API提供批量产品图像编辑服务，允许开发者通过API接口大规模处理和优化产品图片，这对电商类AI助手产品在图像处理能力上有参考价值，可作为图像增强功能的潜在技术方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/alai": {
+    "title_clean": "Alai 2.0：AI演示与社交内容设计助手",
+    "summary": "Alai 2.0是一款AI设计助手，专注于帮助用户创建演示文稿和社交媒体内容。这款工具能够自动生成设计元素和文案，提升内容创作效率，对元宝产品经理在AI内容生成和设计辅助功能方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet": {
+    "title_clean": "Clawd：本地离线AI浏览器吉祥物",
+    "summary": "Clawd是一款基于本地离线AI技术的浏览器吉祥物，能够根据上下文提供智能交互。该产品展示了在浏览器环境中实现完全本地化AI交互的可能性，为元宝产品经理探索轻量级AI助手在浏览器场景的应用提供了参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/uwait": {
+    "title_clean": "uwait：AI思考付费工具",
+    "summary": "uwait是一款允许用户在AI思考过程中获得报酬的工具，它将AI处理时间转化为用户收益，为用户提供了一种新型AI交互体验，同时探索了AI服务与用户激励结合的新模式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/algofly-ai": {
+    "title_clean": "AlgoFly AI：视觉AI构建与部署平台",
+    "summary": "AlgoFly AI是一个一站式平台，专注于视觉AI模型的构建与部署。该产品为开发者提供了完整的视觉AI解决方案，可能包括模型训练、部署和管理功能，对于元宝产品经理了解AI视觉服务的技术实现和商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/chinese-backing-helps-african-startup-spiro-near-unicorn-status": {
+    "title_clean": "中国投资助力非洲电动出行初创公司Spiro接近独角兽估值",
+    "summary": "中国投资机构NewTrails Capital将向非洲电动出行初创公司Spiro投资5500万美元，助力该公司接近独角兽估值。这一投资反映了中非在电动车领域的合作加强，对元宝产品经理了解国际AI服务市场扩张和新兴市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentic-document-extraction": {
+    "title_clean": "Agentic Document Extraction：AI文档智能提取工具",
+    "summary": "该工具致力于将各类文档转化为可计算的数据，通过AI技术实现文档内容的智能提取和处理，帮助用户从非结构化文档中获取结构化信息，为AI助手处理文档类任务提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/onbrand-2": {
+    "title_clean": "OnBrand by SlideSpeak：AI代理品牌设计工具",
+    "summary": "OnBrand by SlideSpeak是一款为AI代理提供品牌设计上下文的工具，帮助AI系统保持品牌一致性。产品经理可参考其如何将品牌元素融入AI交互，这对提升AI助手品牌识别度和用户体验具有重要价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds": {
+    "title_clean": "Seedcamp完成3.2亿美元募资，欧洲种子轮融资达10亿美元",
+    "summary": "欧洲早期种子投资机构Seedcamp完成第七期基金2.2亿美元和精选基金二期1亿美元募资，总管理规模达10亿美元，专注于投资种子期初创企业。这反映了欧洲AI创业生态的活跃度，对元宝产品经理了解欧洲AI投资趋势和潜在合作伙伴有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/korea-mulls-steps-to-rein-in-leveraged-samsung-sk-hynix-etfs": {
+    "title_clean": "韩国市场监管机构：后悔批准单股票杠杆ETF",
+    "summary": "韩国金融监管机构负责人表示后悔上月未阻止单股票杠杆ETF的推出，警告其负面影响已显著增长。这对金融科技产品经理有参考价值，特别是在设计投资产品时需考虑风险控制与监管合规。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/tencent-tests-ai-assistant-for-its-super-app-wechat-in-china": {
+    "title_clean": "腾讯测试微信AI助手：加速追赶中国AI竞争",
+    "summary": "腾讯开始在其超级应用微信中测试新的AI助手，这是其在中国激烈的人工智能竞赛中追赶竞争对手的努力的一部分。这一动向表明腾讯正在将AI能力整合到其核心社交平台，可能影响国内AI助手市场的竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
