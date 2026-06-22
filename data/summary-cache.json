@@ -11005,5 +11005,74 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-22/the-close-6-22-2026-video": {
+    "title_clean": "科技股抛售拖累美股下跌 | 6月22日收盘",
+    "summary": "彭博电视报道华尔街收盘前后的最新新闻与分析，指出科技股抛售导致股市整体下跌。这一市场动态对元宝产品经理了解科技行业投资情绪和市场波动有参考价值，可能影响AI产品在金融场景的应用策略。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/wisetech-says-founder-white-denies-human-trafficking-involvement": {
+    "title_clean": "WiseTech创始人否认参与人口贩卖指控",
+    "summary": "WiseTech Global Ltd.董事长理查德·怀特否认媒体关于其因涉嫌利用女性而被警方调查的人口贩卖指控。这起事件可能影响公司声誉和业务运营，对产品经理了解企业风险管理和危机公关有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-insait-io": {
+    "title_clean": "Executive Interview: Insait.io：AI企业服务市场定位访谈",
+    "summary": "Insait公司COO IFlax接受CB Insights访谈，分享公司对市场的定义、客户需求认知及自身定位，包括可寻址市场规模(TAM)分析，为AI企业服务产品提供市场洞察参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal": {
+    "title_clean": "AI芯片公司Groq确认6.5亿美元融资，在Nvidia 200亿美元收购未果后重组团队",
+    "summary": "AI芯片公司Groq在Nvidia 200亿美元收购未果后，成功完成6.5亿美元融资，并重组团队，加强其neocloud业务。这一事件反映了AI芯片领域的竞争格局变化，对元宝产品经理了解AI基础设施投资趋势和供应链策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000": {
+    "title_clean": "Oracle裁员21000人，AI替代部分岗位",
+    "summary": "Oracle在过去12个月内裁员21000人，规模比此前已知更大，其中包括被人工智能取代的岗位。这反映了AI在企业中替代人工的趋势，对元宝产品经理了解AI对就业市场的影响和自动化服务的商业机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040341&idx=2&sn=4c6395cd01386c7981206e16957185cf": {
+    "title_clean": "清华团队提出可信原生中转基础设施TrustedARI",
+    "summary": "清华大学团队开发了TrustedARI，这是首个可信原生AI中转基础设施，旨在解决AI中转站的安全与可信问题。该技术为AI服务提供了更安全的中转方案，对AI助手和AI Agent产品的安全架构设计具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
