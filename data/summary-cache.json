@@ -10464,5 +10464,288 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal": {
+    "title_clean": "Google DeepMind与A24合作7500万美元开发AI电影制作工具",
+    "summary": "Google DeepMind与电影制作公司A24达成合作，投资7500万美元共同开发AI电影制作工具。这一合作标志着科技巨头向创意产业AI应用的深度拓展，为元宝在创意服务场景的AI应用提供了重要参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-22/bloomberg-tech-6-22-2026-video": {
+    "title_clean": "SpaceX启动高级别债券发行：Bloomberg报道其IPO后首次投资级债券发售",
+    "summary": "SpaceX在创纪录的IPO后首次发行投资级债券，Bloomberg科技频道对此进行了详细分析。同时，美光与Anthropic达成AI基础设施合作协议。这反映了航天科技巨头在资本市场的新动向，以及AI基础设施领域的合作趋势，对元宝产品经理了解科技巨头融资策略和AI生态布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/marketing-digital-ad-tracker-appsflyer-lands-1b": {
+    "title_clean": "AppsFlyer获10亿美元融资，估值达27亿美元",
+    "summary": "数据分析公司AppsFlyer据报道完成E轮融资，获资超10亿美元，估值达27亿美元。该公司专注于帮助企业追踪数字广告效果，此次融资后可能考虑上市。对产品经理的参考价值在于了解数字广告分析领域的投资动态和市场趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/valve-prices-steam-machine-games-console-above-1-000-citing-component-shortage": {
+    "title_clean": "Valve：Steam游戏主机定价超1000美元",
+    "summary": "Valve宣布其立方体形状的Steam游戏主机定价超过1000美元，并称这是由于组件短缺导致的。该游戏主机的发布已因价格波动而推迟数月，这对游戏硬件市场及AI助手在游戏领域的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-resolve-ai": {
+    "title_clean": "Resolve AI：企业级AI解决方案市场访谈",
+    "summary": "Resolve AI产品营销负责人Manveer Sahtoa接受CB Insights采访，分享了公司对市场未来、客户需求的看法，以及如何定义其市场定位。这对元宝产品经理了解企业级AI解决方案的市场趋势和客户需求有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/executive-interview-crescendo": {
+    "title_clean": "Executive Interview: Crescendo",
+    "summary": "Crescendo通讯主管Sylvie Tongco接受CB Insights采访，分享公司市场定位、客户需求认知及业务布局。作为AI产品高管访谈，提供了行业视角和产品策略参考，对元宝产品经理了解同类企业市场策略有借鉴价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-22/microsoft-chevron-sign-power-deal-for-texas-data-center-video": {
+    "title_clean": "微软与雪佛龙签署德州数据中心电力协议",
+    "summary": "雪佛龙与微软签署20年协议，将为德克萨斯州拟建的数据中心提供天然气发电，该数据中心可能成为美国最大的数据中心之一。这对元宝产品经理了解大型科技公司的能源基础设施规划和数据中心建设有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/kids-online-safety-bill-deal-struck-by-house-gop-democrats": {
+    "title_clean": "美国两党达成儿童网络安全法案协议",
+    "summary": "美国国会两党就加强儿童和青少年网络安全与隐私保护的立法方案达成协议，这是重大政策进展。该法案旨在为未成年人提供更安全的网络环境，可能影响AI产品对未成年用户的服务内容和功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/tech-rally-is-seen-having-more-runway-as-ai-spending-gains-speed": {
+    "title_clean": "科技股上涨：AI基础设施支出加速推动",
+    "summary": "科技股预计将延续至少两个季度的上涨趋势，因为人工智能基础设施支出增速超过过去两年水平。这一趋势表明AI投资正在加速，对元宝产品经理而言，这可能意味着AI服务市场正在扩大，为产品商业化提供更多机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california": {
+    "title_clean": "加油站被控利用AI抬高加州油价",
+    "summary": "加州消费者起诉多家加油站巨头，包括沃尔玛、马拉松石油、BP和7-Eleven，指控其使用人工智能算法非法抬高汽油价格。此案揭示了AI在商业定价中的潜在滥用问题，对产品经理了解AI伦理边界和监管风险具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab": {
+    "title_clean": "SpaceX与Reflection AI达成AI算力合作",
+    "summary": "SpaceX与开源AI实验室Reflection AI签署算力协议，后者将从2026年7月起每月支付1.5亿美元，获取SpaceX Colossus 2数据中心内Nvidia最新GB300 AI芯片及配套硬件的即时访问权限，协议将持续至2029年。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/centrica-ceo-eyes-us-for-more-lng-deals-and-trading-expansion": {
+    "title_clean": "Centrica CEO寻求扩大美国液化天然气交易",
+    "summary": "英国Centrica公司计划增加购买美国液化天然气，尽管全球地缘政治紧张局势凸显能源安全挑战，但该公司仍认为天然气在未来几十年内仍将是能源系统的关键组成部分。这一动向对能源行业和能源安全策略有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.cbinsights.com/research/ceo-interview-growverse": {
+    "title_clean": "CEO访谈：Growverse创始人谈市场定位与客户需求",
+    "summary": "Growverse创始人Roberto Romagnino接受CB Insights采访，分享公司对市场的看法、客户需求分析以及自身在行业中的定位。这为元宝产品经理提供了AI服务领域企业战略视角，有助于理解市场趋势和客户需求变化。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-22/jpmorgan-s-sundar-discusses-ai-investment-opportunities-video": {
+    "title_clean": "JPMorgan's Sundar：AI投资机会分析",
+    "summary": "摩根大通私人银行另类投资策略主管Sitara Sundar分析了内存芯片股的近期爆发式增长，特别提到了美光等公司的表现，为AI投资领域提供了专业视角和战略参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI搜索"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/alphabet-shares-drop-after-second-ai-star-departs-for-a-rival": {
+    "title_clean": "Alphabet 股价下跌：第二位AI明星高管离职竞品",
+    "summary": "Alphabet 股价周一下跌，因又一位人工智能领域的高管离职加入竞争对手公司。这反映了AI人才争夺战加剧，可能影响谷歌在AI领域的战略布局和竞争力，对产品经理评估人才保留和竞争态势有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-22/spacex-kicks-off-debut-high-grade-bond-sale-video": {
+    "title_clean": "SpaceX：首次发行高等级债券融资AI发展",
+    "summary": "SpaceX首次发行投资级债券，为其AI野心提供资金支持，此前公司刚创下IPO纪录。这表明SpaceX正加速布局AI领域，对关注AI商业化路径和大型科技公司战略布局的产品经理有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment": {
+    "title_clean": "Meta投资9亿美元任命Cred创始人担任WhatsApp新负责人",
+    "summary": "Meta向印度金融科技初创公司Cred投资9亿美元，并计划任命其创始人Kunal Shah为WhatsApp新任负责人。这反映了Meta在印度市场的战略布局，以及WhatsApp可能向金融服务领域拓展的信号，对元宝产品经理了解大型科技公司的跨领域投资战略和社交平台金融化趋势有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/robinhood-seeks-to-raise-2-billion-in-convertible-bond-sale": {
+    "title_clean": "Robinhood：寻求发行20亿美元可转换债券",
+    "summary": "Robinhood Markets计划通过发行可转换债券筹集20亿美元资金，加入当前活跃的资本市场融资浪潮。这一融资动向反映了Robinhood在当前市场环境下的资本策略，对了解金融科技公司的融资动向和资本市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/patch-the-planet": {
+    "title_clean": "Patch the Planet：OpenAI支持开源维护者的漏洞修复计划",
+    "summary": "OpenAI推出Patch the Planet计划，利用AI和专家审查帮助开源维护者发现、验证和修复安全漏洞。该计划为AI助手产品在开源社区安全支持方面提供了新思路，对元宝产品经理了解AI在代码安全领域的应用价值有参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-22/uber-backed-electric-bike-firm-lime-seeks-180-9-million-in-ipo": {
+    "title_clean": "Lime：电动滑板车租赁公司寻求1.809亿美元IPO",
+    "summary": "Lime是Uber支持的电动滑板车租赁公司，计划在美国首次公开募股中筹集高达1.809亿美元。这一IPO反映了共享出行领域的资本动向，对元宝产品经理了解共享经济模式、出行服务商业化路径及资本对AI服务场景的偏好有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-22/china-s-ai-programs-for-students-eliminate-12-000-university-degrees": {
+    "title_clean": "中国推行教育改革以适应AI时代",
+    "summary": "北京取消了超过12000个大学学位项目，淘汰了许多被视为过时的专业。这一改革旨在调整教育体系以适应人工智能时代的需求，为元宝产品经理提供了关于AI时代人才需求变化的重要参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/daybreak-securing-the-world": {
+    "title_clean": "Daybreak：企业级AI安全工具集",
+    "summary": "OpenAI推出Daybreak工具集，包含Codex Security和GPT-5.5-Cyber，旨在帮助组织大规模发现、验证和修复安全漏洞。这对元宝产品经理了解AI在安全领域的应用价值和企业级AI工具发展方向有重要参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/codex-maxxing-long-running-work": {
+    "title_clean": "Codex-maxxing for long-running work：使用Codex管理复杂项目与长期工作流",
+    "summary": "Jason Liu分享如何利用Codex保持上下文连贯性，管理复杂项目，使工作能够跨越单个提示持续进行。这对AI助手产品经理有参考价值，展示了如何设计支持长期任务和上下文记忆的AI工作流。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
