@@ -11074,5 +11074,67 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse": {
+    "title_clean": "Amazon被裁定需与旧金山仓库工人进行集体谈判",
+    "summary": "美国劳工委员会法官裁定亚马逊必须与加州仓库工人进行集体谈判，这可能引发法律纠纷，最终由特朗普任命的官员可能推翻这一决定。这对了解劳资关系对大型企业运营的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai": {
+    "title_clean": "2026年科技行业裁员潮：AI成为主要裁员原因",
+    "summary": "本文按时间顺序梳理了2026年多家大型科技公司宣布的裁员情况，这些公司明确将AI作为裁员因素。这反映了AI技术对就业市场的直接影响，对产品经理评估AI替代人力场景及人力资源规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs": {
+    "title_clean": "OpenAI启动开源软件安全漏洞修复计划",
+    "summary": "OpenAI推出新计划，致力于帮助开源社区发现并修复安全漏洞。这一举措反映了AI公司对开源软件安全问题的关注，对元宝产品经理了解AI企业在开源生态中的安全责任与合作模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040282&idx=2&sn=315eb43c1f97997a808b328749e61673": {
+    "title_clean": "中科院工业人工智能研究所PAIWorld：世界模型登顶国际榜单",
+    "summary": "中科院工业人工智能研究所的世界模型PAIWorld在WorldArena国际评测中排名第一，展示了其在世界模型领域的领先技术实力。这一成果对AI产品经理评估技术路线和研发方向具有重要参考价值，特别是在构建复杂系统理解和预测能力方面。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/india-s-biggest-equity-fund-makes-contrarian-bet-on-it-stocks": {
+    "title_clean": "印度最大股票基金逆势投资IT股",
+    "summary": "印度最大主动管理型股票基金逆势买入受AI冲击而下跌的IT外包行业股票，认为AI对IT外包行业的担忧被过度放大。这一投资动向反映了专业投资者对AI实际影响IT行业速度的判断，对元宝产品经理评估AI对传统服务行业的颠覆节奏有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
