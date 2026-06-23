@@ -11685,5 +11685,154 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses": {
+    "title_clean": "Meta与依视路陆逊梯卡合作推出Meta眼镜",
+    "summary": "Meta与眼镜巨头依视路陆逊梯卡合作推出Meta眼镜，提供26种不同款式、颜色、镜片和镜框选择，满足多样化风格需求。这对元宝产品经理了解AI硬件与时尚结合的跨界合作模式有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses": {
+    "title_clean": "Meta 推出自有品牌智能眼镜，售价降至299美元",
+    "summary": "Meta正式推出自有品牌智能眼镜，价格降至299美元，未来还计划推出无摄像头版本。这标志着Meta在消费级AI硬件领域的战略调整，对元宝产品经理评估AI硬件与AI助手结合的商业模式有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates": {
+    "title_clean": "Fika Jobs：AI视频面试招聘平台",
+    "summary": "瑞典初创公司Fika Jobs获得400万美元融资，打造以视频为核心的招聘平台，结合AI面试代理和短视频简历，创造类似LinkedIn与TikTok融合的招聘体验。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul": {
+    "title_clean": "Menlo Ventures：AI初创公司Anthropic最大规模融资30亿美元",
+    "summary": "Menlo Ventures在2024年冒险筹集5亿美元投资Anthropic，当时Anthropic还是OpenAI的弱势竞争对手，尚未产生显著收入或获得主流采用。此次30亿美元融资标志着AI领域投资热潮持续，对元宝产品经理了解AI初创公司融资环境和竞争格局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-23/tencent-and-microsoft-add-to-painful-adjustment-for-games-industry": {
+    "title_clean": "游戏行业面临更艰难的几个月",
+    "summary": "全球最大游戏出版商正在讨论削减部分投资，表明游戏行业可能面临进一步的财务压力和调整。这对元宝产品经理了解娱乐行业AI应用场景和商业化策略有参考价值，特别是游戏与AI结合的服务机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ibm-research/cuga-apps": {
+    "title_clean": "Build real agentic apps using CUGA：轻量级代理应用构建工具",
+    "summary": "CUGA是一个轻量级框架，提供了二十多个实际可用的代理应用示例，帮助开发者构建真实的AI代理应用。该工具对元宝产品经理具有参考价值，特别是在AI Agent能力构建和实际应用场景方面提供了具体实现方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video": {
+    "title_clean": "Oracle裁员21000人：AI替代部分岗位",
+    "summary": "Oracle在过去12个月内裁员21000人，规模超出此前预期。此次裁员包括因人工智能应用而被消除的职位，反映了AI技术对企业人力资源结构的深远影响，对产品经理评估AI替代人工场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/gracias-valor-to-raise-2-5-billion-fund-amid-spacex-win": {
+    "title_clean": "Gracias' Valor：SpaceX支持者筹集25亿美元风投基金",
+    "summary": "Antonio Gracias的Valor Equity Partners是与埃隆·马斯克长期合作的创投公司，正筹集约25亿美元投资初创企业，并基于其作为SpaceX支持者的成功经验进行扩展。这对元宝产品经理的参考价值在于了解大型AI相关领域的投资动向和潜在合作机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator": {
+    "title_clean": "Google：推出AI初创企业孵化器，扶持前员工创业",
+    "summary": "Google推出新孵化器，专门支持前员工创建AI初创企业，加强与硅谷最大最具影响力校友网络的联系。此举表明Google正在积极布局AI生态，通过扶持前员工创业来扩大其在AI领域的影响力，同时可能形成新的商业合作机会。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/why-spacex-shares-are-under-pressure-video": {
+    "title_clean": "SpaceX股价承压：AI交易停滞影响融资计划",
+    "summary": "SpaceX在备受期待的IPO后不到两周，投资者对其增长前景产生质疑。公司计划筹集数十亿美元投资级债务，但AI交易停滞可能影响其融资能力，这对评估高估值科技公司的市场反应有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids": {
+    "title_clean": "欧盟将升级对Meta针对儿童成瘾性设计的调查",
+    "summary": "欧盟计划加强对Meta平台的调查，指控其产品设计对儿童具有成瘾性，这反映了监管机构对社交媒体保护未成年人的关注加强。产品经理需关注此类监管趋势对产品设计的影响，特别是涉及用户粘性和青少年保护的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats": {
+    "title_clean": "全球顶级情报机构警告：AI网络威胁将在数月内影响普通用户",
+    "summary": "全球最强大的情报联盟发布紧急警告，称AI网络威胁激增已不再是企业数据中心面临的遥远问题，将在数月内直接影响普通用户。这一警示对产品经理具有重要参考价值，提示需加强AI安全防护功能，特别是在用户数据保护和隐私安全方面的产品规划。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }
