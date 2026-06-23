@@ -12135,5 +12135,230 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040548&idx=1&sn=51f4d687e60e406d761bbf473bff6bae": {
+    "title_clean": "ACL2026论文作者来北京：AI前沿技术分享会",
+    "summary": "ACL2026论文作者在北京举办技术分享会，聚焦AI前沿研究成果。活动为产品经理提供了直接了解最新AI技术进展和学术动态的机会，有助于把握行业技术趋势和产品创新方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040783&idx=1&sn=60e33dfa7534c96c03d9fb3e1ad88714": {
+    "title_clean": "豆包大模型21发布：生产级AI模型重大升级",
+    "summary": "豆包大模型21正式发布，标志着其再次实现生产级质变点升级。作为字节跳动旗下的AI大模型，此次更新可能带来性能、效率或应用场景的显著提升，对产品经理评估国产大模型发展路径和竞品动态具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040687&idx=3&sn=6fc0e69567a4d42d3090874b5a26aef8": {
+    "title_clean": "清华团队提出真机强化学习安全探索均衡机制",
+    "summary": "清华大学团队针对真机强化学习中的安全性问题提出了一种安全探索均衡机制，旨在平衡探索效率与安全边界，为AI机器人在物理环境中的安全应用提供新思路，对元宝产品经理在AI安全交互设计方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040555&idx=1&sn=27b16fa6c61eb8dff5385ab648d73d7f": {
+    "title_clean": "Momenta：自动驾驶技术公司港交所上市",
+    "summary": "Momenta作为英伟达合作三年的自动驾驶技术公司，准备在港交所上市。这反映了自动驾驶领域的技术成熟度和商业化进程加速，对AI服务场景和商业化路径有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040555&idx=2&sn=4826b3e4c3d05e899906c0d62aec1a32": {
+    "title_clean": "亚马逊团队ACL论文：AI个性化记忆系统测评",
+    "summary": "亚马逊团队在ACL会议上发表研究，首次系统测评AI个性化记忆系统，探讨AI如何根据用户特征提供差异化服务。这项研究对元宝产品经理了解AI个性化技术前沿和用户需求变化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/fda-drops-complaint-against-whoop-s-blood-pressure-tracking-tool": {
+    "title_clean": "FDA撤销对Whoop血压追踪工具的投诉",
+    "summary": "美国食品药品监督管理局撤销了对健身追踪品牌Whoop Inc.血压追踪工具的投诉，标志着该机构在此前要求该公司停止销售该工具后的政策转变。这一事件对AI健康监测产品经理具有重要参考价值，反映了监管机构对消费级健康监测设备态度的可能变化。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/top-energy-fund-likes-japan-stocks-that-power-ai-efficiently": {
+    "title_clean": "Top Energy Fund看好日本AI高效能源股",
+    "summary": "全球表现最佳能源基金之一加码投资帮助数据中心提高能源效率的企业，日本相关股票成为其重点投资对象。这反映了AI发展带来的能源需求增长及能效优化机会，对元宝产品经理评估AI服务能耗成本与可持续性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/ai-boom-sees-investors-shift-from-japan-s-value-to-growth-stocks": {
+    "title_clean": "日本股市：AI企业推动增长型投资热潮",
+    "summary": "日本股市传统被视为价值投资市场，但AI相关企业市值攀升，正吸引全球投资者转向增长型股票。这一趋势表明AI技术正在重塑日本股市结构，对元宝产品经理了解AI投资动向和市场信号具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/cerebras-projects-2026-sales-that-leave-investors-wanting-more": {
+    "title_clean": "Cerebras：AI芯片制造商2026年销售预测不及投资者预期",
+    "summary": "Cerebras Systems作为新上市的AI芯片制造商，发布了2026年销售预测，但这一预测未能满足投资者对公司快速增长的期望，反映出AI芯片市场竞争激烈且投资者对AI硬件企业的高增长预期。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/world-cup-mints-big-prediction-winners-and-losers-video": {
+    "title_clean": "世界杯预测市场：百万赢家与输家分析",
+    "summary": "范德堡大学法学教授Yesha Yadav在Bloomberg Crypto节目中分析世界杯预测市场表现，揭示预测市场如何成为公共账本，以及其中的赢家与百万美元级输家情况，为AI预测产品提供市场参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/gamestop-s-cohen-drops-35-billion-pay-plan-to-focus-on-ebay-bid": {
+    "title_clean": "GameStop CEO放弃350亿美元薪酬计划，专注竞购eBay",
+    "summary": "GameStop CEO瑞安·科恩撤回了一项价值高达350亿美元的奖金计划，以便公司能\"完全专注于GameStop的运营表现\"。这一决策表明GameStop可能正在积极寻求对eBay的收购，反映了公司战略方向的重大转变。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/cme-sues-cftc-as-battle-over-perpetual-futures-heats-up-video": {
+    "title_clean": "CME起诉CFTC：永续期货监管之争升温",
+    "summary": "芝加哥商品交易所(CME)起诉商品期货交易委员会(CFTC)，双方就永续期货监管问题争端加剧。这一事件发生在CME集团首席执行官Terry Duffy宣布将于明年年初卸任之际，反映了加密货币衍生品市场监管格局的变化，对元宝产品经理了解金融科技监管趋势和合规挑战有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/chip-stocks-sink-as-ai-selloff-ripples-across-from-asia-video": {
+    "title_clean": "AI芯片股抛售潮蔓延至美国市场",
+    "summary": "全球芯片股抛售导致美国股市大幅下跌，市场对AI驱动的科技反弹可持续性产生质疑。这一动态反映了AI行业投资情绪变化，对元宝产品经理评估AI市场趋势和投资环境具有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic": {
+    "title_clean": "Menlo Ventures融资30亿美元专注AI初创企业投资",
+    "summary": "知名风投机构Menlo Ventures宣布筹集30亿美元新资金，这是其50年历史上最大规模的募资，将用于投资从种子期到成长期的AI初创企业。这反映了AI领域投资热度持续高涨，对元宝产品经理了解AI行业资本动向和潜在合作伙伴生态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/netflix-unveils-new-horror-game-unhinged-to-jumpstart-interactive-offerings": {
+    "title_clean": "Netflix 推出新恐怖游戏《Unhinged》以拓展互动内容",
+    "summary": "Netflix 发布恐怖游戏《Unhinged》，旨在作为其流媒体服务上其他游戏的入口，标志着公司向互动内容领域拓展的战略举措，为AI助手在游戏化互动场景中的应用提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/helping-build-shared-standards-for-advanced-ai": {
+    "title_clean": "OpenAI参与构建先进AI共享标准",
+    "summary": "OpenAI通过Appia基金会支持评估框架、安全实践和全球合作，共同构建先进AI的共享标准。这反映了行业对AI安全与标准化合作的重视，对元宝产品经理了解行业规范发展方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/strive-is-buying-bitcoin-hand-over-fist-ceo-says-video": {
+    "title_clean": "Strive：比特币增持策略",
+    "summary": "Strive CEO Matt Cole表示当前是购买比特币的好时机，公司比特币持有量从去年秋季的5,000增至20,000。这一策略反映了企业对比特币长期价值的看好，对AI产品经理了解企业资产配置策略和加密货币市场趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/pnc-s-agati-sees-healthy-reset-after-tech-rally-video": {
+    "title_clean": "PNC投资总监：科技股回调是AI交易的健康调整",
+    "summary": "美国科技股随全球抛售潮下跌，PNC资产管理集团首席投资官Amanda Agati认为，这是AI交易后的健康回调，投资者正在重新评估AI投资价值。对产品经理的参考价值在于了解AI投资热度变化可能影响AI产品商业化进程和资本市场预期。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
