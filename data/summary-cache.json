@@ -13739,5 +13739,191 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041019&idx=2&sn=72f287572334e4356f25d5aa449f29e8": {
+    "title_clean": "清华微软联合推出STAR-PólyaMath：数学竞赛AI解决方案",
+    "summary": "清华大学与微软合作开发的STAR-PólyaMath在八大数学竞赛中表现优异，Apex基准测试结果超越GPT-5。该AI系统专注于数学问题解决能力，展示了在专业领域AI技术的突破性进展，为元宝在垂直领域AI能力建设提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041019&idx=1&sn=b533a9bce8f515dcece68765375638cf": {
+    "title_clean": "员工将Google Workspace接入OpenClaw后被谷歌开除",
+    "summary": "一名员工将Google Workspace接入名为OpenClaw的第三方工具，随后被谷歌公司开除。此事反映了企业对API接入和数据安全的严格管控，对AI助手产品在跨平台集成和数据合规方面具有重要警示意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040859&idx=1&sn=a7702a5e0b414f9945b83d1ccccd925a": {
+    "title_clean": "AetherAI：押注因果世界模型的AI公司",
+    "summary": "AetherAI专注于因果世界模型研究，从传统的预测AI转向干预型AI，探索通过理解因果关系来提升AI决策能力。这一方向可能为AI助手提供更精准的问题解决能力和更可靠的服务场景应用，对产品经理思考AI能力边界具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040859&idx=2&sn=43a32b10d7d5638a408019deacbe4ed2": {
+    "title_clean": "端侧大模型部署技术简化",
+    "summary": "端侧大模型部署技术取得突破，使在本地设备上运行大型语言模型变得更加简单可行。这一进展对元宝产品经理具有重要参考价值，意味着未来AI助手可以更轻量化地在用户设备上运行，提升响应速度和隐私保护能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood": {
+    "title_clean": "Cerebras：AI芯片公司财报后股价大跌",
+    "summary": "AI芯片公司Cerebras在上市后首次财报中预测核心业务毛利率将收窄，导致股价大幅下跌。CEO表示市场对其利润预期存在误解，这一事件反映了AI硬件行业面临的盈利挑战和市场波动。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/the-close-6-24-2026-video": {
+    "title_clean": "美光财报前股市波动，原油价格下跌",
+    "summary": "彭博电视报道美光科技财报发布前股市波动情况，以及原油价格下跌对市场的影响。此资讯对元宝产品经理参考价值有限，主要关注传统金融市场动态，与AI产品或服务无直接关联。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company": {
+    "title_clean": "美国公司内存芯片短缺业务收入激增",
+    "summary": "美国一家公司受益于全球内存芯片短缺，季度收入同比增长四倍至414.5亿美元，利润从18.8亿美元激增至282亿美元，显示芯片供应链紧张为企业带来巨大商业机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth": {
+    "title_clean": "美光和高通芯片股因AI快速增长而上涨",
+    "summary": "美光科技发布强劲财报，显示人工智能仍是芯片行业的主要驱动力，带动半导体股票在盘后交易中大幅上涨。这一趋势表明AI硬件需求持续强劲，对元宝产品经理评估AI基础设施投资和算力资源规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/morgan-health-ceo-tech-glp-1s-labor-driving-up-costs-video": {
+    "title_clean": "Morgan Health CEO：科技、GLP-1药物与劳动力推高医疗成本",
+    "summary": "Morgan Health CEO Dan Mendelson指出，美国小企业正面临医疗保险成本大幅上涨问题，保费增长达20-25%，科技、GLP-1药物和劳动力成本是主要驱动因素。这对AI健康服务产品经理了解行业成本结构和潜在服务机会有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient": {
+    "title_clean": "AI并未减少工程师岗位，数据显示工程师就业韧性最强",
+    "summary": "SignalFire数据显示，尽管AI主导了裁员叙事，但工程师在新聘员工中的占比实际上在增加，表明工程师岗位在AI时代展现出极强的就业韧性，这对元宝产品经理评估AI对职业市场的影响和人才策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/micron-forecast-shatters-estimates-video": {
+    "title_clean": "美光科技：AI驱动内存芯片短缺致销售超预期",
+    "summary": "美光作为美国最大内存芯片制造商，受AI需求推动的内存芯片短缺导致价格上涨，其销售预测大幅超出华尔街预期。这一趋势反映了AI对硬件需求的强劲拉动，对元宝产品经理评估AI服务资源成本和供应链策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/bloomberg-deals-6-24-2026-video": {
+    "title_clean": "Bloomberg Deals：全球企业交易新闻节目",
+    "summary": "Bloomberg Deals是一档午间节目，提供全球市场重要企业交易的深度报道，今日嘉宾为Veolia CEO Estelle Brachlianoff。该节目聚焦企业并购等重大商业动态，对元宝产品经理了解商业资讯服务场景和内容价值有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/focused-on-ai-at-the-enterprise-level-ganguly-video": {
+    "title_clean": "企业级AI应用：Ganguly谈软件服务价值",
+    "summary": "B Capital联合创始人兼联席CEO Raj Ganguly在彭博商业周刊节目中讨论企业级AI应用，强调软件用例不会消失，并分享对企业服务的见解。这对元宝产品经理了解企业级AI服务市场趋势和商业价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/micron-sales-forecast-shatters-estimates-on-ai-demand-video": {
+    "title_clean": "美光科技：AI需求推动销售预测大幅超越预期",
+    "summary": "美光科技发布销售预测，受AI需求推动的组件短缺导致价格飙升，预计营收将达到500亿美元。这一数据表明AI硬件需求强劲增长，对AI芯片供应链和硬件供应商具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks": {
+    "title_clean": "企业限制员工使用AI预算应对小额任务",
+    "summary": "企业正采取措施限制员工过度使用AI处理小额任务，标志着从'最大化使用AI'转向'AI配额管理'的时代转变。这对产品经理了解企业客户成本控制需求及AI服务定价策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
