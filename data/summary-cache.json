@@ -12471,5 +12471,76 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/jd-com-s-shen-on-china-economic-outlook-video": {
+    "title_clean": "京东首席经济学家沈建光谈中国经济展望",
+    "summary": "京东副总裁兼首席经济学家沈建光与彭博社记者分享中国经济展望，指出中国正加速进入AI驱动时代，需求持续增长。此资讯对元宝产品经理了解中国经济环境与AI发展态势的关联性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/wef-co-chair-on-global-economic-outlook-video": {
+    "title_clean": "WEF联席主席谈全球经济展望",
+    "summary": "世界经济论坛联席主席André Hoffmann讨论了中东冲突和市场波动背景下的全球增长前景及中国经济展望。此资讯对元宝产品经理了解全球经济形势可能影响AI服务市场需求的宏观背景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-23/meta-s-cox-sought-shah-s-whatsapp-advice-then-made-him-leader": {
+    "title_clean": "Meta任命WhatsApp新领导：从寻求印度投资者建议到任命其为负责人",
+    "summary": "Meta任命印度知名天使投资者、金融科技创业公司Cred创始人Kunal Shah为WhatsApp新领导，这一决定始于Meta向其发送的一封冷邮件。这一人事变动反映了Meta对WhatsApp领导层战略调整，对产品经理了解大型科技公司的决策机制和人才战略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040783&idx=2&sn=b8930e93fdba3e91fc98187682922460": {
+    "title_clean": "LeCun、谢赛宁转发的世界模型与VLA共融方案",
+    "summary": "LeCun和谢赛宁转发了中关村学院提出的将世界模型与VLA(视觉语言动作)共融的方案，该方案将在ECCV2026会议上展示。这代表了AI领域对世界模型和VLA技术融合的前沿探索，对AI助手和Agent的发展方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040687&idx=1&sn=2c73f012b6de7e93f6cae1ec97cbda76": {
+    "title_clean": "生物学迎来EDA时刻",
+    "summary": "生物学领域迎来EDA(探索性数据分析)的重要时刻，暗示AI技术在生物数据分析领域的应用突破，可能为元宝产品在生物科学领域的AI应用提供新思路。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/musk-s-spacex-adds-billions-in-debt-while-cutting-interest-costs": {
+    "title_clean": "SpaceX新增数十亿美元债务同时降低利息成本",
+    "summary": "SpaceX在持续烧钱业务中新增数十亿美元债务，同时成功降低了年度利息负担。这一财务操作展示了马斯克在资金管理上的能力，对AI产品经理理解大型科技公司的融资策略和资金运作有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }
