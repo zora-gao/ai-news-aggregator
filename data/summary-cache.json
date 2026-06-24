@@ -13230,5 +13230,241 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/andreessen-s-george-says-spacex-has-path-to-ai-in-space-video": {
+    "title_clean": "Andreessen's George：SpaceX在太空AI领域的发展路径",
+    "summary": "Andreessen Horowitz合伙人兼SpaceX早期投资者David George表示，埃隆·马斯克新上市公司SpaceX有能力在人工智能太空计算领域实现重大突破。这对元宝产品经理了解科技巨头在AI领域的战略布局和未来发展方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/cerebras-ceo-capacity-is-largest-constraint-right-now-video": {
+    "title_clean": "Cerebras CEO：AI算力供应是当前最大瓶颈",
+    "summary": "Cerebras CEO表示，当前AI发展的最大限制因素是算力供应不足。公司年度销售预测未达投资者预期，导致股价大跌，反映出AI数据中心市场扩张面临挑战，对AI基础设施规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/synter-media-ai": {
+    "title_clean": "Prospector by Synter：Slack内嵌外联助手",
+    "summary": "Prospector是一款集成在Slack中的外联助手工具，帮助用户在Slack界面内完成外部联系和沟通任务。这款产品针对团队协作场景，将外联功能直接整合到日常沟通平台中，为产品经理提供了AI助手在特定工作场景中的应用思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/what-to-watch-for-in-micron-earnings-video": {
+    "title_clean": "美光科技财报前瞻：内存芯片巨头业绩展望",
+    "summary": "美光科技作为全球重要的内存芯片制造商，将在盘后公布财报。该公司股价今年已上涨近300%，投资者关注其业绩指引，这可能反映存储芯片行业需求变化，对AI硬件供应链有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal": {
+    "title_clean": "Agility Robotics：人形机器人公司通过SPAC上市",
+    "summary": "Agility Robotics是一家2015年从俄勒冈州立大学分拆出来的人形机器人初创公司，计划通过SPAC方式上市，交易价值达25亿美元，预计将筹集6.2亿美元资金。这一动向反映了人形机器人领域的资本热度，对元宝产品经理了解AI硬件商业化路径和机器人服务场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/mntn-ceo-on-world-cup-ad-boom-video": {
+    "title_clean": "MNTN CEO谈世界杯广告热潮",
+    "summary": "世界杯预计将驱动全球超过105亿美元的广告支出。随着AI内容充斥互联网，体育直播对品牌价值愈发重要。MNTN CEO分享了这一趋势对广告行业的影响，提示AI时代下真实内容场景的商业价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/google-ibm-y-microsoft-impulsan-la-revolucion-cuantica-mqsa9mdd": {
+    "title_clean": "中美欧加速量子计算竞争",
+    "summary": "美国、中国和欧洲正在加速量子计算领域的竞争，标志着量子计算技术已进入实际应用阶段。这一动态对元宝产品经理具有重要参考价值，因为量子计算可能颠覆现有AI计算基础，影响未来AI模型训练和推理能力，需要关注其技术进展和商业化路径。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/opinion-a-solution-to-climbing-electricity-bills-video": {
+    "title_clean": "家庭数据中心解决方案：降低电费支出",
+    "summary": "该创业公司提出将数据中心设置在家庭中的解决方案，以降低电费支出。这一创新思路可能为AI服务提供商提供新的基础设施布局思路，对元宝产品经理思考边缘计算和分布式服务架构有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update": {
+    "title_clean": "Figma新增代码层、动画支持与AI功能",
+    "summary": "Figma更新新增代码层、动画和着色器支持，并允许使用AI创建各种任务的自定义插件。这对产品经理有参考价值，展示了AI在设计工具中的实际应用场景，以及如何通过AI增强产品功能。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "多模态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/ai-is-modeling-mega-storms-with-surprising-accuracy-video": {
+    "title_clean": "AI精准预测超强飓风：2025年Melissa飓风测试",
+    "summary": "AI模型在2025年成功预测了现代史上最强的5级飓风Melissa，展示了AI在极端天气预测方面的惊人准确性。这一测试结果对AI在灾害预警、应急管理场景的应用具有重要参考价值，为元宝在天气服务、安全提醒等场景的AI应用提供了可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel": {
+    "title_clean": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel：NVIDIA推出Transformer模型微调加速工具",
+    "summary": "NVIDIA发布NeMo AutoModel工具，旨在加速Transformer模型的微调过程。该工具通过自动化流程简化模型优化，可帮助AI产品团队提高模型训练效率，降低开发成本，对需要快速迭代AI模型的团队具有实用价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/openai-broadcom-develop-ai-chip-called-jalapeno-video": {
+    "title_clean": "OpenAI与Broadcom合作开发AI芯片'Jalapeno'",
+    "summary": "OpenAI与博通公司合作开发名为'Jalapeno'的定制AI芯片，目前正进行样品测试。该芯片据称可将成本降低50%，这对AI基础设施成本控制具有重要参考价值，可能影响未来AI服务定价策略和算力资源规划。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/micron-earnings-take-focus-as-market-on-edge-over-ai-video": {
+    "title_clean": "美光财报：AI市场波动下的半导体行业新格局",
+    "summary": "美光财报发布引发市场震荡，半导体行业在AI驱动下的增长面临重新评估。美光作为存储芯片巨头，其业绩表现反映了AI硬件需求变化，对元宝产品经理判断AI基础设施投资趋势和硬件-软件协同机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality": {
+    "title_clean": "Google推出100美元智能音箱：Gemini在家用场景表现欠佳",
+    "summary": "Google时隔六年推出新款智能音箱，定价100美元。作为AI行业领导者，Google试图将Gemini AI整合到家居设备中，但评测显示其在家庭场景的表现未能充分体现AI优势，对产品经理评估AI助手在硬件设备上的落地价值有参考意义。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/fintech-unicorn-is-said-to-tap-citi-and-efg-for-cairo-listing": {
+    "title_clean": "Fintech MNT-Halan：埃及金融科技企业计划开罗上市",
+    "summary": "埃及金融科技独角兽企业MNT-Halan正筹备在开罗证券交易所进行首次公开募股，预计最快今年完成。这一动向反映了中东地区金融科技企业的资本化趋势，对元宝产品经理了解新兴市场金融科技服务场景和商业化路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/labor-shortages-limit-data-center-build-saint-gobain-video": {
+    "title_clean": "数据中心建设受劳动力短缺限制",
+    "summary": "圣戈班CEO表示，劳动力短缺正在限制北美数据中心建设，并将影响欧洲地区。作为建筑材料制造商，圣戈班指出数据中心扩张面临的人力资源挑战，这对AI基础设施规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/ubs-fowler-sees-value-in-us-cyclicals-pharmaceuticals-video": {
+    "title_clean": "UBS策略师看好美国周期股和医药股价值",
+    "summary": "UBS首席欧洲股票策略师兼衍生品主管Gerry Fowler讨论科技股抛售背后的因素，并指出他看好的市场价值所在。他预计市场将出现波动，并分析了周期股和医药股的投资机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/ffasr-leaderboard": {
+    "title_clean": "FFASR Leaderboard：语音识别现实世界基准测试",
+    "summary": "FFASR Leaderboard是一个新的语音识别(ASR)基准测试平台，专注于评估模型在真实世界场景中的表现。该平台为AI语音识别产品经理提供了评估和比较不同ASR模型在复杂环境下的性能标准，有助于优化产品语音交互能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper": {
+    "title_clean": "OpenAI与Broadcom联合推出AI专用芯片：提升模型运行效率并降低成本",
+    "summary": "OpenAI与Broadcom合作推出首款定制AI芯片，旨在通过硬件优化提升ChatGPT等AI模型的运行效率并降低成本。这一合作反映了AI公司通过自研或定制硬件来提升竞争力的战略动向，对元宝的产品经理评估AI基础设施与成本优化具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
