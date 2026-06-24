@@ -12855,5 +12855,380 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nimt-ai": {
+    "title_clean": "Nimt：Slack中的AI搜索助手",
+    "summary": "Nimt是一款集成在Slack中的AI搜索工具，可作为用户的AI搜索同事，帮助在Slack环境中进行高效信息检索和知识查询，提升团队协作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/off-autopilot-2": {
+    "title_clean": "Off Autopilot：人工精选的AI编程代理文章",
+    "summary": "Off Autopilot是一个专注于AI编程代理的精选内容平台，提供由人类撰写的深度文章，帮助开发者了解和掌握AI编程代理的最新实践与应用，对元宝产品经理在AI编程助手领域的产品设计有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai": {
+    "title_clean": "XCures：AI医疗记录整理工具获4600万美元B轮融资",
+    "summary": "XCures是一家利用AI技术简化患者数据和医疗记录的初创公司，已完成由Innovius Capital领投的4600万美元B轮融资。该产品专注于解决医疗记录混乱问题，为AI在医疗数据处理领域的应用提供了重要参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-29-4-billion-us-listing-to-seize-on-memory-chip-frenzy": {
+    "title_clean": "SK海力士拟在美国上市融资290亿美元，抢占内存芯片市场热潮",
+    "summary": "SK海力士寻求在美国上市融资290亿美元，旨在利用投资者对内存芯片股票的高需求。此举发生在该行业本周经历大幅抛售后，显示内存芯片市场仍具吸引力，对AI硬件供应链和芯片市场格局有重要参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/inside-the-shadow-market-selling-access-to-amazon-employees": {
+    "title_clean": "亚马逊卖家揭露隐蔽贿赂市场：中间人通过通讯软件提供企业内部人员贿赂渠道",
+    "summary": "亚马逊卖家通过通讯软件如微信接触到中间人，这些中间人声称可以付费获取企业内部人员提供的特殊 favors，揭示了电商平台中存在的隐蔽贿赂市场，对平台治理和合规管理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools": {
+    "title_clean": "Microsoft：Copilot AI协助打击网络犯罪工具",
+    "summary": "Microsoft报告称其Copilot AI助手帮助研究人员识别并击败了网络犯罪工具和旧恶意软件技术。这展示了AI在网络安全领域的实际应用价值，为元宝产品在安全防护场景下的AI应用提供了参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-confirms-buying-modular-to-help-ai-market-push": {
+    "title_clean": "Qualcomm收购Modular：39亿美元强化AI数据中心能力",
+    "summary": "高通宣布以39亿美元股票收购Modular公司，获得人工智能软件能力，以加强其在数据中心领域的AI布局。这一收购将帮助高通提升AI技术实力，特别是在数据中心市场的竞争力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/dubai-holding-weighs-stake-in-bain-s-data-center-group-hscale": {
+    "title_clean": "迪拜控股考虑投资贝恩数据中心集团Hscale",
+    "summary": "迪拜控股正考虑投资私募股权支持的数据中心建设公司Hscale，以扩大其在欧洲的投资组合。这一动向表明中东资本对数据中心基础设施领域的兴趣增加，可能影响全球数据中心市场的竞争格局和投资趋势。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/biotech-visionary-is-skeptical-about-ai-s-impact-on-medical-innovation": {
+    "title_clean": "Biotech Visionary：对AI在医学创新中作用的质疑",
+    "summary": "CRISPR基因编辑技术发明者对人工智能在科学发现领域替代人类努力持怀疑态度，反映了AI在生物医学创新领域应用的真实挑战与争议，对产品经理评估AI在专业领域应用的局限性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/micron-to-be-gut-check-moment-for-markets-dan-ives-video": {
+    "title_clean": "美光科技财报：AI市场重要风向标",
+    "summary": "韦德布什证券科技研究主管Dan Ives指出，美光科技周三的财报将成为AI市场的重要'检验时刻'，反映科技资本支出和AI建设趋势，对元宝产品经理判断AI硬件需求与市场信心有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale": {
+    "title_clean": "前Meta CTO：现在是构建硬科技公司的最佳时机",
+    "summary": "前Meta CTO、Gigascale Capital创始人Mike Schroepfer在Crunchbase访谈中讨论了即将到来的算力危机，解释为何基础设施已成为战略护城河，并从电池技术到芯片设计的突破如何影响AI创业公司的发展方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-24/online-child-sex-abuse-in-ai-era-shows-shortage-of-funding-to-fight-back": {
+    "title_clean": "AI时代儿童性侵案件激增，调查预算却严重不足",
+    "summary": "AI技术导致互联网上儿童性侵内容激增，但相关调查机构的预算却未能同步增长，导致执法资源严重不足，无法有效应对这一日益严峻的问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/sk-hynix-seeks-to-raise-29-billion-in-us-listing-video": {
+    "title_clean": "SK海力士计划在美国上市融资290亿美元以满足AI芯片需求",
+    "summary": "SK海力士计划通过在美国上市融资290亿美元，以满足日益增长的AI芯片需求。这笔交易预计于7月10日开始交易，反映了半导体行业对AI硬件支持的高度重视，对元宝产品经理了解AI基础设施投资趋势和供应链变化有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/lingyi-itech-raises-1-1-billion-with-shares-priced-at-maximum": {
+    "title_clean": "Lingyi iTech：AI芯片企业香港上市融资11亿美元",
+    "summary": "中国AI芯片企业Lingyi iTech在香港上市融资11亿美元，定价达到最高区间，因投资者需求强劲而拒绝了超过10倍的超额认购。这反映了AI芯片领域的资本热度，对元宝产品经理了解AI基础设施投资趋势和供应链布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-24/ai-auto-loan-fraud-is-rising-as-lenders-struggle-with-delinquencies": {
+    "title_clean": "骗子利用AI伪造汽车贷款文件",
+    "summary": "美国汽车贷款行业面临多年来的最高违约率，骗子开始利用AI技术伪造汽车贷款文件，给汽车贷款机构带来新的风险和挑战。这一趋势反映了AI技术在欺诈领域的应用，对金融风控和身份验证系统提出了更高要求。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/waymo-charging-partner-terawatt-raises-up-to-300-million-in-debt": {
+    "title_clean": "Waymo充电合作伙伴Terawatt获3亿美元债务融资",
+    "summary": "Terawatt Infrastructure作为Waymo的电动汽车充电服务提供商，获得最多3亿美元银行贷款，用于支持公司收购业务。这反映了自动驾驶领域充电基础设施建设的资本投入增加，对元宝在AI服务场景拓展中考虑能源服务合作具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/mgx-sets-up-50-billion-ai-fund-video": {
+    "title_clean": "MGX设立500亿美元AI基金",
+    "summary": "阿布扎比MGX从区域和全球投资者处筹集近500亿美元，成为史上规模最大的AI专项投资基金之一。这一巨额投资反映了资本对AI领域的强烈信心，可能影响AI基础设施和大型模型开发格局，对元宝产品经理了解行业资本动向和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/meta-microsoft-lead-850-billion-boom-in-data-center-leases": {
+    "title_clean": "Meta与微软引领8500亿美元数据中心租赁热潮",
+    "summary": "Meta和微软近期分别承诺投入数百亿美元用于数据中心租赁，这一大规模投资反映了AI行业对基础设施的迫切需求。这对元宝产品经理而言，提示了AI服务背后的算力成本与基础设施布局的重要性，以及大型科技公司对AI基础设施的持续投入趋势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use": {
+    "title_clean": "三星开放员工使用ChatGPT Enterprise和Codex",
+    "summary": "三星电子扩大员工对ChatGPT Enterprise和Codex的访问权限，允许员工在技术性和非技术性工作中更广泛地使用AI工具。这一部署表明大型企业正在逐步放宽AI限制，增加AI工具在工作场景中的应用，这对AI助手产品的企业级应用策略有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents": {
+    "title_clean": "Anthropic：在Slack中直接部署工作场所AI助手",
+    "summary": "Anthropic推出Claude Tag功能测试版，将聊天模型直接集成到Slack共享频道中，打破了传统孤立聊天框的限制，使企业团队能在协作环境中直接使用AI助手，这对AI助手在办公场景的集成方式有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/ai-billionaires-score-win-in-29-million-new-york-proxy-fight": {
+    "title_clean": "AI亿万富翁在纽约代理权争夺战中获胜",
+    "summary": "AI领域亿万富翁包括风险投资家马克·安德森和OpenAI总裁格雷格·布罗克曼，在纽约市国会初选中取得关键胜利，这场选举演变为耗资2900万美元的代理权争夺战，反映了AI行业在政治影响力方面的显著增长。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/jpmorgan-s-chang-says-ai-capex-story-remains-intact-video": {
+    "title_clean": "摩根大通：AI资本支出故事依然完整",
+    "summary": "摩根大通全球研究主席Joyce Chang讨论科技股前景，解释她认为AI资本支出受益者的故事'仍然非常完整'。这反映了大型金融机构对AI投资的持续看好，对元宝产品经理判断AI商业化趋势和资本流向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/ai-loses-out-to-human-wealth-managers-hsbc-survey-says": {
+    "title_clean": "汇丰财富报告：AI在关键领域不敌人类顾问",
+    "summary": "汇丰控股报告显示，对于高净值人群，人工智能在处理许多需求时无法与人类顾问竞争。这一发现对AI助手产品在财富管理领域的定位具有重要参考价值，提示AI应专注于辅助而非完全替代人类顾问。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/amazon-ramps-up-india-fast-commerce-push-to-take-on-local-rivals": {
+    "title_clean": "Amazon CEO 首次印度行加速推进快速商务",
+    "summary": "亚马逊CEO安迪·贾西首次印度之行期间，大幅扩展其Amazon Now快速配送服务覆盖的印度城市和城镇，这是亚马逊在印度市场积极扩张以应对竞争的重要举措。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+    "title_clean": "OpenAI与Broadcom推出LLM推理优化芯片",
+    "summary": "OpenAI与Broadcom联合发布Jalapeño芯片，专为大型语言模型推理任务设计，旨在提升AI系统性能、效率和可扩展性，这对AI基础设施和成本优化具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/spacex-sells-25-billion-of-bonds-cuts-interest-costs-video": {
+    "title_clean": "SpaceX：出售250亿美元债券降低融资成本",
+    "summary": "SpaceX周二发行了250亿美元投资级债券，完成了替换高成本债务的最后一步，这些债务曾帮助埃隆·马斯克收购X（前推特）。此举对元宝产品经理有参考价值，反映了科技巨头通过资本市场优化融资结构的策略，可能影响AI领域的资金流向和竞争格局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising": {
+    "title_clean": "SK海力士寻求通过美国上市筹集290亿美元以支持AI发展",
+    "summary": "SK海力士计划通过美国上市筹集45.45万亿韩元(约294亿美元)，这是AI供应链企业为满足内存芯片需求激增而扩大产能的重要举措。这一融资反映了AI硬件基础设施投资的快速增长趋势，对元宝产品经理了解AI产业链资本动向和硬件支持需求具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain": {
+    "title_clean": "智谱AI考虑在香港进行数十亿美元股票发售，股价上涨2000%",
+    "summary": "中国AI模型公司智谱AI正考虑在香港进行数十亿美元的股票发售，此前其股价已上涨约2000%。这一动向反映了AI领域的资本热度，对元宝产品经理评估AI创业公司估值和融资环境有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/kioxia-s-executive-pay-jumps-after-ai-boosts-demand-and-stock": {
+    "title_clean": "Kioxia高管薪酬因AI芯片需求激增而大幅上涨",
+    "summary": "日本闪存制造商Kioxia Holdings Corp.的高管薪酬大幅上涨，反映了全球对AI相关芯片的强劲需求。这一趋势表明AI芯片市场正在快速增长，对元宝产品经理了解AI硬件市场动态和供应链变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/leveraged-etfs-sell-6-billion-of-korean-chip-stocks-bi-says": {
+    "title_clean": "韩国杠杆ETF在市场抛售中卖出约60亿美元芯片股",
+    "summary": "杠杆ETF为维持杠杆比率，在市场下跌中抛售了约60亿美元的韩国芯片巨头三星电子和SK海力士股票，这反映了市场波动对ETF自动调仓机制的影响，对产品经理理解金融产品风险管理和市场联动机制有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
