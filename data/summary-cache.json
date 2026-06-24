@@ -12542,5 +12542,280 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/futo-swipe": {
+    "title_clean": "FUTO Swipe：设备端滑动手势输入模型",
+    "summary": "FUTO Swipe是一个开源模型，专注于在设备端实现滑动手势输入功能。这为元宝产品经理提供了关于移动端输入交互和本地化AI处理的参考价值，特别是在优化移动设备上的文本输入体验方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/swimio": {
+    "title_clean": "Swimio：AI游泳教练与训练工具",
+    "summary": "Swimio是一款结合Apple Watch的AI游泳教练应用，提供智能训练计划和实时追踪功能，帮助游泳爱好者优化训练效果。产品经理可关注其如何将AI与可穿戴设备结合，为特定运动场景提供个性化指导。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/production-ready-ui-kits-by-cometchat": {
+    "title_clean": "React UI Kit V7：聊天组件工具包",
+    "summary": "React UI Kit V7 提供完整的聊天组件，简化了复杂度，帮助开发者快速构建聊天界面。产品经理可参考其组件设计思路，优化元宝的UI交互体验，提升开发效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stalemate-pr": {
+    "title_clean": "StaleMate PR：GitHub PR积压提醒工具",
+    "summary": "StaleMate PR是一款菜单栏工具，当GitHub上的Pull Request积压时会将菜单栏变为红色提醒开发者，帮助及时处理代码审查和合并请求，避免项目进度延误。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stripe": {
+    "title_clean": "Stripe.Directory：商家搜索工具",
+    "summary": "Stripe.Directory是Stripe推出的新功能，允许用户和AI代理搜索平台上的商家信息。这为AI助手提供了新的服务场景，可能帮助用户发现和连接支付服务提供商，对元宝在商业服务场景拓展上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mindstone-rebel": {
+    "title_clean": "Mindstone Rebel：AI智能工作空间助手",
+    "summary": "Mindstone Rebel是一款AI工作空间工具，能够理解用户工作内容并主动询问需求。这款产品专注于AI助手与工作场景的结合，通过主动交互提升工作效率，对元宝产品经理在AI助手主动服务场景设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clarify-6": {
+    "title_clean": "Customer Relationship Agents by Clarify：AI客户关系管理代理",
+    "summary": "Clarify推出客户关系代理(CRM)，旨在将传统CRM中的'M'(管理)转变为AI代理，自动化处理客户关系任务，减轻人工负担，提升客户服务效率与体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agent-card": {
+    "title_clean": "Buy by Agentcard：通过Claude订购DoorDash服务工具",
+    "summary": "Buy by Agentcard是一款允许用户通过Claude AI助手直接订购DoorDash外卖服务的工具，实现了AI Agent与实际生活服务的无缝连接，为元宝产品经理提供了AI服务场景拓展和跨平台操作能力的重要参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/crewdle": {
+    "title_clean": "Crewdle AI：企业AI工具聚合平台",
+    "summary": "Crewdle AI提供企业级AI工具聚合服务，用户无需单独订阅多个AI工具即可使用各类商业AI功能。该平台可能通过整合不同AI服务，降低企业使用AI的成本和复杂度，对元宝产品经理在AI服务整合和企业客户解决方案方面有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/catl-s-jun-on-sodium-ion-batteries-and-ai-technology-video": {
+    "title_clean": "CATL聚焦钠离子电池与AI储能技术",
+    "summary": "CATL首席制造官倪军表示，公司今年将重点部署钠离子电池，以满足AI相关储能需求。作为全球最大电池制造商，CATL正将AI技术与新型电池结合，为AI数据中心等高能耗场景提供能源解决方案。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/propane": {
+    "title_clean": "Propane：产品团队与AI代理的自动客户上下文工具",
+    "summary": "Propane是一款为产品团队和AI代理提供自动客户上下文信息的工具，帮助产品经理更好地理解用户需求和行为模式，为产品决策和AI服务优化提供数据支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/bytedance-seeks-20-billion-in-its-largest-ever-offshore-loan": {
+    "title_clean": "字节跳动寻求200亿美元全球贷款",
+    "summary": "字节跳动正与多家银行洽谈约200亿美元的全球贷款，这将是有史以来该公司最大规模的离岸贷款。这笔资金可能用于支持TikTok等业务的全球扩张和运营，对元宝产品经理了解字节跳动财务状况和战略方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/tencent-tests-deepseek-powered-ai-agent-for-wechat-corporate-app": {
+    "title_clean": "腾讯测试微信办公版AI助手",
+    "summary": "腾讯正在为其类Slack的企业通讯应用微信办公版开发AI助手功能，此举加剧了中国科技巨头争夺用户生态的竞争。该AI助手将为企业用户提供智能交互体验，是腾讯在AI助手领域的重要布局，对元宝产品经理了解企业级AI助手竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-24/bain-capital-s-zhu-on-investing-in-china-video": {
+    "title_clean": "Bain Capital's Zhu on Investing in China",
+    "summary": "贝恩资本大中华区主席Jonathan Zhu在达沃斯论坛期间分享对中国市场的投资展望与策略，为元宝产品经理提供国际资本对中国科技市场态度的参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/blackrock-backed-aip-said-to-be-interested-in-stack-data-centers": {
+    "title_clean": "BlackRock支持的AIP与KKR竞购Stack亚洲数据中心",
+    "summary": "BlackRock支持的AI基础设施合作伙伴(AIP)与KKR正在竞购Stack Infrastructure在亚太地区的数据中心资产。这反映了大型资本对AI基础设施的持续投资热潮，对元宝产品经理了解AI基础设施市场格局和潜在合作机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/philippine-tycoon-boosts-philweb-investment-in-online-gaming-push": {
+    "title_clean": "菲律宾大亨增持PhilWeb股份，推动在线游戏与AI布局",
+    "summary": "菲律宾亿万富翁兰斯·郭慕礼增持在线游戏技术公司PhilWeb 15%股份，推动该公司向人工智能领域拓展，同时增强自身在AI领域的投资布局。这一动向反映了AI在游戏行业的应用潜力与商业价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/softbank-s-masayoshi-son-scraps-plan-to-retire-in-his-sixties": {
+    "title_clean": "孙正义驳斥AI泡沫论，推迟退休计划",
+    "summary": "软银集团创始人孙正义驳斥了关于AI泡沫的担忧，认为这种说法对刚刚开始的AI革命是不恰当的。他决定推迟退休计划，表明将继续领导软银在AI领域的投资和布局，这对AI行业发展和投资方向具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/airpods-maker-luxshare-said-to-gauge-interest-for-3-billion-hong-kong-listing": {
+    "title_clean": "立讯精密：AirPods制造商寻求30亿美元香港上市",
+    "summary": "立讯精密作为AirPods制造商，正寻求在香港进行约30亿美元的首次公开募股。这一动向对元宝产品经理具有重要参考价值，因为它反映了硬件制造商与AI语音助手产品的深度绑定关系，以及供应链企业通过资本市场扩张的战略意图。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/indian-tech-s-nifty-share-shrinks-to-record-low-on-ai-worries": {
+    "title_clean": "印度科技股因AI担忧跌至历史低点",
+    "summary": "印度软件出口商因AI颠覆性担忧持续抛售，导致其在印度股市的影响力降至历史低点。这一市场信号反映了AI对传统IT服务行业的潜在冲击，对元宝产品经理评估AI对服务行业的影响和商业机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents": {
+    "title_clean": "MoEngage：AI客户代理营销平台",
+    "summary": "MoEngage通过全现金收购获得AI客户代理技术，可为每位客户分配专属AI代理，标志着营销领域向大规模AI代理应用转变，为AI服务场景和商业化提供新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-24/philippines-bans-gorebox-as-police-finds-school-shooter-played-online-game": {
+    "title_clean": "菲律宾禁售游戏GoreBox：涉校园枪击案致三人死亡",
+    "summary": "菲律宾网络犯罪机构临时禁售在线游戏GoreBox，初步调查显示，本周校园枪击案的两名学生嫌疑人中，一人曾接触该游戏。此事件引发对游戏内容监管与青少年行为影响的讨论，对元宝产品经理评估内容安全机制与青少年用户保护策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-23/the-close-06-23-2026-video": {
+    "title_clean": "美股下跌：华尔街迎来AI警醒",
+    "summary": "彭博电视报道华尔街股市下跌，ProShares研究主管等嘉宾分析AI市场动态。此资讯反映AI领域波动对金融市场的影响，对元宝产品经理了解AI行业市场信号与投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
   }
 }
