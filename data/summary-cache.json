@@ -14925,5 +14925,247 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/korea-s-stock-mania-warning-video": {
+    "title_clean": "韩国AI股票热潮警示：芯片股暴涨背后的泡沫风险",
+    "summary": "韩国股市受AI芯片推动年涨幅近200%，但过度依赖两家公司且波动剧烈，可能预示着市场泡沫风险。这对AI硬件产业链和投资策略有警示意义，产品经理可关注AI芯片供应链稳定性与市场过热风险。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/vllm-jobs": {
+    "title_clean": "Run a vLLM Server on HF Jobs in One Command：一键在HF Jobs上部署vLLM服务器",
+    "summary": "该资讯介绍了一项新功能，允许用户通过单一命令在Hugging Face Jobs平台上快速部署vLLM服务器。这为AI产品经理提供了简化大模型部署的解决方案，可能降低技术门槛并加速AI应用开发流程，对需要快速部署大语言模型服务的团队具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-25/apple-podcasts-video-push-shows-early-promise": {
+    "title_clean": "Apple 推出视频播客服务，初期表现积极",
+    "summary": "Apple今年进入视频播客领域，此前该市场份额被YouTube占据。早期加入该服务的播客节目对结果持谨慎乐观态度，表明视频播客可能成为新的内容消费形式。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/chipmaker-onsemi-to-buy-synaptics-in-6-billion-all-stock-deal": {
+    "title_clean": "Onsemi收购Synaptics：60亿美元芯片并购案",
+    "summary": "美国芯片制造商Onsemi将以全股票方式收购专注于智能设备半导体设计的Synaptics，交易价值约62亿美元。此次并购将强化Onsemi在智能设备芯片领域的布局，对AI硬件供应链和边缘计算芯片市场格局有重要影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/jpmorgan-s-aliaga-seeing-whipsaw-in-markets-around-ai-video": {
+    "title_clean": "摩根大通Aliaga：市场对AI的波动性分析",
+    "summary": "摩根大通资产管理全球市场策略师Stephanie Aliaga分析了当前市场围绕AI的波动情况，并对未来走势给出展望。这为产品经理提供了AI市场情绪和投资趋势的重要参考，有助于理解市场对AI产品的接受度和商业化潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents": {
+    "title_clean": "Patronus AI：AI Agent压力测试平台获5000万美元融资",
+    "summary": "Patronus AI由前Meta AI研究人员创立，获得5000万美元融资，专注于构建'数字世界'来压力测试AI Agent的能力。该平台需求旺盛，为AI Agent开发者提供安全可靠的测试环境，对评估AI Agent在实际场景中的表现具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/ai-sales-start-to-justify-data-center-spending-boom-video": {
+    "title_clean": "AI销售开始证明数据中心支出激增的合理性",
+    "summary": "报告显示，AI收入已达到临界点，表明科技公司投入的数千亿美元AI支出可能具有经济可持续性。这对元宝产品经理评估AI商业化路径和投资回报具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/us-invests-250-million-in-billionaire-s-startup-for-chip-making": {
+    "title_clean": "美国向亿万富翁创业公司投资2.5亿美元用于芯片制造",
+    "summary": "美国向I-Pulse Inc.投资2.5亿美元，支持其半导体和脉冲功率技术开发，这家由Robert Friedland联合创立的公司正加入美国减少对外国依赖的努力。这一投资反映了美国在半导体领域的战略布局，对AI硬件供应链和芯片技术发展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/waymo-registers-german-entity-for-future-european-expansion": {
+    "title_clean": "Waymo在德国注册实体，计划拓展欧洲无人驾驶出租车服务",
+    "summary": "Waymo在德国注册实体，计划将其无人驾驶出租车服务扩展至欧洲市场，这是Alphabet旗下公司继美国本土后的重要国际扩张举措，对元宝产品经理了解AI服务跨国拓展策略和自动驾驶商业化路径有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/bloomberg-tech-6-25-2026-video": {
+    "title_clean": "苹果提价，美光AI需求激增：Bloomberg科技分析",
+    "summary": "Bloomberg报道苹果提价，美光因AI需求强劲业绩远超预期，Qualcomm CEO也分享了公司强劲的财报表现。这反映了AI芯片市场的强劲增长和供应链变化，对元宝产品经理了解AI硬件成本趋势和供应链动态有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/bob-sloan-s-market-positioning-warning-video": {
+    "title_clean": "Bob Sloan's Market Positioning Warning：市场表面繁荣下的风险预警",
+    "summary": "S3 Partners创始人Bob Sloan指出，尽管市场可能接近历史高位，但真正的风险隐藏在表面之下。他分析了被动投资策略可能带来的市场定位风险，为产品经理提供了市场趋势判断和风险管理的参考视角。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x": {
+    "title_clean": "Databricks前AI首席：新型图像生成系统可降低AI能耗1000倍",
+    "summary": "Un-0是一种新型图像生成系统工具，首次展示了其技术如何复制传统AI系统，并声称可将AI能耗降低1000倍。这一突破性技术对AI产品经理具有重要参考价值，可能改变AI服务成本结构和能效优化方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/ibm-rallies-on-new-chip-mccormick-moves-on-guidance-video": {
+    "title_clean": "IBM发布全球首款1纳米以下芯片技术",
+    "summary": "IBM推出全球首款1纳米以下芯片技术，股价在盘前交易中上涨。这一技术突破可能对AI硬件性能产生重要影响，对元宝产品经理评估AI基础设施发展和技术路线有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/trump-sons-invested-in-private-fund-making-millions-on-microcaps": {
+    "title_clean": "特朗普儿子投资微型股基金获利",
+    "summary": "一项包含特朗普长子在内的投资基金通过投资微型股获利数亿美元，展示了特定投资策略的盈利能力。对产品经理而言，这可能反映高收益投资产品的市场机会，但与AI助手/Agent产品无直接关联。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world": {
+    "title_clean": "General Intuition：游戏训练AI现实世界代理工具",
+    "summary": "General Intuition获3.2亿美元融资，计划通过数百万小时的游戏训练AI，利用游戏中的行动数据帮助AI发展更接近人类直觉的能力，探索游戏数据训练AI代理在现实世界应用的可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/ai-neocloud-iren-adds-name-to-nba-s-golden-state-warriors-jersey": {
+    "title_clean": "AI云服务商IREN：获金州勇士队球衣赞助",
+    "summary": "澳大利亚云服务提供商IREN与NBA金州勇士队达成合作，其标志将出现在球队球衣上，这标志着AI数据中心服务正加速进入主流商业领域，为AI服务提供商的品牌曝光和商业化提供了新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-25/ai-revenue-hits-25-billion-topping-depreciation-for-meta-alphabet-microsoft": {
+    "title_clean": "AI收入开始超过关键基础设施成本但幅度不大",
+    "summary": "Google和Amazon的AI收入开始超过关键基础设施成本，但差距不大。这两家公司需要维持高价定价和强劲的用户增长才能收回投资，这对AI产品的商业化策略和成本控制具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/golf-carts-get-apple-design-treatment-from-julian-hoenig-at-amble": {
+    "title_clean": "前苹果设计师重新设计高尔夫球车",
+    "summary": "前苹果设计师Julian Hoenig推出的Amble品牌正在研发新一代高尔夫球场球车，目标远超传统球场应用场景。这展示了高端设计思维如何改造传统行业，为元宝产品经理提供了跨界设计灵感与高端产品定位参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76": {
+    "title_clean": "DeepSeek计划全面扩大团队规模",
+    "summary": "中国AI公司DeepSeek在完成大规模融资后，计划将所有部门规模至少扩大一倍，以加强与中国国内竞争对手及全球对手的竞争力度。这一扩张反映了DeepSeek对市场机会的积极布局和资源投入策略，对元宝产品经理了解AI行业人才竞争态势和企业扩张策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages": {
+    "title_clean": "苹果全面上调iPad和Mac价格后股价下跌",
+    "summary": "苹果公司全面上调Mac、iPad、家庭设备及Vision Pro价格，试图应对内存芯片和存储芯片的短缺导致的成本上升。此举导致苹果股价下跌，对元宝产品经理了解硬件成本波动对科技企业的影响及定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }
