@@ -14074,5 +14074,369 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/converge-5": {
+    "title_clean": "Converge：团队日程简化工具",
+    "summary": "Converge是一款专注于团队日程简化的工具，旨在解决多人协调会议时间的痛点。产品经理可参考其如何通过AI技术优化日程安排流程，提升团队协作效率，这为元宝在办公场景下的日程管理功能提供了竞品参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/figma": {
+    "title_clean": "Figma Motion：Figma 时间轴动画工具",
+    "summary": "Figma Motion 为 Figma 设计画布添加了时间轴功能，使设计师能够在设计工具内直接创建和编辑动画。这一更新将动画制作流程整合到设计工作流中，可能减少设计师与开发者之间的沟通成本，对元宝在多模态交互和设计工具集成方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/papermark-2": {
+    "title_clean": "Papermark Agents：AI交易与融资代理工具",
+    "summary": "Papermark Agents是一款AI代理工具，能够自动执行交易、融资和数据室管理任务，为商业谈判提供自动化支持。产品经理可关注其在金融交易场景中的应用，探索AI代理在商业流程自动化中的可能性。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/paybond": {
+    "title_clean": "Paybond CLI：终端AI代理支出管理工具",
+    "summary": "Paybond CLI是一款通过终端命令行界面管理AI代理支出的安全工具，帮助用户在开发环境中有效控制AI服务成本，对产品经理设计AI资源成本控制方案有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sidegent": {
+    "title_clean": "Sidegent：AI Agent 实践构建学习平台",
+    "summary": "Sidegent 是一个通过实际构建 AI agents 来学习相关技能的平台，采用实践教学方法帮助用户掌握 agent 开发能力。对于元宝产品经理而言，这反映了 AI Agent 领域的教育需求增长，以及通过实践学习成为趋势，可能启发元宝在产品中融入类似的学习功能或教程模块。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/quickmaker": {
+    "title_clean": "QuickMaker：Blender AI模型订阅服务",
+    "summary": "QuickMaker提供Blender软件中的先进AI模型订阅服务，整合了多个顶级AI工具，帮助3D创作者提升工作效率。产品经理可关注其AI工具整合模式与订阅策略，为元宝的AI工具集成与商业化提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/zaro": {
+    "title_clean": "Zaro：基于上下文构建代理与应用工具",
+    "summary": "Zaro是一个允许用户通过单个提示构建代理和应用程序的工具，专注于上下文理解与应用开发。产品经理可关注其如何简化AI代理创建流程，以及上下文技术在多场景应用中的实现方式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/meetpoint-2": {
+    "title_clean": "MeetPoint：多人航班价格优化工具",
+    "summary": "MeetPoint是一款帮助用户找到多人航班价格最低目的地的工具，通过分析不同城市的航班价格数据，为团体旅行提供最具成本效益的目的地选择方案，对元宝在旅行服务场景和AI Agent能力拓展方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI Agent",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/blop-ai": {
+    "title_clean": "Blop：AI应用测试与修复工具",
+    "summary": "Blop是一款自动化测试工具，能够描述应用功能后自动测试并修复失败的测试用例。这为AI辅助开发与测试提供了新思路，对元宝产品经理了解AI在软件质量保障中的应用场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/heron": {
+    "title_clean": "Heron：AI代理的被动eBPF可观测性工具",
+    "summary": "Heron是一款专为AI代理设计的可观测性工具，类似于Wireshark的功能，通过被动eBPF技术监控和分析AI代理的运行状态和行为，帮助开发者深入了解AI代理的内部工作流程和性能表现。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/genspark-design": {
+    "title_clean": "Genspark Design：AI UI原型与视觉内容生成工具",
+    "summary": "Genspark Design是一款AI工具，可帮助用户快速生成UI原型、视频和海报等视觉内容。对于元宝产品经理而言，这代表了AI在设计和创意领域的应用拓展，可能启发产品在多模态生成和用户界面设计方面的创新思路。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/signspell": {
+    "title_clean": "Signspell：实时手语字母识别工具",
+    "summary": "Signspell是一个Python库，提供实时美国手语(ASL)字母识别功能，可通过pip安装使用。该工具对开发无障碍AI应用有参考价值，特别是为听障人士提供实时手语识别的技术方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/grass-claude-code-from-your-phone": {
+    "title_clean": "Grass 2.0：AI编程代理的持续运行计算机",
+    "summary": "Grass 2.0是一款专为AI编程代理设计的持续运行计算机，为代码生成和执行提供稳定环境。这对元宝产品经理有参考价值，特别是在开发AI编程助手和代理工具时，如何为AI提供稳定计算资源支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/nashra-turn-followers-into-clients": {
+    "title_clean": "Nashra：专家邮件通讯与博客着陆页工具",
+    "summary": "Nashra是一款面向专家的邮件通讯、博客和着陆页创建工具，帮助专业人士通过内容建立个人品牌和受众连接。对于元宝产品经理而言，该工具展示了专业内容创作者如何整合多种内容形式，为AI助手在知识服务和个人品牌建设场景中提供参考。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dub-ninja": {
+    "title_clean": "Dub Ninja：AI自动DJ混音工具",
+    "summary": "Dub Ninja是一款24小时不间断运行的AI自动DJ工具，能够挖掘音乐、进行混音并实时解释播放内容。该产品展示了AI在创意娱乐领域的应用，为音乐爱好者提供全天候的个性化音乐体验，对元宝在AI创意服务场景拓展方面具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/postproxy": {
+    "title_clean": "Postproxy：社交媒体互动API工具",
+    "summary": "Postproxy提供API服务，允许用户通过接口发布、回复和分析社交媒体内容。产品经理可参考其API设计思路，评估元宝在社交媒体集成方面的可能性，以及如何通过API扩展产品功能边界。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clickup": {
+    "title_clean": "Brain² by ClickUp：企业级AI助手",
+    "summary": "ClickUp推出Brain² AI助手，能够全面了解公司信息并自主执行任务。这款产品整合了企业内部知识库，提供智能决策和自动化操作能力，为企业AI助手产品提供了新的功能方向参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-adr-seen-driving-30-upside-as-micron-gap-narrows": {
+    "title_clean": "SK海力士ADR：美国上市计划或助市值提升30%，缩小与美光差距",
+    "summary": "SK海力士寻求在美国上市，此举可能推动公司市值提升30%，缩小与美国竞争对手美光科技的差距。对产品经理而言，这反映了半导体行业资本运作与市场估值策略的变化，可能影响AI硬件供应链格局。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/polygraph": {
+    "title_clean": "Polygraph：跨代码库AI Agent记忆维护工具",
+    "summary": "Polygraph是一款AI工具，能够让AI代理跨多个代码库查看信息并维护会话记忆，有助于提升AI在复杂代码环境中的上下文理解能力和连续任务处理能力。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics": {
+    "title_clean": "OpenAI Jalapeño芯片：OpenAI与博通合作的自研AI芯片",
+    "summary": "OpenAI与博通合作开发了名为Jalapeño的自研AI芯片，旨在降低高昂的基础设施成本，这对OpenAI的财务轨迹至关重要。该芯片是OpenAI为优化AI计算效率和成本控制而采取的战略举措，对AI公司基础设施规划具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/micron-jumps-as-forecast-beats-estimates-video": {
+    "title_clean": "美光科技：AI驱动增长超预期",
+    "summary": "美光科技季度销售预测大幅超出华尔街预期，股价在盘后交易中大幅上涨，表明AI驱动的增长势头依然强劲。作为美国最大计算机存储芯片制造商，其业绩反映了AI对硬件需求的持续拉动，对元宝产品经理评估AI基础设施投资和商业化机会具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/h-b-fuller-nears-628-million-deal-for-uk-medtech-ams": {
+    "title_clean": "H.B. Fuller 接近以6.28亿英镑收购英国医疗技术公司AMS",
+    "summary": "H.B. Fuller公司接近达成协议，以6.28亿英镑收购英国组织愈合医疗产品制造商Advanced Medical Solutions Group。这笔交易显示医疗材料领域的大规模并购活动，对元宝产品经理了解医疗健康行业的整合趋势和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/browserbash": {
+    "title_clean": "BrowserBash：将自然语言转换为浏览器测试的CLI工具",
+    "summary": "BrowserBash是一款命令行工具，能够将自然语言描述直接转换为可执行的浏览器自动化测试代码，简化了测试流程，提高开发效率，对元宝产品经理在AI辅助测试和自动化场景方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/stocks-rally-as-micron-revives-ai-trade-video": {
+    "title_clean": "美光科技提振AI信心，全球股市上涨",
+    "summary": "美光科技发布强劲销售预期，重振市场对AI交易的信心，亚洲股市随美国股指期货一同上涨。这一市场动向表明AI相关企业业绩对整体科技板块有显著影响，对元宝产品经理了解AI行业资本流向和市场信心变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-regional-banks-sell-more-senior-bonds-as-rates-rise": {
+    "title_clean": "日本地区银行因利率上升增发高级债券",
+    "summary": "日本央行最新加息加剧了存款竞争，促使地区银行增发更多高级债券。这一动态反映了利率变化对银行业务策略的影响，对元宝产品经理了解金融环境变化及潜在服务场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/digitalbridge-is-said-to-explore-options-for-aims-data-centre": {
+    "title_clean": "DigitalBridge 探讨马来西亚 AIMS 数据中心出售方案",
+    "summary": "DigitalBridge Group 正考虑马来西亚 AIMS 数据中心的多种处置方案，包括融资、引入新投资者或直接出售。这一资产变动可能影响亚太地区数据中心市场格局，对元宝产品经理评估云服务基础设施合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651040918&idx=1&sn=8501aaaedd104b8762261351290e28c0": {
+    "title_clean": "蚂蚁集团与SGLang联合举办ICML首尔学术之夜",
+    "summary": "蚂蚁集团与SGLang联合举办ICML首尔学术之夜活动，聚焦AI模型与多模态技术交流。这一合作展示了蚂蚁集团在AI领域的学术布局，对元宝产品经理了解大厂AI技术研究方向和行业合作模式有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/alibaba-drops-after-anthropic-accuses-firm-of-accessing-ai-model": {
+    "title_clean": "Alibaba股价跌至16个月低点：Anthropic指控其非法访问AI模型",
+    "summary": "Alibaba股价跌至16个月低点，因Anthropic指控这家中国科技巨头\"非法\"访问其人工智能模型。此事件反映了AI领域知识产权保护的重要性，以及大型科技公司间可能存在的竞争与法律风险，对产品经理评估AI模型使用边界和合作伙伴选择有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/japan-s-kioxia-plans-to-offer-us-depositary-shares-next-spring": {
+    "title_clean": "铠侠计划2027年春季在美国上市并拆股",
+    "summary": "铠侠控股公司计划于2027年春季在美国发行美国存托股票，并进行股票拆分，以利用市场对AI相关半导体股票的旺盛需求。这一动向反映了半导体行业对AI硬件支持的关注，对元宝产品经理了解AI基础设施投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
