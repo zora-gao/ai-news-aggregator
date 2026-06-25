@@ -14524,5 +14524,102 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit": {
+    "title_clean": "TechCrunch 创始人峰会：科技创业者与投资者交流活动",
+    "summary": "TechCrunch 创始人峰会将于2026年举办，目前早鸟票优惠即将截止，可节省最高190美元费用。该活动汇集1000多名创始人和投资者，为科技行业人士提供交流合作平台，对元宝产品经理了解行业趋势和潜在合作伙伴有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-macs-ipads-home-devices-video": {
+    "title_clean": "Apple上调Mac、iPad和家居设备价格",
+    "summary": "Apple因内存芯片和存储短缺导致成本上升，正在上调多款产品价格，包括MacBook Neo、MacBook Pro、MacBook Air、iPad Air和iPad等设备。这一价格调整反映了供应链压力对硬件产品定价的影响，对产品经理了解硬件成本波动及定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs": {
+    "title_clean": "Adobe收购图像与视频增强工具开发商Topaz Labs",
+    "summary": "Adobe宣布收购图像和视频增强工具开发商Topaz Labs，并将将其工具整合到Adobe的应用程序中。这一收购将增强Adobe在图像和视频处理领域的能力，为用户提供更强大的AI增强功能。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/eu-held-talks-with-white-house-on-anthropic-after-mythos-cutoff": {
+    "title_clean": "欧盟与白宫就Anthropic模型访问权进行会谈",
+    "summary": "在美国限制外国公民访问Anthropic最先进AI模型后，欧盟与美国政府就Anthropic PBC的AI模型访问权进行了会谈。这反映了国际间对先进AI技术访问控制的博弈，对元宝产品经理了解AI技术国际政策环境及潜在市场准入壁垒有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout": {
+    "title_clean": "AI销售开始证明数据中心支出激增的合理性",
+    "summary": "报告显示，人工智能收入已达到临界点，表明科技公司在AI上的数千亿美元支出可能具有经济可持续性。这一趋势对元宝产品经理评估AI商业化路径和投资回报具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-amazon-cloud-units-face-tough-eu-rules-for-big-tech": {
+    "title_clean": "微软Azure和亚马逊AWS面临欧盟数字市场法严格监管",
+    "summary": "欧盟监管机构宣布微软Azure和亚马逊AWS将受到欧盟数字市场法的严格监管，这意味着这两大云服务提供商将面临更严格的合规要求和市场行为限制，对元宝产品经理了解全球云服务监管趋势和合规成本有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/russia-used-cellebrite-technology-in-case-against-activist-report-says": {
+    "title_clean": "俄罗斯使用Cellebrite技术起诉民主活动人士",
+    "summary": "俄罗斯当局使用以色列数字取证公司Cellebrite的技术协助起诉一名知名亲民主活动人士。这表明数字取证技术在政治案件中的应用，对产品经理了解技术在不同场景下的使用边界和潜在风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/gorebox-game-owner-heartbroken-by-philippine-shooting-will-cooperate-in-probe": {
+    "title_clean": "GoreBox游戏开发者对菲律宾校园枪击事件表示心碎",
+    "summary": "GoreBox在线游戏开发商在菲律宾发生致命校园枪击事件后，该游戏被菲律宾政府禁止。游戏开发者表示对事件感到心碎，并承诺与马尼拉当局合作。此事件引发对游戏内容监管与暴力内容影响的讨论，对产品经理思考内容安全边界有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
