@@ -14438,5 +14438,91 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/guild-memory-chip-spending-can-be-underestimated-video": {
+    "title_clean": "Guild：AI驱动下内存芯片支出可能被低估",
+    "summary": "Robinhood首席信息官Stephanie Guild在彭博节目中分析美光科技强劲的AI驱动财报表现，探讨能源成本和计算机内存对AI发展的影响，指出内存芯片支出可能被低估，这对AI基础设施投资具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/saycraft": {
+    "title_clean": "SayCraft：通过会议对话构建Web应用",
+    "summary": "SayCraft是一款新型工具，允许用户通过会议对话的方式构建Web应用程序。这种语音交互开发方式可能改变传统编程流程，为非技术人员提供更直观的应用开发途径，值得产品经理关注AI在低代码/无代码领域的创新应用。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/stretched-tech-valuations-raise-questions-on-capex-bofa-video": {
+    "title_clean": "美银科技估值过高引发资本支出担忧",
+    "summary": "美银欧洲股票策略主管Sebastian Raedler表示，在美光销售预测强劲后，科技股上涨可能过度，引发对科技行业资本支出合理性的担忧。这对元宝产品经理评估AI行业投资环境和市场泡沫风险有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/amazon-to-invest-additional-13-billion-in-india-for-ai-by-2030": {
+    "title_clean": "Amazon承诺在印度追加130亿美元AI投资",
+    "summary": "Amazon宣布在印度追加130亿美元投资，加速在世界上人口最多国家建设人工智能和云基础设施。这反映了大型科技公司对印度AI市场的重视，对元宝产品经理了解全球AI投资趋势和市场布局有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/micron-earnings-inflate-the-ai-bubble-3-minutes-mliv-video": {
+    "title_clean": "美光财报：AI泡沫膨胀分析",
+    "summary": "美光财报显示AI市场可能存在泡沫膨胀风险，Bloomberg分析师团队深入解读这一现象对投资者的影响。该资讯为元宝产品经理提供了AI市场健康度评估的重要参考，有助于判断AI商业化可持续性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says-video": {
+    "title_clean": "AI需求冲击Aumovio芯片采购计划",
+    "summary": "Aumovio首席财务官表示，AI公司对关键内存组件的消耗导致公司明年的芯片采购谈判面临困难。这反映了AI热潮对硬件供应链的直接影响，对产品经理评估AI服务成本和资源规划具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://openai.com/index/how-agents-are-transforming-work": {
+    "title_clean": "How agents are transforming work：AI Agent如何改变工作方式",
+    "summary": "OpenAI最新研究论文揭示了AI Agent如何改变工作方式，使AI能够执行更长、更复杂的任务，并在不同角色中扩展生产力。这对元宝产品经理了解AI Agent在实际工作场景中的应用价值和发展方向具有重要参考意义。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
