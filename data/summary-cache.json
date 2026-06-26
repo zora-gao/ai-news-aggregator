@@ -16244,5 +16244,78 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/unremarkable-economy-remarkable-rally-skelly-video": {
+    "title_clean": "摩根士丹利分析师Skelly：平淡经济下的显著反弹",
+    "summary": "摩根士丹利财富管理股权投资组合主管Dan Skelly在彭博电视节目中分析了当前经济形势与市场反弹现象，探讨了经济基本面与市场表现之间的差异，为AI助手产品在财经信息解读领域提供参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/gen-z-traders-go-for-broke-in-american-dream-pursuit-video": {
+    "title_clean": "Gen-Z投资者：美国梦追逐中的股票交易热潮",
+    "summary": "彭博社报道，零售投资者在股票交易中的份额过去15年翻倍，Gen-Z投资者积极参与股票交易，追求美国梦。这一趋势反映了年轻一代对金融投资的热情增长，对元宝产品经理了解年轻用户投资行为和需求变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/uber-tightens-us-driver-background-checks-as-sexual-assault-cases-mount": {
+    "title_clean": "Uber加强美国司机背景审查以应对性侵案件增加",
+    "summary": "Uber在美国加强司机背景审查标准，并将新标准追溯应用于现有司机，这是公司应对性侵案件激增和一系列相关法律的最新措施。这一举措对AI助手产品经理有参考价值，特别是在安全审核机制和用户保护方面。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s": {
+    "title_clean": "OpenAI挖角印度Uber高管拓展印度市场",
+    "summary": "OpenAI聘请印度Uber首席负责人领导其美国以外最大市场，此举标志着OpenAI在印度扩张的最新举措，包括扩大办公室、建立合作伙伴关系和增加招聘。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten": {
+    "title_clean": "本周十大融资轮次：AI驱动又一轮巨额交易",
+    "summary": "本周美国最大型创业融资轮次主要集中在人工智能领域，其次是生物科技。这表明AI领域持续获得资本市场的高度关注和大量资金投入，对AI产品经理了解行业投资趋势和市场热度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/ai-s-bruising-week-forces-investors-to-be-more-selective-video": {
+    "title_clean": "AI Trade's Bruising Week Forces Investors to Be More Selective",
+    "summary": "Domain Money创始人兼CEO Adam Dell在彭博商业周刊节目中讨论了金融科技、风险投资和早期创业公司的交叉领域，以及如何构建科技企业。这反映了AI投资领域近期面临的挑战，投资者变得更加谨慎，对AI项目的筛选标准提高，这对AI产品经理了解市场投资趋势和资金流向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
