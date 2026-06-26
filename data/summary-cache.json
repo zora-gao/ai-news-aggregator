@@ -15684,5 +15684,76 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/note-md": {
+    "title_clean": "note.md：本地LLM记忆笔记工具",
+    "summary": "note.md是一款将笔记和研究文档转化为本地大语言模型记忆的工具，帮助用户在本地环境中实现知识的高效存储与检索，为AI助手提供更个性化的知识支持。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/vw-eyes-as-many-as-100-000-job-cuts-video": {
+    "title_clean": "大众汽车计划裁员至10万人",
+    "summary": "大众汽车CEO奥利弗·布鲁姆推动改革，计划在欧洲裁员至10万人并可能关闭工厂，以提高这家欧洲最大汽车制造商的竞争力。这一大规模裁员反映了传统汽车行业在电动化和转型过程中的结构性调整。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/european-stocks-slip-on-renewed-tech-woes-zalando-slumps": {
+    "title_clean": "欧洲科技股下跌；Zalando股价下滑",
+    "summary": "欧洲股市从纪录高点回落，市场对人工智能和科技股的情绪转变导致下跌。Zalando等科技股股价下滑，反映投资者对科技板块的信心减弱，这对元宝产品经理了解AI相关市场情绪和投资趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/ohb-shares-dip-after-german-satellite-firm-s-789-million-re-ipo": {
+    "title_clean": "OHB：德国卫星公司完成7.89亿欧元二次上市",
+    "summary": "德国卫星公司OHB SE与KKR & Co.在法兰克福证券交易所完成二次上市，通过股票发行筹集7.89亿欧元，旨在增加投资者渠道。这一融资动向对关注航天科技领域投资和卫星行业发展的产品经理具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/bain-ly-prep-binding-offer-for-kakaku-in-bidding-war-versus-eqt": {
+    "title_clean": "Bain与LY接近对Kakaku的最终报价，与EQT展开竞购战",
+    "summary": "Bain Capital和LY Corp.准备对Kakaku.com Inc.提交最终报价，挑战EQT AB约5950亿日元（37亿美元）的要约收购。Kakaku是一家价格比较网站运营商，此次竞购反映了价格比较服务市场的商业价值和潜在整合机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aurora-21": {
+    "title_clean": "Aurora Notch：Mac隐私工作区工具",
+    "summary": "Aurora Notch是一款为Mac用户提供的隐私工作区工具，允许用户创建私密的工作空间，保护个人数据和隐私。这款产品对元宝产品经理有参考价值，特别是在隐私保护和多工作区管理方面的功能设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
