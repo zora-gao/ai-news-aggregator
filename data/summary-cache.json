@@ -15755,5 +15755,152 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/nanonets": {
+    "title_clean": "Atlas：企业AI工具集成平台",
+    "summary": "Atlas是一款企业级AI工具集成平台，旨在让所有AI工具了解企业运作方式，实现跨工具协同与知识共享，帮助企业构建统一的AI工作流，提升团队协作效率。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-26/disney-s-parks-revamp-includes-aquatic-robots-star-wars-food-truck-droids": {
+    "title_clean": "迪士尼乐园更新：引入水上机器人和悬浮星球大战机器人",
+    "summary": "迪士尼在其研发实验室中展示了木制蝠鲼原型，计划最终推出水上机器人，同时还将引入悬浮的星球大战机器人。这些创新旨在提升主题公园的沉浸式体验，展示了AI与机器人技术在娱乐场景的应用潜力，对元宝产品经理了解AI在娱乐场景的应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "多模态",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation": {
+    "title_clean": "SAP：商业数据AI个性化工具",
+    "summary": "SAP整合分散的商业数据结构，在执行层实现运营AI个性化。企业领导层建立目标以预测客户需求，通过数据对齐提升AI个性化能力，为大型企业提供商业数据整合解决方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/the-opening-trade-6-26-2026-video": {
+    "title_clean": "霍尔木兹海峡船只遇袭，苹果上调iPad与Mac价格",
+    "summary": "霍尔木兹海峡发生船只遇袭事件，这是美伊临时和平协议后的首次报道，影响航运安全。同时苹果宣布上调iPad和Mac产品价格，这两条信息对元宝产品经理评估全球供应链风险和科技产品定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/jpm-europe-to-invest-1t-in-power-grid-over-next-decade-video": {
+    "title_clean": "摩根大通Kapnick谈欧洲电网与可再生能源投资",
+    "summary": "摩根大通气候咨询业务全球主管Sarah Kapnick警告，若不适应气候变化模式，全球经济到2050年每年将损失1万亿美元。她认为这正推动欧洲电网和可再生能源领域的投资机会，对AI助手在气候风险分析和投资建议场景应用有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-26/openai-pitches-ai-chatbot-ads-at-cannes-lions-festival": {
+    "title_clean": "OpenAI 在戛纳电影节推出广告营销方案",
+    "summary": "OpenAI作为ChatGPT开发者，在戛纳电影节向广告行业展示了新的营销渠道，标志着AI公司拓展商业变现的重要举措，为元宝产品商业化方向提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-26/fumito-ueda-returns-with-gen-atlas": {
+    "title_clean": "Legendary Japanese Game Director Returns With 'Gen ATLAS'",
+    "summary": "著名日本游戏导演上田文人（《ICO》和《巨像之影》导演)在沉寂十多年后推出新游戏'Gen ATLAS'。这对元宝产品经理的参考价值在于了解创意行业顶尖创作者的回归动态，可能启发AI在创意领域的应用场景和用户交互设计。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/goldman-could-make-sense-to-diversify-away-from-chips-video": {
+    "title_clean": "高盛：建议分散投资远离芯片制造商",
+    "summary": "高盛投资策略主管Christian Mueller-Glissmann讨论科技股抛售，认为投资者应考虑分散投资远离芯片制造商。这一市场信号对元宝产品经理评估AI硬件相关投资风险和调整产品策略具有重要参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/omnicom-chief-defends-interpublic-deal-as-ai-rattles-ad-industry": {
+    "title_clean": "Omnicom CEO为收购Interpublic辩护：AI冲击广告行业",
+    "summary": "广告巨头Omnicom集团CEO John Wren表示，在约七个月前完成对竞争对手Interpublic Group的收购后，已开始看到成效，客户数量持续增长。此次收购被视为广告行业应对AI技术冲击的战略举措。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations": {
+    "title_clean": "6位投资者谈如何为更多黑人创始人提供资金支持",
+    "summary": "六位投资者分享为被忽视的创始人提供建议，并解释风险投资行业如何支持黑人创办的初创企业。这反映了投资行业对多元化创始人的关注，对元宝产品经理了解投资趋势和创始人背景多样性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-26/white-house-s-ban-on-anthropic-ai-access-may-boost-china-s-open-source-models": {
+    "title_clean": "美国对Anthropic顶级模型实施出口禁令可能适得其反",
+    "summary": "美国对Anthropic顶级AI模型实施出口禁令，此举可能反而推动中国开源AI需求增长，为中国AI产业创造发展机会，对元宝产品经理评估国际AI竞争格局和开源策略具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/softbank-shares-fall-on-report-openai-to-delay-ipo-video": {
+    "title_clean": "软银股价下跌：OpenAI推迟IPO",
+    "summary": "据报道，OpenAI可能将首次公开上市推迟至明年，导致其主要投资者软银集团股价大幅下跌。这一消息对元宝产品经理具有参考价值，反映了AI独角兽上市进程对投资方的影响，以及AI行业商业化时间线的不确定性。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
