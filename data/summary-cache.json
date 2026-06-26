@@ -15427,5 +15427,262 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/beehiiv": {
+    "title_clean": "Group Subscriptions by beehiiv：团队订阅管理工具",
+    "summary": "beehiiv推出团队订阅功能，允许向团队、公司和组织销售订阅服务。这为内容创作者和平台提供了面向企业客户的商业模式，对元宝探索B端订阅服务和团队协作场景有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cewsco": {
+    "title_clean": "Cewsco：全功能AI助手工具",
+    "summary": "Cewsco是一款集成聊天、图像、语音和市场数据功能的全能型AI助手，为用户提供一站式智能服务体验。产品经理可关注其多模态整合能力及垂直领域数据服务模式，为元宝产品功能扩展提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sleek-analytics": {
+    "title_clean": "Sleek Analytics：实时网站访客分析工具",
+    "summary": "Sleek Analytics是一款实时网站访客追踪工具，可让用户即时查看当前访问其网站的人员信息。这类工具对产品经理了解用户行为、优化产品体验和提升转化率具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/cubeone": {
+    "title_clean": "AI Slide Editor by CubeOne：AI幻灯片编辑工具",
+    "summary": "CubeOne推出AI幻灯片编辑工具，旨在提供PowerPoint本应具备的智能编辑功能，帮助用户更高效地创建和编辑演示文稿。该工具可能利用AI技术自动优化布局、内容生成和设计建议，对元宝产品经理在办公场景下的AI助手功能开发具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-spark": {
+    "title_clean": "Gemini Spark：24/7个人AI助手",
+    "summary": "Gemini Spark是一款全天候个人AI助手，提供持续服务。作为谷歌Gemini生态的新产品，它展示了AI助手向全天候个人代理方向的发展趋势，对元宝产品经理在AI助手持续服务能力和用户交互模式方面具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lockin-mcp": {
+    "title_clean": "LockIn MCP：AI 专注力管理工具",
+    "summary": "LockIn MCP 是一款 AI 工具，能在用户需要专注时自动屏蔽干扰信息，帮助提升工作效率。这类专注力管理工具对 AI 助手产品在办公场景下的功能拓展具有参考价值，特别是如何通过 AI 判断用户状态并提供个性化服务。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/world-bank-afdb-to-boost-african-electrification-plan-this-year": {
+    "title_clean": "世界银行与非行加速非洲电气化计划",
+    "summary": "世界银行与非行计划今年加速推进非洲电气化项目，通过批准新项目和投资厄立特里亚，为数亿非洲人提供电力供应。这一大规模基础设施项目可能为AI服务在能源领域的应用提供新场景，特别是能源管理与智能电网相关AI解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/korean-stocks-plunge-9-on-chip-selloff-video": {
+    "title_clean": "韩国芯片股暴跌9%，AI情绪波动引发市场震荡",
+    "summary": "韩国芯片股本周第二次触发交易暂停，显示市场对全球人工智能情绪波动高度敏感。芯片股暴跌9%，表明AI行业情绪变化对相关产业链的直接影响，对元宝产品经理了解AI行业波动对供应链的影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/southern-italy-drives-economic-growth-video": {
+    "title_clean": "意大利南部推动经济增长",
+    "summary": "那不勒斯引领意大利南部地区经济复兴，得益于欧盟资金投入和技术基础设施建设。坎帕尼亚地区经济增长0.9%，显示区域经济发展态势。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/the-ai-trade-still-works-but-it-s-getting-harder-taking-stock": {
+    "title_clean": "AI投资策略转变：从单一持有到多元化配置",
+    "summary": "AI投资策略已从单一持有转向多元化配置，风险显著增加。本周市场显示AI主题投资变得极为严苛，投资者需要更谨慎地平衡风险与回报。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/apple-falls-after-prices-increase-for-macs-ipads-video": {
+    "title_clean": "苹果上调Mac、iPad等设备价格后股价下跌",
+    "summary": "苹果公司为应对内存芯片和存储短缺导致的成本上涨，上调了所有Mac、iPad、家庭设备及Vision Pro的价格，此举导致公司股价下跌。这一价格调整反映了供应链压力对硬件制造商的影响，对元宝产品经理评估AI硬件成本与定价策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/gta-vi-tests-gaming-industry-s-pricing-power-video": {
+    "title_clean": "GTA VI：游戏定价策略分析",
+    "summary": "《侠盗猎车手VI》定价79.99美元创主流游戏新高，分析Rockstar的定价策略如何重塑行业定价权。对产品经理了解高端内容定价策略、用户价格敏感度及市场接受度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/animdock-motion-templates-in-the-browser": {
+    "title_clean": "Animdock：浏览器内动态模板工具",
+    "summary": "Animdock是一款浏览器内动态模板创建工具，用户可在浏览器中直接制作流行趋势的动态内容。该工具为产品经理提供了在网页端实现动态内容生成的新思路，可能启发元宝在多模态交互或内容创作场景中的应用方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/semianalysis-xie-on-asia-ai-supply-chain-video": {
+    "title_clean": "SemiAnalysis Xie on Asia AI Supply Chain",
+    "summary": "SemiAnalysis研究主管Myron Xie分析了亚洲硬件供应商在AI需求激增市场中的表现，揭示了哪些企业成为市场赢家。这对元宝产品经理了解AI硬件供应链变化及潜在合作机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/state-street-asia-may-win-in-ai-boom-video": {
+    "title_clean": "State Street：亚洲或成AI最大受益者",
+    "summary": "State Street投资管理公司亚太区投资策略与研究主管Ninghui Liu分析认为，亚洲地区可能在全球AI热潮中成为最大受益者。这一观点对元宝产品经理评估AI市场区域发展格局和潜在商业机会具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/gcash-backer-mynt-seeks-up-to-1-5-billion-in-biggest-philippine-ipo-ever": {
+    "title_clean": "GCash母公司寻求15亿美元创纪录菲律宾IPO",
+    "summary": "菲律宾最大移动钱包GCash的母公司计划进行该国史上最大规模IPO，融资额高达15亿美元。这反映了数字支付和金融科技在东南亚市场的强劲增长，对元宝在新兴市场的支付场景拓展和商业化策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/apple-price-hikes-spark-asia-tech-selloff-on-memory-cost-concern": {
+    "title_clean": "苹果提高产品价格引发科技股波动",
+    "summary": "苹果提高产品价格后，亚洲科技股下跌，引发市场对组件成本上升可能抑制设备需求的担忧，进而可能减缓存储芯片的上涨趋势。这一动态对元宝产品经理评估AI硬件成本与定价策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/korean-stocks-slump-6-as-chipmakers-hit-by-renewed-sellolff": {
+    "title_clean": "韩国芯片股暴跌9%触发交易暂停，AI情绪波动影响市场",
+    "summary": "韩国芯片股因全球人工智能情绪波动而暴跌9%，触发本周第二次交易暂停，显示市场对AI相关行业的高度敏感性。这一事件反映了AI产业情绪对全球科技市场的直接影响，对元宝产品经理了解AI行业风险与市场关联性有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/drone-startup-elroy-air-is-said-to-near-800-million-spac-deal": {
+    "title_clean": "Elroy Air：货运无人机创业公司",
+    "summary": "Elroy Air是一家旨在替代送货卡车的货运无人机创业公司，正接近通过SPAC方式完成8亿美元的上市交易，这将创造一家企业价值达8亿美元的公司。对产品经理的参考价值在于了解物流领域AI+硬件结合的创业趋势和资本动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-26/more-expensive-iphones-on-the-horizon-video": {
+    "title_clean": "苹果可能提高iPhone售价",
+    "summary": "彭博社报道称，苹果已上调Mac、iPad及家用设备价格，并可能继续提高iPhone售价。这一价格调整已在全球范围内生效，反映了苹果在高端市场的定价策略变化，对元宝产品经理了解科技巨头定价趋势和高端市场策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/samsung-and-sk-hynix-prepare-huge-spending-increase-reports-say": {
+    "title_clean": "三星、SK海力士宣布创纪录投资计划",
+    "summary": "三星电子和SK海力据韩国媒体报道将于周一宣布数千亿美元的新投资计划，这表明半导体行业正在大规模扩张，可能影响AI硬件供应链和成本结构，对元宝的产品经理评估AI基础设施成本和供应链稳定性有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
