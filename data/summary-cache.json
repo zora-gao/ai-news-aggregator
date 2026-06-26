@@ -15293,5 +15293,139 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/china-s-hardware-tech-stocks-look-to-earnings-to-sustain-rally": {
+    "title_clean": "中国硬件科技股期待业绩支撑上涨势头",
+    "summary": "中国硬件科技股近期表现强劲，市场关注其能否通过财报业绩支撑股价上涨。这一趋势对元宝产品经理了解科技行业投资动态和市场信心变化有参考价值，可能影响AI硬件相关产品的发展方向和投资决策。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041185&idx=2&sn=906aa8e999f04dde001202e6d73ffaf3": {
+    "title_clean": "OpenAI首款芯片问世：用AI设计，9个月流片",
+    "summary": "OpenAI推出首款自研芯片，采用AI辅助设计，仅用9个月完成流片。此举表明OpenAI正积极布局硬件基础设施，可能旨在解决AI算力瓶颈问题，对AI大模型公司的垂直整合战略具有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041184&idx=1&sn=2bf86752239a03ec60378620bb7554b9": {
+    "title_clean": "读博最后一年转方向，拿到OpenAI offer：我的面试之路充满「意外」",
+    "summary": "一位博士在读最后一年转换研究方向后成功获得OpenAI工作机会，分享了面试过程中的意外经历和经验。对产品经理了解AI人才招聘标准和职业发展路径有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041184&idx=2&sn=59d67a2ec7b2d2ac04d9189534a946b6": {
+    "title_clean": "Fable5：AI模型研发公司高管变动",
+    "summary": "Fable5公司疑似重启项目，创始人Dario Amodei被撤下谈判桌。这一变动可能影响AI模型研发方向，对关注AI大模型竞争格局的产品经理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/softbank-s-shares-tumble-after-report-of-openai-s-ipo-delay": {
+    "title_clean": "软银股价大跌：OpenAI可能推迟IPO至明年",
+    "summary": "软银集团股价暴跌13%，原因是据报道OpenAI可能将首次公开推迟至明年，这将延迟其日本投资者的回报。这对元宝产品经理了解AI巨头融资动态和投资环境变化有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns": {
+    "title_clean": "白宫要求OpenAI暂缓发布新模型：安全考量",
+    "summary": "据报道，OpenAI计划将最新GPT-5.6模型仅与选定合作伙伴分享而非公开发布，原因是特朗普政府基于安全考量要求其放缓发布节奏。这对AI产品经理了解监管政策对AI产品发布的影响及安全合规的重要性有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/bed-bath-beyond-sees-upside-amid-consumer-pressure-video": {
+    "title_clean": "Bed Bath & Beyond：消费者压力下的商业机会洞察",
+    "summary": "Bed Bath & Beyond CEO表示消费者正面临巨大压力，但认为在低点开展业务将带来高回报。这反映了经济下行期消费者行为变化，对AI助手产品在服务压力人群、提供价值解决方案的场景拓展有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/tenstorrent-ceo-on-next-leg-of-ai-tech-deal-interest-video": {
+    "title_clean": "Tenstorrent CEO：AI芯片技术发展与交易兴趣",
+    "summary": "Tenstorrent CEO Jim Keller讨论AI芯片构建及未来技术发展方向，他在彭博社节目中分享了对AI芯片行业现状和未来趋势的看法，对元宝产品经理了解AI硬件基础技术发展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-25/consumer-side-of-ai-currently-underweighted-mark-pincus-video": {
+    "title_clean": "Zynga创始人：消费者AI应用被低估",
+    "summary": "Zynga创始人Mark Pincus指出，当前AI领域过度关注工程和编码方面，而消费者应用价值被低估。他认为限制消费者影响力是不明智的，暗示消费者AI市场存在未被充分开发的机会，对元宝产品经理评估AI产品方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/apple-supplier-lingyi-set-for-hk-debut-after-1-1b-offering": {
+    "title_clean": "苹果供应商灵曜科技：香港上市募资11亿美元",
+    "summary": "中国电子设备制造商灵曜科技在香港上市首日股价上涨，此次IPO募资11亿美元，是香港本月最繁忙的上市活动之一。作为苹果供应链企业，其上市表现反映了消费电子产业链的资本动态，对元宝产品经理了解硬件供应链与AI结合的商业机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-25/tech-pacs-punishing-ai-skeptics-even-if-voters-are-receptive": {
+    "title_clean": "Tech PACs 惩罚AI怀疑者，尽管选民态度开放",
+    "summary": "政治战略家和AI安全倡导者正在评估在竞选活动中宣传监管技术和AI是否是安全的策略，此前纽约议员Alex Bores在竞选中落败。这反映了科技政治行动委员会对AI怀疑者的打压，以及选民对AI监管态度的复杂性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
   }
 }
