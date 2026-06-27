@@ -16699,5 +16699,68 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041465&idx=2&sn=45feef7c979b51b234c0357077ac4f7b": {
+    "title_clean": "大神Karpathy用Claude的方式",
+    "summary": "知名AI专家Karpathy展示了使用Claude的方法，可能涉及AI助手的使用技巧或工作流程，对产品经理了解专业用户如何使用AI工具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041475&idx=1&sn=6056c7c9ec620b7302d01e3b1593efcc": {
+    "title_clean": "DeepSeekV4更新DSpark，推理速度提升80%",
+    "summary": "DeepSeekV4更新了DSpark推理引擎，性能提升80%。这一更新对AI大模型推理效率有直接影响，可能影响元宝的产品性能优化策略和竞品对标。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041449&idx=1&sn=ca3c9ee9c0b0668640969abfd2327fee": {
+    "title_clean": "押注AI赢家的旧规则还管用吗？",
+    "summary": "本文探讨AI行业投资和竞争策略的变化，分析传统判断AI产品成功标准的适用性，为产品经理提供行业趋势参考，帮助理解AI市场格局演变和产品定位策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041449&idx=2&sn=54d324bce08cc7caa801c6de761bf172": {
+    "title_clean": "FTP-1：通用触觉基础模型",
+    "summary": "Sharpa联合清华大学等高校发布首个通用触觉基础模型FTP-1，该模型能够处理和理解触觉信息，为机器人触觉感知提供基础能力，对AI助手在物理交互场景中的应用具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041465&idx=3&sn=729dd9680448f8b94858d11d019b3a10": {
+    "title_clean": "陈天奇新书上线：面向ML系统的现代GPU编程",
+    "summary": "陈天奇推出新书《面向ML系统的现代GPU编程》，专注于机器学习系统中的GPU编程技术。该书对元宝产品经理在AI模型性能优化和系统架构设计方面具有重要参考价值，特别是在处理大规模计算任务时。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
