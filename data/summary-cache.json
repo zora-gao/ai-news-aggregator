@@ -16475,5 +16475,55 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041346&idx=1&sn=4977935ee58eea8203458719350d5d67": {
+    "title_clean": "国产AI高考708分：AI高考成绩突破性模型",
+    "summary": "国产AI模型在高考模拟中取得708分的高分，成为'屏蔽生'（指顶尖考生）。该模型展现了AI在复杂知识推理和应试能力上的突破，为教育AI产品提供了技术参考，也引发了对AI教育应用潜力的思考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model": {
+    "title_clean": "Anthropic Mythos 5 AI模型获美国批准扩大使用",
+    "summary": "Anthropic公司获得美国批准，可以恢复对其强大的Mythos 5人工智能模型的访问权限。此前该模型因特朗普政府对其潜在威胁的担忧而被限制。这一批准标志着AI监管环境的变化，对AI产品经理了解监管政策与产品合规性有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-27/china-s-industrial-profit-gains-dip-in-sign-of-economic-weakness": {
+    "title_clean": "中国工业利润增速放缓，显示经济疲软信号",
+    "summary": "中国工业利润增速自11月以来首次放缓，强劲出口和价格上涨未能抵消国内需求疲软的拖累。这一经济数据变化可能影响AI产品在B端市场的商业机会和用户需求变化。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-27/trustpilot-teams-up-with-shopify-to-connect-reviews-to-stores": {
+    "title_clean": "Trustpilot与Shopify合作：将评论系统接入电商店铺",
+    "summary": "Trustpilot与电商巨头Shopify达成合作，允许商家在其在线店铺直接展示和管理Trustpilot用户评价。这一合作将增强电商平台的社交证明能力，为元宝产品经理提供AI辅助电商服务场景的参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }
