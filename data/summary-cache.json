@@ -16662,5 +16662,18 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai": {
+    "title_clean": "Apple Vision Pro高管离职加入OpenAI硬件团队",
+    "summary": "Apple负责Vision Pro头显的副总裁Paul Meade据报道将离职加入OpenAI的硬件团队。这反映了AI硬件领域的人才流动趋势，对元宝产品经理了解AI硬件与AI服务结合的战略方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
