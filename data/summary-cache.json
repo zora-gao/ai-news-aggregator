@@ -16675,5 +16675,17 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-27/amazon-prime-day-total-online-spending-surpasses-adobe-estimate": {
+    "title_clean": "亚马逊Prime日在线消费超Adobe预期",
+    "summary": "亚马逊Prime日期间美国全渠道在线消费达264亿美元，略高于Adobe此前预估的263亿美元，显示电商促销活动强劲表现。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
