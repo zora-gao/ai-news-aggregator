@@ -16773,5 +16773,69 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/getcompress": {
+    "title_clean": "GetCompress：无损媒体压缩工具",
+    "summary": "GetCompress是一款无损媒体压缩工具，允许用户在不切换上下文的情况下压缩媒体文件，保持原始质量的同时减少文件大小，这对需要处理大量媒体内容的产品经理可能有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lyto": {
+    "title_clean": "Lyto：跨平台AI代理工具",
+    "summary": "Lyto是一款AI代理工具，能够在浏览器、各种工具和消息应用中统一运行，帮助用户实现跨平台任务自动化处理。这款产品展示了AI代理在整合多平台服务方面的应用潜力，对元宝产品经理在跨平台AI代理功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/dotient": {
+    "title_clean": "Dotient：本地语义搜索应用",
+    "summary": "Dotient是一款本地语义搜索应用，专注于提供本地化的语义搜索功能。对于元宝产品经理而言，这反映了本地化搜索和语义理解在AI助手产品中的潜在应用价值，可作为产品功能拓展的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI搜索",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-28/tencent-trials-tenpaygo-pay-app-as-foreign-visits-to-china-rise": {
+    "title_clean": "腾讯推出TenPayGo支付App：助力海外游客在华生活",
+    "summary": "腾讯正在测试一款名为TenPayGo的支付应用，旨在帮助海外游客在中国日常生活中更便捷地支付和导航。这一产品反映了腾讯针对入境游客需求的服务拓展，对元宝产品经理在跨境服务场景和支付功能设计上有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/persona-12": {
+    "title_clean": "Persona.js：WebMCP原生AI聊天前端集成工具",
+    "summary": "Persona.js是一款前端工具，允许开发者将WebMCP原生的AI聊天功能集成到任何前端应用中。这为元宝产品经理提供了关于AI聊天能力与前端集成的技术参考，有助于探索多平台AI服务部署方案。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
