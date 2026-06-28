@@ -16962,5 +16962,18 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short": {
+    "title_clean": "福特重新雇佣资深工程师：AI未能达到预期",
+    "summary": "福特公司承认仅依靠人工智能无法生产高质量产品，已重新雇佣资深工程师。这一事件表明AI在复杂工程任务中存在局限性，对产品经理评估AI能力边界和混合人机协作模式具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
