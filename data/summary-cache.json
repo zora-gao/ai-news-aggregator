@@ -16837,5 +16837,17 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports": {
+    "title_clean": "Google限制Meta使用Gemini AI模型",
+    "summary": "据金融时报报道，谷歌因无法提供足够的计算能力，已限制Meta Platforms使用其Gemini人工智能模型。这一事件反映了AI算力资源竞争的加剧，以及大型科技公司间在AI服务合作上的限制与挑战。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
