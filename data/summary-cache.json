@@ -18055,5 +18055,82 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041871&idx=1&sn=75b014ccffd35393960f137fb7e6a1c2": {
+    "title_clean": "首个面向AIInfra的运维智能体评测基准开源",
+    "summary": "首个面向AI基础设施的运维智能体评测基准正式开源，基于百亿真实数据，为AI运维领域提供标准化评估工具，有助于产品经理了解AI系统运维能力评估标准及行业基准。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041871&idx=2&sn=91662e1ce81ce4e489f62089e0c833bb": {
+    "title_clean": "清华团队研究：AI助手理解用户与适时互动",
+    "summary": "清华大学团队发表两项新研究，探索AI助手如何从被动等待提问转向主动理解用户需求并适时互动，为提升AI助手主动服务能力提供新思路，对元宝产品交互设计有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041854&idx=1&sn=587338b00b0d8f418dfa05dda07c4425": {
+    "title_clean": "无界动力：全球首个长时序双向物理因果链隐空间模型",
+    "summary": "无界动力发布全球首个「长时序双向物理因果链」隐空间模型，登顶权威榜单。该模型突破传统AI在物理因果推理上的局限，为复杂系统预测与决策提供新思路，对AI物理模拟与科学计算领域有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041614&idx=2&sn=a254d696b4c1d0383fcbf08bca91324a": {
+    "title_clean": "OMG多模态人形机器人运动生成框架：文本与音乐控制机器人动作",
+    "summary": "OMG框架通过文本或音乐输入即可控制人形机器人完成复杂动作，实现多模态交互控制。该技术展示了AI在物理世界操控能力的突破，为元宝未来可能涉及的机器人交互场景提供技术参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/comcast-s-nbc-spin-off-raises-questions-about-businesses-future": {
+    "title_clean": "Comcast剥离NBC业务引发企业未来战略思考",
+    "summary": "Comcast公司董事长Brian Roberts错失去年与华纳兄弟探索公司合并NBCUniversal的机会，但这一过程促使他思考企业未来发展方向。这一战略调整可能影响媒体行业格局，对AI助手在内容分发和媒体服务领域的应用具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041614&idx=1&sn=617478ec074e5c35c44152568cc3cc05": {
+    "title_clean": "大湾区估值破200亿的具身大脑：自变量完成融资",
+    "summary": "大湾区首家估值突破200亿的具身大脑企业'自变量'完成融资，标志着具身智能领域的重要商业突破，为AI实体交互和机器人控制领域提供了新的发展参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }
