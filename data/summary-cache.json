@@ -18468,5 +18468,154 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/cursor-for-ios": {
+    "title_clean": "Cursor for iOS：移动端AI编程助手",
+    "summary": "Cursor推出iOS版本，允许用户随时随地使用AI编程助手进行代码开发。这一扩展将桌面端AI编程能力延伸至移动场景，为开发者提供更灵活的编码支持，元宝产品经理可关注AI工具在移动端的场景拓展与交互设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/agentpeek": {
+    "title_clean": "AgentPeek：Mac刘海屏显示Claude代码助手",
+    "summary": "AgentPeek是一款在Mac电脑刘海屏区域显示Claude Code和Codex代码助手的应用，让开发者无需切换窗口即可快速查看AI代码建议，提升编程效率。这展示了AI助手如何与操作系统深度集成，为用户提供无缝的辅助体验。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "AI Agent",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/weak-hiring-is-hurting-young-workers-more-than-ai-study-says": {
+    "title_clean": "弱就业市场对年轻工人的影响超过AI：美联储研究",
+    "summary": "美联储研究显示，美国就业岗位短缺是年轻人失业的主要原因，而非缺乏AI技能。这一发现对产品经理理解劳动力市场变化与AI技能培训需求的关系具有重要参考价值，有助于调整AI助手在职业发展场景中的定位。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/lee-s-880-billion-ai-bet-ties-legacy-to-south-korea-chip-boom": {
+    "title_clean": "韩国总统李在明：8800亿美元AI投资推动西南地区芯片产业转型",
+    "summary": "韩国总统李在明计划投入8800亿美元发展AI产业，将韩国西南地区转型为全球芯片产业中心。这一战略旨在延续韩国在全球AI芯片领域的领先地位，并推动区域经济平衡发展，对元宝产品经理了解AI芯片产业布局与国家战略投资方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/equirus-is-said-to-consider-fundraising-at-600-million-value": {
+    "title_clean": "Equirus Capital：考虑以6亿美元估值融资6000万美元",
+    "summary": "Equirus Capital正考虑以6亿美元估值进行新一轮融资，计划筹集高达6000万美元。这是一家金融科技公司的融资动态，对元宝产品经理了解金融科技领域的资本动向和估值趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle": {
+    "title_clean": "SAP：AI产品管理权重组移交高管",
+    "summary": "SAP进行年内第二次高层重组，将AI产品管理职责重新分配给高管团队，表明企业级软件巨头正强化对AI战略的顶层管控，这对元宝产品经理了解大型企业AI组织架构调整与决策机制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bilt-me": {
+    "title_clean": "Bilt.me：Figma设计转移动应用工具",
+    "summary": "Bilt.me提供将Figma设计稿直接转换为实际移动应用的功能，帮助产品经理快速将设计原型转化为可测试的移动应用，加速产品迭代和验证过程。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai": {
+    "title_clean": "Anthropic的Mythos模型因网络安全风险暂不公开",
+    "summary": "Anthropic宣布其Mythos AI模型在发现软件和系统漏洞方面能力过强，出于网络安全考虑暂不向公众发布。这反映了AI技术在安全领域的双刃剑效应，对AI产品经理在安全评估和风险控制方面有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/m-g-s-fedeli-says-its-worth-investing-in-ai-losers-video": {
+    "title_clean": "M&G's Fedeli：建议投资'AI失败者'",
+    "summary": "M&G Investments多资产首席投资官Fabiana Fedeli表示，尽管股市仍有价值，但韩国等市场已出现'过度兴奋'行为。她建议投资者关注被AI热潮忽视的'失败者'股票，这可能提供投资机会。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other": {
+    "title_clean": "OKX：AI代理雇佣与支付市场",
+    "summary": "OKX正在构建一个AI代理市场，整合支付、身份和声誉系统，使AI代理能够相互雇佣和支付。这一举措为AI代理商业化提供了新思路，对元宝探索AI代理经济模式具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-30/laliga-s-football-piracy-crackdown-is-breaking-the-internet": {
+    "title_clean": "西班牙打击足球盗版行动波及合法网站",
+    "summary": "西班牙足球联赛为打击非法体育流媒体，采取行动导致众多合法网站被误伤，包括小企业和政府网站。这一事件反映了内容版权保护与网络生态平衡之间的矛盾，对元宝产品经理在处理内容审核和版权保护方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/neopulse-led-group-to-acquire-stake-in-korean-game-maker-wemade": {
+    "title_clean": "NeoPulse-Led Group to Acquire Stake in Korean Game Maker Wemade",
+    "summary": "NeoPulse牵头的财团正接近达成协议，从创始人兼会长Park Kwan-ho手中收购韩国游戏公司Wemade Co.近40%的股份。这表明AI企业正在通过战略投资进入游戏行业，可能为AI与游戏结合提供新机会。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
