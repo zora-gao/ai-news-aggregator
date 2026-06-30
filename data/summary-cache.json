@@ -18132,5 +18132,143 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/south-korea-to-speed-nuclear-push-to-meet-surging-power-demand": {
+    "title_clean": "韩国加速核能建设以满足AI激增的电力需求",
+    "summary": "韩国政府将考虑缩短核电站建设时间，以增加能源供应满足人工智能发展带来的电力需求激增。这对元宝产品经理了解AI基础设施瓶颈及能源规划有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/airpods-maker-luxshare-seeks-up-to-3-1-billion-from-hong-kong-listing": {
+    "title_clean": "立讯精密：AirPods制造商寻求香港上市融资31亿美元",
+    "summary": "立讯精密作为苹果供应商，正在寻求香港上市融资最多31亿美元，这将是香港历史上最大的首次公开发行之一。这一融资动向对元宝产品经理了解硬件供应链融资动态及AI硬件合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/amazon-to-pay-2-25-million-to-end-us-case-over-id-theft-victims": {
+    "title_clean": "Amazon同意支付225万美元解决美国身份盗窃受害者案件",
+    "summary": "Amazon同意支付225万美元解决美国指控，指控其未能定期提供记录以帮助身份盗窃受害者。此案涉及客户数据安全和隐私保护问题，对元宝产品经理在处理用户数据安全和隐私保护方面有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/tencent-ramps-up-buybacks-as-share-rout-wipes-out-309-billion": {
+    "title_clean": "腾讯加大股票回购以应对市值暴跌",
+    "summary": "腾讯正加大股票回购力度，以应对其香港上市股票自10月初以来因抛售导致市值蒸发约3090亿美元的情况。这一举措反映了腾讯在市场压力下的财务策略调整，对产品经理了解科技巨头的资本运作和市场应对策略有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/amazon-sued-by-australian-consumer-watchdog-over-prime-video-ads": {
+    "title_clean": "Amazon因Prime Video广告问题遭澳大利亚消费者监管机构起诉",
+    "summary": "澳大利亚消费者监管机构起诉亚马逊，指控其在Prime Video流媒体服务中引入广告，并强制现有订阅者支付额外费用以避免广告。此事件对产品经理有参考价值，涉及订阅模式、用户体验与广告策略的平衡问题。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/grid-woes-push-uk-clean-power-goal-back-five-years-report-shows": {
+    "title_clean": "英国清洁能源目标因电网问题推迟五年",
+    "summary": "英国因电网容量限制，将无法按期实现清洁电力目标，目标推迟五年。这可能影响政府降低家庭能源账单的承诺，对能源基础设施规划和清洁能源部署策略有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041854&idx=2&sn=f4692aae52a0d94944f02784514af248": {
+    "title_clean": "Transformer架构变形：提升LLM智能能力",
+    "summary": "研究团队通过改进Transformer架构，使大语言模型获得更高的智能表现。这一技术突破可能影响AI助手的核心能力提升，为产品经理提供优化模型性能的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-29/the-close-6-29-2026-video": {
+    "title_clean": "美国最高法院重塑总统权力 | The Close 6/29/2026",
+    "summary": "彭博电视报道美国最高法院对总统权力的最新裁决，分析这一政治变化对金融市场和政府决策的影响。作为政治新闻，与元宝AI产品经理的AI助手、Agent或服务场景开发无直接关联，参考价值有限。",
+    "score": 25,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/stanchart-former-ai-chief-joins-accenture-as-southeast-asia-head": {
+    "title_clean": "前渣打AI负责人加盟埃森 Southeast Asia AI负责人",
+    "summary": "前渣打银行全球AI赋能负责人David Hardoon加入埃森哲，担任东南亚区高级AI负责人。这一人事变动反映了大型金融机构与咨询公司在AI领域的人才竞争，对元宝产品经理了解AI人才流动趋势和企业AI战略布局有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/house-passes-online-safety-bill-as-senators-seek-more-safeguards": {
+    "title_clean": "美国众议院通过儿童网络安全法案，参议院考虑更严格版本",
+    "summary": "美国众议院通过立法要求加强儿童网络安全保护，显示华盛顿正积极回应美国家长普遍担忧。参议院正考虑推出更严格版本，这可能影响AI内容安全与儿童保护相关产品的发展方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-29/jana-builds-bigger-stake-in-fintech-alkami-and-pushes-for-sale": {
+    "title_clean": "Jana增持金融科技公司Alkami股份，推动公司出售",
+    "summary": "激进投资者Jana Partners增持金融科技公司Alkami Technology股份，并推动该公司进行出售。这表明Alkami可能面临战略调整或被收购，对金融科技领域的企业并购动态有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041854&idx=3&sn=280772fec0c3576dd457710117ab484e": {
+    "title_clean": "阿里硬核少年技术节5.0：学生技术嘉年华",
+    "summary": "阿里硬核少年技术节5.0首次限量开放报名，面向学生群体的技术交流活动，提供与阿里技术团队交流的机会，对了解年轻技术人才需求和培养方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
   }
 }
