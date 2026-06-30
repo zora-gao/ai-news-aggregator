@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-06-30T14:05:31.267Z",
+  "generated_at": "2026-06-30T17:48:52.951Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "google/gemini-3.1-flash-lite-image",
+      "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "vendor": "Google",
+      "vendor_slug": "google",
+      "url": "https://openrouter.ai/google/gemini-3.1-flash-lite-image-20260630",
+      "created_at": "2026-06-30T16:33:45Z",
+      "context_length": 65536,
+      "modality": "text+image->text+image",
+      "input_modalities": [
+        "image",
+        "text"
+      ],
+      "output_modalities": [
+        "image",
+        "text"
+      ],
+      "price_in": 0.25,
+      "price_out": 1.5,
+      "is_free": false,
+      "supports_tools": false,
+      "supports_reasoning": true,
+      "description": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image) is Google's fastest, most cost-efficient Gemini image model, built for high-velocity developer pipelines and rapid-fire visual exploration. It delivers text-to-image generation...",
+      "description_zh": "Nano Banana 2 Lite（Gemini 3.1 Flash Lite Image）是 Google 最快、最具成本效益的 Gemini 图像模型，专为高速开发人员管道和快速视觉探索而构建。它提供文本到图像的生成..."
+    },
     {
       "id": "sakana/fugu-ultra",
       "name": "Fugu Ultra",
@@ -1440,31 +1465,6 @@
       "supports_reasoning": true,
       "description": "Kimi K2.6 is Moonshot AI's next-generation multimodal model, designed for long-horizon coding, coding-driven UI/UX generation, and multi-agent orchestration. It handles complex end-to-end coding tasks across Python, Rust, and Go, and...",
       "description_zh": "Kimi K2.6 是 Moonshot AI 的下一代多模式模型，专为长视野编码、编码驱动的 UI/UX 生成和多代理编排而设计。它可以跨 Python、Rust 和 Go 处理复杂的端到端编码任务，并且..."
-    },
-    {
-      "id": "anthropic/claude-opus-4.7",
-      "name": "Claude Opus 4.7",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/anthropic/claude-4.7-opus-20260416",
-      "created_at": "2026-04-16T14:51:40Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "Opus 4.7 is the next generation of Anthropic's Opus family, built for long-running, asynchronous agents. Building on the coding and agentic strengths of Opus 4.6, it delivers stronger performance on...",
-      "description_zh": "Opus 4.7 是 Anthropic Opus 系列的下一代产品，专为长期运行的异步代理而构建。它以 Opus 4.6 的编码和代理优势为基础，提供更强大的性能..."
     }
   ]
 }
