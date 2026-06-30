@@ -18617,5 +18617,177 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/mag-7-to-significantly-outperform-in-second-half-ives-video": {
+    "title_clean": "Dan Ives 预计科技七巨头下半年将显著表现优异",
+    "summary": "Wedbush Securities科技研究主管Dan Ives认为即将到来的财报季将是大型科技股的'巨大验证时刻'，这些股票此前被'严重低估'。这一观点对元宝产品经理了解科技巨头市场表现和投资情绪变化有参考价值，可能影响AI产品商业化策略和竞品动态判断。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/ai-leverage-is-more-worrying-than-valuations-imf-s-adrian-says": {
+    "title_clean": "IMF官员：AI债务发行比估值更令人担忧",
+    "summary": "国际货币基金组织高级官员指出，人工智能相关的债务发行可能比股票估值更值得关注，这反映了AI金融化带来的潜在系统性风险，对元宝产品经理评估AI商业化与金融监管环境具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/startups/omnea-funding-employees-future-founders-freeman": {
+    "title_clean": "AI创业公司Omnea：向员工提供25万美元支持内部创业",
+    "summary": "伦敦AI软件公司Omnea推出'未来创始人计划'，向员工提供25万美元支持其内部创业，挑战传统风险投资模式。该公司主要帮助企业管理供应商支出，此举旨在激励创新并保留人才，对AI公司人才战略和内部创新机制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/boe-s-breeden-says-ai-agents-could-amplify-market-stress-video": {
+    "title_clean": "英国央行副行长：AI代理可能加剧金融市场压力",
+    "summary": "英国央行副行长Sarah Breeden表示，自主人工智能代理的使用可能加剧金融市场压力，需要更严格的监管。这一观点对AI产品经理有参考价值，特别是在设计金融领域AI代理时需考虑风险控制与监管合规。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/boe-s-breeden-warns-ai-agents-risk-triggering-market-meltdowns": {
+    "title_clean": "英国央行副行长警告：AI代理可能引发市场崩盘",
+    "summary": "英国央行副行长Sarah Breeden警告称，自主人工智能代理可能引发\"市场崩盘\"，并呼吁加强监管。这一警示对AI产品经理具有重要参考价值，提示在开发AI代理产品时需考虑金融风险和监管合规问题。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/jon-and-mindy-gray-bet-on-ai-science-research-to-prevent-cancer": {
+    "title_clean": "Jon and Mindy Gray 投资AI癌症预防研究",
+    "summary": "黑石集团总裁Jon Gray将AI投资策略应用于科学慈善领域，与妻子Mindy共同投资AI癌症预防研究，展示了AI在医疗健康领域的应用拓展，为AI助手在健康服务场景的布局提供参考。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-30/chinese-ai-firms-compete-to-pick-world-cup-winners": {
+    "title_clean": "中国AI企业的新战场：世界杯预测",
+    "summary": "中国AI公司正利用世界杯这一热门体育赛事推广其AI模型，通过预测比赛结果展示AI能力，这反映了AI企业通过热门事件进行产品营销和用户获取的策略，对元宝的产品营销和场景化应用有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/ai-chip-startup-etched-says-jane-street-tsmc-linked-vc-invested": {
+    "title_clean": "AI芯片初创公司Etched获Jane Street和台积电关联VC投资",
+    "summary": "AI芯片初创公司Etched宣布获得8亿美元融资，并与客户签订了10亿美元合同。作为NVIDIA的竞争对手，Etched的融资规模和合同金额表明AI芯片市场正吸引大量资本投入，这对元宝产品经理评估AI基础设施成本和供应链稳定性具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/ma-ai-semiconductors-hardware-qa-munichiello-gvs": {
+    "title_clean": "GV's Dave Munichiello谈高通模块化收购与AI软件转变",
+    "summary": "GV合伙人Dave Munichiello分享高通模块化收购策略及AI软件领域转变，探讨科技公司如何应对AI计算成本和复杂度飙升的挑战，对AI产品商业化策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/call-center-stocks-fall-on-worry-ai-is-makes-them-uninvestible": {
+    "title_clean": "AI客服替代引发呼叫中心股票下跌",
+    "summary": "AI客服技术的普及导致两家呼叫中心公司股价下跌，反映企业正转向AI处理客户服务任务。这一趋势对AI客服产品经理具有重要参考价值，表明AI客服市场正在快速增长，可能替代传统人工客服。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-06-30/kalshi-s-polymarket-s-successes-worry-longtime-prediction-market-bettors": {
+    "title_clean": "预测市场热潮引发质疑：科技人士对超级碗投注价值提出担忧",
+    "summary": "在Manifest科技大会上，一些科技知识分子质疑超级碗投注等预测市场活动是否真正对人类社会有益，反映了预测市场热潮背后的争议与思考，对产品经理评估AI预测类服务的价值边界有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-06-30/ai-meeting-notetakers-spark-privacy-concerns-recording-you-without-consent": {
+    "title_clean": "AI会议记录工具引发隐私担忧",
+    "summary": "AI会议记录工具在未获邀请的情况下参与会议，引发企业和高管对隐私管理的担忧。这反映了AI助手在工作场景中应用时面临的隐私挑战，对元宝产品经理设计符合隐私规范的AI助手功能具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/eee-community-evals": {
+    "title_clean": "Hugging Face模型页面展示所有评估结果",
+    "summary": "Hugging Face在其模型页面展示所有评估结果，让用户能够全面了解模型性能表现。这一改进为AI产品经理提供了模型选择和评估的重要参考，有助于优化产品中的模型选型策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-30/citi-s-chew-sees-selloff-risk-in-tech-stocks-from-positioning": {
+    "title_clean": "花旗分析师警告科技股面临抛售风险",
+    "summary": "花旗银行分析师指出，由于投资者对科技股的整体敞口仍然过高，美国科技股面临进一步下跌的风险。这一市场信号对AI产品经理具有参考价值，可能影响科技公司的估值和融资环境。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": null,
+    "v": 4
   }
 }
