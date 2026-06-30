@@ -19322,5 +19322,129 @@
       "用户需求"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042060&idx=2&sn=256bddbbec3fee846ee11e575f06a67d": {
+    "title_clean": "Meta脑机接口重大进展：超高实时解码准确率登上Nature子刊",
+    "summary": "Meta的脑机接口技术在Nature子刊发表研究，实现了超高实时解码准确率，标志着该技术取得重要阶段性进展。这一突破对AI助手与人类交互方式有潜在参考价值，可能为未来更自然的人机交互提供技术基础。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042060&idx=1&sn=c8b092c11557631216dde69668602b0f": {
+    "title_clean": "普朗克被撤稿：量子物理学研究遭算法质疑",
+    "summary": "物理学经典研究被算法质疑，量子物理学奠基人普朗克的研究论文被撤稿，引发对学术研究可靠性的讨论。这一事件提醒产品经理在AI辅助决策中需考虑算法验证和学术严谨性，对AI内容审核和可靠性评估有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042045&idx=2&sn=1482bbb0ee6704aab44408d2d2311ee9": {
+    "title_clean": "LiveWorld：视频世界模型新范式",
+    "summary": "LiveWorld提出了一种视频世界模型新范式，能够使镜头之外的世界继续演化，为视频内容理解和生成提供了新的技术路径，对AI助手处理动态视觉场景具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "多模态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041957&idx=1&sn=91d804b8879796e62c292d1a51a83f19": {
+    "title_clean": "AI圈Loop Engineering：95后博士关注人类闭环数据",
+    "summary": "AI领域新兴的Loop Engineering概念引发关注，两位95后博士已开始研究人类闭环数据。这一动向可能预示着AI系统如何收集、利用人类反馈数据的新方向，对产品经理思考AI训练数据来源和用户反馈机制具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "用户需求",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/nike-succession-in-focus-with-new-cfo-ready-to-take-helm-video": {
+    "title_clean": "Nike CEO交接完成，新任CFO准备接任",
+    "summary": "Nike已完成CEO交接，公司战略方向正在调整。猎头公司创始人Christian分析了这一高层变动对Nike战略转型的影响，这对了解大型企业高管变动与战略调整的关系有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041878&idx=1&sn=dcbcb677b480e39c9814edb648984d9b": {
+    "title_clean": "Pavo：AI视频与短剧生成平台",
+    "summary": "Pavo是一个免费AI视频和短剧生成平台，用户可利用该工具快速创作视频内容。对于元宝产品经理而言，这代表了AI内容创作工具的又一发展方向，值得关注其技术实现和用户体验设计。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios": {
+    "title_clean": "OpenClaw：开源AI代理手机应用",
+    "summary": "OpenClaw是一款免费开源的AI代理程序，现已正式登陆Android和iOS平台，将AI代理能力扩展至移动设备，为移动端AI助手应用开发提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/bitget-ceo-discusses-tokenization-market-making-video": {
+    "title_clean": "Bitget CEO：加密货币代币化与做市业务讨论",
+    "summary": "Bitget CEO Gracy Chen在彭博社加密货币节目中讨论了代币化和做市业务，这反映了加密货币交易平台对资产代币化和市场流动性策略的关注，对元宝产品经理了解金融科技领域AI应用场景和商业化方向有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651041957&idx=2&sn=7a1efa2b1749523a281d59a1fa7b165a": {
+    "title_clean": "Meta限制使用ClaudeCode和Codex：担心模型蒸馏问题",
+    "summary": "Meta因担心模型蒸馏问题，限制内部使用ClaudeCode和Codex等代码生成工具。此举反映大型科技公司对AI模型安全与知识产权保护的重视，对AI助手产品在代码生成领域的安全策略制定有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/bloomberg-crypto-6-30-2026-video": {
+    "title_clean": "Bloomberg Crypto：去中心化金融行业动态",
+    "summary": "Bloomberg Crypto 节目聚焦去中心化金融领域的人物、交易和技术动态，本期嘉宾包括 Kalshi 执法主管 Robert DeNault、BitGet CEO Gracy Chen 和 Luxor 代表，探讨行业最新趋势与监管发展。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
   }
 }
