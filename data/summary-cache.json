@@ -20533,5 +20533,147 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-07-01/northern-ireland-riots-stoked-by-social-media-accounts-from-us-uk": {
+    "title_clean": "北爱尔兰暴乱受美英社交媒体账号煽动",
+    "summary": "研究发现，在北爱尔兰持刀袭击事件后，30%传播煽动性言论的账号来自美国。这揭示了社交媒体内容对现实社会事件的潜在影响，对内容审核和平台治理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/china-impulsa-centros-de-datos-en-brasil-con-inversion-millonaria-de-bytedance": {
+    "title_clean": "字节跳动在巴西建设最大海外数据中心",
+    "summary": "字节跳动在巴西投资390亿美元建设其在中国以外最大的数据中心综合体，这是巴西总统卢拉吸引中国投资努力的最新成果。对产品经理而言，这反映了字节跳动在全球AI基础设施布局的战略扩张，可能影响其AI服务能力和全球竞争格局。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-deals-7-1-2026-video": {
+    "title_clean": "Bloomberg Deals：全球企业交易新闻节目",
+    "summary": "Bloomberg Deals是一档午间播出的周播节目，提供编辑驱动的高影响力报道，聚焦塑造全球市场的最重要企业交易。今日嘉宾为Sullivan & Cromwell全球负责人。对产品经理参考价值有限，属于传统财经媒体内容。",
+    "score": 35,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/musk-ally-gracias-eyes-bets-in-ai-energy-after-spacex-windfall": {
+    "title_clean": "SpaceX投资者Gracias：AI与能源领域新投资方向",
+    "summary": "SpaceX董事会成员Antonio Gracias在SpaceX投资获利近千亿美元后，正寻求在人工智能、能源和太空领域进行更多投资。这反映了AI与能源领域的高增长潜力，对元宝产品经理了解资本流向和新兴市场机会有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420": {
+    "title_clean": "特斯拉股价突破420美元引发投资者关注",
+    "summary": "特斯拉股价突破420美元这一\"魔法数字\"，引发投资者大量买入。这一价格点对特斯拉投资者具有特殊意义，可能影响市场情绪和股价走势，对产品经理了解科技股市场情绪和投资者行为有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push": {
+    "title_clean": "Apple寻求采购中国存储芯片以缓解全球短缺",
+    "summary": "苹果正与两家被列入美国国防部黑名单的中国半导体制造商谈判采购存储芯片，旨在缓解全球存储芯片短缺问题，该短缺已迫使苹果提高产品价格。此举反映了供应链多元化趋势及地缘政治对科技产业的影响。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock": {
+    "title_clean": "香港基金重塑SK海力士AI内存股交易格局",
+    "summary": "香港一只与SK海力士相关的杠杆ETF规模已变得如此庞大，以至于开始影响其追踪的股票走势。这反映了AI内存股的市场热度与机构资金动向，对元宝产品经理了解AI硬件投资热点与市场情绪变化有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-tech-7-01-2026-video": {
+    "title_clean": "Meta计划建立云业务出售多余AI算力",
+    "summary": "Meta计划开发自有云基础设施业务，旨在出售AI算力和模型访问权限。此举反映了大型科技公司正在将闲置AI资源商业化，为元宝等AI产品提供了算力合作与成本优化的新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/uber-backed-lime-raises-174-million-in-public-debut-video": {
+    "title_clean": "Lime：共享电动滑板车出行服务商完成IPO",
+    "summary": "Uber投资的共享电动滑板车公司Lime完成IPO，融资1.74亿美元，定价位于预期区间中点。此次上市表明IPO市场有所回暖，对元宝产品经理了解出行服务领域的融资动态和商业模式有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo": {
+    "title_clean": "Bending Spoons：AOL母公司完成16.8亿美元IPO",
+    "summary": "Bending Spoons作为AOL母公司成功完成16.8亿美元IPO，上市后股价较发行价上涨40%。这表明市场对这家拥有知名互联网资产的公司估值看好，对元宝产品经理了解互联网资产估值和资本运作有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller": {
+    "title_clean": "Ashton Kutcher离开Sound Ventures成立新VC基金",
+    "summary": "知名投资人Ashton Kutcher将离开Sound Ventures，与Morgan Beller共同成立新的风险投资基金。新基金将专注于AI基础设施领域，而Sound Ventures则以投资领先的AI实验室著称。这对AI行业投资格局和基础设施领域发展有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/alibiba-payment-firm-will-pay-600-million-to-resolve-us-probe": {
+    "title_clean": "阿里巴巴与支付公司支付6亿美元解决美国调查",
+    "summary": "阿里巴巴集团及其美国数字支付处理器同意支付6亿美元，以解决一项联邦调查，该调查涉及他们是否未能阻止在美国销售和进口被禁止的商品。这一事件对元宝产品经理有参考价值，因为它展示了跨国科技公司面临的合规挑战，以及支付处理在跨境业务中的重要性。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
