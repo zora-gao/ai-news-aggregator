@@ -19519,5 +19519,360 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.producthunt.com/products/claude-for-desktop": {
+    "title_clean": "Claude Science：科学研究助手",
+    "summary": "Claude Science是Anthropic推出的专业科研助手，专注于为严谨的科学研究和数据分析提供支持，帮助科研人员处理复杂实验数据、文献综述和科学推理，对元宝在专业领域AI助手开发方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/claude": {
+    "title_clean": "Claude Sonnet 5：AI规划与执行助手",
+    "summary": "Anthropic发布Claude Sonnet 5，强调AI能够进行规划、行动并完成工作，这标志着AI助手从对话交互向自主任务执行的重要演进，对元宝产品经理在AI Agent能力建设上有重要参考价值。",
+    "score": 85,
+    "priority": "P0",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "AI助手",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/clusy": {
+    "title_clean": "Clusy：AI数据科学笔记本平台",
+    "summary": "Clusy是一款面向现代数据科学的AI笔记本平台，为数据科学家提供智能化的工作环境，可能整合了AI辅助分析、自动化数据处理等功能，有助于提升数据科学工作效率。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/ciaro-pro": {
+    "title_clean": "Ciaro Pro：AI电影制作工具",
+    "summary": "Ciaro Pro是一款面向视觉叙事者的AI电影制作工具，通过人工智能技术辅助电影创作，为内容创作者提供新的制作方式和可能性，对元宝在创意内容生成领域的功能拓展具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/loot-6": {
+    "title_clean": "Loot：实物收藏管理工具",
+    "summary": "Loot是一款帮助用户在现实生活中收藏和管理喜爱物品的工具，可能通过数字化方式组织个人收藏品，为元宝产品经理提供实物收藏数字化管理的参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/aruki-japanese-walking": {
+    "title_clean": "Aruki：日式步行指导iPhone应用",
+    "summary": "Aruki是一款在iPhone上提供日式步行方法指导的应用，通过AI技术帮助用户掌握正确的步行姿势和技巧，可能对元宝在健康生活指导类AI服务场景的产品设计有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/gemini-omni-flash": {
+    "title_clean": "Gemini Omni Flash：高质量视频生成与对话式编辑",
+    "summary": "Gemini Omni Flash是一款高质量视频生成工具，支持对话式编辑功能，能够帮助用户快速创建和修改视频内容。这对产品经理了解AI在视频创作领域的最新进展和交互方式有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/wins-2": {
+    "title_clean": "Wins 3.4：Mac窗口管理工具",
+    "summary": "Wins 3.4是一款Mac窗口管理工具，允许用户通过系统凹槽快速捕捉、切换和排列窗口。这款工具为Mac用户提供了更高效的窗口操作体验，对元宝产品经理在多窗口管理功能设计上有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/saldor": {
+    "title_clean": "Saldor：采购与应付账款加速工具",
+    "summary": "Saldor是一款专注于加速采购和应付账款流程的企业服务工具，旨在提高财务处理效率。对于元宝产品经理而言，这反映了企业级AI助手在财务自动化场景的应用潜力，可作为服务场景拓展的参考方向。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/mito-health": {
+    "title_clean": "Get Transparent Pricing on Labs：医疗检验价格透明化平台",
+    "summary": "Get Transparent Pricing on Labs是一个医疗检验价格透明化平台，帮助用户获取准确的医疗检验项目价格信息，避免隐藏费用。该平台解决了医疗检验价格不透明的问题，为消费者提供真实、无附加的检验费用信息，有助于用户做出更明智的医疗消费决策。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/lighttwist": {
+    "title_clean": "LightTwist：虚拟演播室工具",
+    "summary": "LightTwist是一款虚拟演播室工具，允许用户在逼真的虚拟环境中录制和直播节目。对于元宝产品经理而言，这展示了AI在虚拟场景创建和多媒体内容制作中的应用潜力，可能启发虚拟交互场景或多媒体AI助手功能的设计。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "多模态",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/stigg": {
+    "title_clean": "AI Usage, Under Control：Stigg 2.0 AI产品用量管理平台",
+    "summary": "Stigg推出2.0版本，作为AI产品的用量运行时平台，帮助企业管理和控制AI资源使用。这对元宝产品经理有参考价值，特别是在AI服务商业化、资源优化和成本控制方面提供了新的解决方案思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/metal-2": {
+    "title_clean": "Metal：AI驱动的融资操作系统",
+    "summary": "Metal是一款AI驱动的操作系统，专为创业公司融资流程设计，旨在简化风险投资轮次的管理和执行。该产品通过AI技术帮助创业公司更高效地完成融资过程，对关注AI在商业流程中应用的产品经理具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "商业化",
+      "AI Agent"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/sequence": {
+    "title_clean": "Sequence Agentic：AI代理资金流动工具",
+    "summary": "Sequence Agentic提供AI代理的资金流动服务，使AI助手能够自主处理支付、转账等金融操作。这对元宝产品经理有参考价值，展示了AI代理在金融服务场景的应用潜力，可作为多模态交互和商业化探索的方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/browser-notes": {
+    "title_clean": "Browser Notes：浏览器内笔记整理工具",
+    "summary": "Browser Notes是一款浏览器内笔记工具，帮助用户在浏览器中直接整理想法和内容，无需上传到云端。产品经理可关注其在浏览器内提供轻量级笔记功能的模式，这可能启发元宝在浏览器环境中提供类似的内容整理能力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/airtop": {
+    "title_clean": "Mark by Airtop：营销人员自动化工具",
+    "summary": "Mark by Airtop是一款专为独立营销人员设计的自动化工具，旨在简化营销流程并提高效率。该工具可能帮助营销人员自动化重复性任务，如内容创建、社交媒体管理或数据分析，从而节省时间并优化营销策略。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/bamboo-ai-markdown-notes": {
+    "title_clean": "Bamboo：AI控制下的Markdown笔记工具",
+    "summary": "Bamboo是一款结合AI功能的Markdown笔记工具，用户可以完全控制AI在笔记中的使用方式。这款产品为笔记类应用提供了AI集成的新思路，对元宝产品经理在笔记场景中如何平衡AI辅助与用户控制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-eyes-about-300-more-job-cuts-at-european-hub-in-dublin": {
+    "title_clean": "TikTok计划在都柏林欧洲中心裁员约300人",
+    "summary": "TikTok正考虑在其都柏林欧洲中心裁员约300人，这是继去年类似规模裁员后的又一次人员缩减。这一裁员动向反映了科技公司在经济压力下的成本控制策略，对元宝产品经理了解科技行业人力调整趋势和业务收缩信号有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry": {
+    "title_clean": "Tapestry VC完成8000万美元第三轮融资，专注投资欧洲连续创业者",
+    "summary": "欧洲风投机构Tapestry VC完成8000万美元第三轮融资，将重点投资欧洲连续创业者，并预期AI领域的新一轮退出将催生更多经验丰富的创业者团队。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video": {
+    "title_clean": "Anthropic：美国解除Fable 5 AI模型出口限制",
+    "summary": "Anthropic宣布美国政府已解除其Fable 5人工智能模型的外国访问限制，允许该模型更广泛地分发。这一政策变化可能影响Anthropic的全球市场策略和产品国际化进程，对AI助手产品的国际竞争格局有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever": {
+    "title_clean": "阿布扎比MGX筹集490亿美元成立大型AI投资基金",
+    "summary": "阿布扎比MGX公司筹集490亿美元，成立史上规模最大的AI投资基金之一，这家成立仅两年的公司因此跻身最具影响力投资者行列。这一巨额融资反映了全球对AI领域投资的热潮，可能影响AI行业的资本格局和竞争态势。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas": {
+    "title_clean": "英国家具制造商面临AI机器人购买家具的新时代",
+    "summary": "英国科茨沃尔德公司作为高端乡村风格家具制造商，正准备迎接人工智能时代的到来，AI机器人可能成为其新的客户群体。这反映了AI正在从工具向消费者角色转变的趋势，对元宝产品经理了解AI在商业场景中的新应用有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/agilent-ceo-on-business-strategy-innovation-video": {
+    "title_clean": "Agilent CEO：生命科学领域商业战略与创新",
+    "summary": "Agilent公司CEO Padraig McDonnell讨论了公司的商业战略以及在生命科学领域看到的创新机会。这为元宝产品经理提供了生命科学行业商业策略视角，有助于了解专业服务场景的市场需求。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/vertiv-opens-malaysia-plant-to-meet-ai-data-centers-power-needs": {
+    "title_clean": "Vertiv：马来西亚工厂满足AI数据中心电力需求",
+    "summary": "美国数据中心设备制造商Vertiv在马来西亚开设工厂，以满足亚太地区AI基础设施快速扩张带来的电力需求。这反映了AI数据中心建设加速的趋势，对元宝产品经理了解AI基础设施配套服务场景有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/japan-investment-corp-s-hata-on-ai-strategic-sectors-video": {
+    "title_clean": "Japan Investment Corp.'s Hata on AI, Strategic Sectors",
+    "summary": "日本投资公司高级董事总经理花田表示，随着日本转向物理AI和深度技术，对资本的需求正在增长。这反映了日本在AI领域的战略投资方向，特别是物理AI和深度技术领域的发展趋势，对元宝产品经理了解国际AI投资重点和市场信号有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring": {
+    "title_clean": "互联网之父文顿·瑟夫正式退休",
+    "summary": "互联网协议共同创造者、谷歌首席互联网布道师文顿·瑟夫将于下周退休。作为互联网奠基人之一，他的离职可能对谷歌互联网战略和行业技术发展方向产生影响。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/uber-backed-lime-investors-said-to-price-ipo-at-25-per-share": {
+    "title_clean": "Lime：共享电动滑板车公司完成IPO",
+    "summary": "Lime公司及其股东在美国IPO中筹集1.74亿美元，定价处于营销区间中点。作为Uber支持的共享电动滑板车公司，此次IPO反映了共享出行领域的资本动向，对元宝产品经理了解交通服务场景的商业模式和资本关注度有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-06-30/the-close-6-30-2026-video": {
+    "title_clean": "Nike Q2业绩超预期：2026财年第二季度财务表现强劲",
+    "summary": "Nike在2026财年第二季度业绩超出市场预期，Bloomberg电视对此进行了报道和分析，邀请了BlackRock全球联席负责人进行解读。这一财务表现对元宝产品经理了解大型品牌企业业绩表现与市场反应有一定参考价值，但与AI助手/Agent产品直接关联性较低。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/vimeo-parent-bending-spoons-backers-raise-1-68-billion-in-ipo": {
+    "title_clean": "Bending Spoons：软件收购公司完成16.8亿美元IPO",
+    "summary": "Bending Spoons是一家收购经营困难软件公司的企业，其部分投资者在美国IPO中融资16.8亿美元，定价高于市场预期。这反映了软件行业并购市场的活跃，对元宝产品经理了解AI领域投资趋势和潜在收购机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }
