@@ -20086,5 +20086,267 @@
       "商业化"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/opinion-inside-meta-s-900-million-india-gamble-video": {
+    "title_clean": "Meta 9亿美元押注印度：任命CRED创始人领导WhatsApp全球化金融战略",
+    "summary": "Meta任命印度支付应用CRED创始人Kunal Shah领导WhatsApp全球业务，试图将这款通讯应用转变为金融服务平台。此举显示Meta将印度视为其金融战略的关键市场，通过本地化合作拓展支付和金融服务场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.producthunt.com/products/adam-cad-copilot": {
+    "title_clean": "Adam CAD Copilot：AI 辅助 CAD 设计工具",
+    "summary": "Adam CAD Copilot 是一款集成在 Onshape 和 Fusion 中的 AI 辅助 CAD 设计工具，通过人工智能技术辅助用户进行计算机辅助设计工作，提高设计效率和准确性，对元宝在专业领域 AI 助手应用场景拓展具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "product",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/national-grid-s-big-bet-on-us-ai-power-firm-video": {
+    "title_clean": "National Grid投资17.5亿美元美国AI电力公司",
+    "summary": "National Grid首席执行官宣布战略投资17.5亿美元给美国AI电力公司Jouleant，强调AI驱动的电力需求日益增长。这反映了传统能源公司对AI技术整合的重视，对元宝产品经理了解AI在能源领域的应用场景有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/whatsapp-s-new-feature-has-defenses-against-scams-meta-says": {
+    "title_clean": "WhatsApp：新增用户名功能并推出防冒名保护措施",
+    "summary": "Meta为WhatsApp新增用户名功能，并推出防冒名保护措施，允许知名人士仅由真实所有者认领，以应对新功能可能带来的冒充诈骗问题。这对产品经理设计社交平台身份验证和防欺诈机制有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/meta-is-planning-cloud-business-to-sell-ai-compute-power-video": {
+    "title_clean": "Meta计划推出云业务挑战亚马逊和谷歌",
+    "summary": "Meta正在开发云基础设施业务计划，将销售AI计算能力和模型访问权限，直接挑战亚马逊AWS和微软等行业领导者。这标志着Meta从社交平台向企业级AI服务扩展的战略转变，对元宝产品经理了解科技巨头在AI云服务领域的竞争格局有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/meta-cloud-business-nasa-lunar-lander-contracts-video": {
+    "title_clean": "Meta云业务与NASA月球着陆器合同相关股票动态",
+    "summary": "NASA选择了三家公司（包括FireFly Aerospace、Intuitive Machines和Voyager Technologies）执行月球着陆器合同，相关公司股票出现波动。此资讯对元宝产品经理的参考价值在于了解科技巨头与政府合作项目的市场影响，以及航天科技领域的投资动向。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/private-equity-bets-on-ai-growth-video": {
+    "title_clean": "私募股权投资押注AI增长",
+    "summary": "EQT私募资本联席负责人Eric Liu在Bloomberg节目中分析AI如何重塑私募股权投资，以及软件公司中AI赢家与输家之间日益扩大的差距。这对元宝产品经理了解AI投资趋势和商业化方向有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library": {
+    "title_clean": "AI历史人物交互平台：让用户以新方式与西奥多·罗斯福互动",
+    "summary": "这是一款AI驱动的交互式历史体验平台，用户可以通过AI技术与已故美国总统西奥多·罗斯福进行虚拟互动，提供沉浸式历史人物对话体验。此类AI历史交互应用为元宝在教育与历史知识服务场景提供了创新思路，展示了AI在个性化历史教育领域的应用潜力。",
+    "score": 65,
+    "priority": "P2",
+    "type": "product",
+    "channels": [
+      "服务场景",
+      "AI助手",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/nissan-ceo-on-autonomous-driving-making-cars-in-us-video": {
+    "title_clean": "日产CEO谈自动驾驶与在美国生产汽车",
+    "summary": "日产汽车CEO伊万·埃斯皮诺萨讨论自动驾驶的未来发展，以及在美国投资建厂的情况，并指出关税政策使得墨西哥产汽车在美国的销售面临更大挑战。这对元宝产品经理了解汽车行业AI应用趋势及政策影响有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/krafton-agrees-to-pay-subnautica-2-bonuses-as-developer-s-ceo-resigns": {
+    "title_clean": "Krafton同意支付《深海迷航2》奖金，开发商CEO辞职",
+    "summary": "Krafton同意向Unknown Worlds Entertainment支付《深海迷航2》奖金，此前该游戏CEO因2.5亿美元薪酬争议被解雇后又复职，现再次辞职。这反映了游戏行业高管薪酬争议与开发商-发行商关系的复杂性，对元宝产品经理了解游戏行业合作模式与人才管理有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/uber-shakes-up-ai-data-labeling-business-dismissing-top-leaders": {
+    "title_clean": "Uber调整AI数据标注业务，解雇高层领导",
+    "summary": "Uber解雇了其新兴AI数据标注业务的两位技术负责人，这是该公司定位为关键增长部门的重大变动。这一调整反映了Uber在AI战略方向上的重新评估，对关注AI服务场景和商业化路径的产品经理具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/lagarde-says-risks-to-inflation-growth-more-balanced-video": {
+    "title_clean": "拉加德：欧元区通胀与增长风险趋于平衡",
+    "summary": "欧洲央行行长拉加德在葡萄牙辛特拉举行的年度会议上表示，欧元区通胀和增长风险已变得更加平衡。这一政策信号对元宝产品经理了解全球经济环境变化可能影响AI服务的商业策略和用户需求有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026": {
+    "title_clean": "TechCrunch Disrupt 2026：创业公司规模化实践策略",
+    "summary": "TechCrunch Disrupt 2026的Builders Stage将汇聚1万多名创始人、创业公司运营者和投资者，就创业公司建设与规模化的实用策略进行对话和问答。这为元宝产品经理提供了关于创业公司成长路径和规模化挑战的一手行业洞察。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/sony-to-end-production-of-physical-playstation-discs-in-2028": {
+    "title_clean": "索尼将于2028年停止PlayStation实体光盘生产",
+    "summary": "索尼集团宣布将于2028年1月起停止PlayStation游戏主机实体光盘的生产，全面转向数字下载模式。这一转变反映了游戏行业向数字化、云服务发展的趋势，对元宝产品经理在AI服务场景和商业化策略上有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo": {
+    "title_clean": "美国限制Anthropic的Mythos服务，影响海外企业使用",
+    "summary": "特朗普政府继续限制Anthropic的Mythos 5服务仅限美国少数组织使用，导致外国政府、公司和金融机构陷入不确定性。这一政策变化可能影响AI服务的全球可及性，对元宝产品经理了解AI服务跨境限制和国际化策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute": {
+    "title_clean": "Meta计划推出云计算业务销售AI算力",
+    "summary": "Meta正在开发云计算基础设施业务，计划销售AI算力和模型访问权限，这将与亚马逊、微软等行业领导者形成新的竞争维度。对元宝产品经理而言，这反映了AI算力服务市场的竞争格局变化，可能影响AI服务的成本结构和商业模式。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-wealth-rick-wurster-video": {
+    "title_clean": "Bloomberg Wealth: Charles Schwab CEO Rick Wurster访谈",
+    "summary": "彭博财富本周邀请嘉信理财CEO Rick Wurster进行访谈，探讨这家从小型折扣经纪商成长为全球最大金融服务公司之一的历程。对金融AI助手产品经理有参考价值，了解传统金融服务巨头的发展战略和CEO观点。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds": {
+    "title_clean": "Twelve Labs：AI视频搜索初创公司获亚马逊等1亿美元融资",
+    "summary": "Twelve Labs完成1亿美元融资，投资方包括亚马逊、NEA和Naver Ventures，致力于开发能够快速搜索视频内容的AI技术。这笔融资将加速其AI视频搜索能力的研发，对元宝在多模态搜索和视频内容理解领域的产品方向具有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI搜索",
+      "多模态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://huggingface.co/blog/cerebras-gemma4-voice-ai": {
+    "title_clean": "Hugging Face与Cerebras将Gemma 4引入实时语音AI",
+    "summary": "Hugging Face与Cerebras合作将Gemma 4模型集成到实时语音AI系统中，提升了语音交互的响应速度和自然度。这一合作展示了大模型在语音场景的应用进展，为元宝产品在语音交互能力方面提供了技术参考和竞品对标方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "多模态",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/ocbc-to-raise-annual-tech-spending-to-more-than-771-million": {
+    "title_clean": "OCBC银行：年科技投入增至7.71亿美元，重点投资AI",
+    "summary": "华侨银行计划将年度科技支出提高至超过7.71亿美元，重点投资人工智能技术。这一举措反映了金融机构对AI技术的重视程度提升，为AI在金融场景的应用提供了重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/tiktok-creator-bytedance-picks-brazil-for-largest-data-center-outside-china": {
+    "title_clean": "字节跳动在巴西建设最大海外数据中心",
+    "summary": "字节跳动在巴西投资39亿美元建设其在中国以外的最大数据中心，这是巴西总统卢拉吸引中国投资的最新成果。这一举措反映了字节跳动全球化战略的重要布局，对元宝产品经理了解科技巨头海外基础设施扩张策略具有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "服务场景"
+    ],
+    "v": 4
   }
 }
