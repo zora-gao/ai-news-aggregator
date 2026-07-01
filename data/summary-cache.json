@@ -20675,5 +20675,142 @@
       "服务场景"
     ],
     "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042150&idx=2&sn=85d03241051b91c2775d592a5af99d23": {
+    "title_clean": "SciAgentGym：大模型科学实验工作流平台",
+    "summary": "SciAgentGym是一个让大模型从简单答题转向执行科学实验工作流的平台，扩展了AI在科研领域的应用能力，为产品经理提供了AI助手向专业领域拓展的参考方向。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042107&idx=3&sn=35f6528ab089fe866de6e2e8911ddf1f": {
+    "title_clean": "开源图像生成Agent进化出「工具编排」",
+    "summary": "开源图像生成Agent已进化出工具编排能力，不再局限于简单的一句话生图，而是能够整合多种工具进行更复杂的图像创作。这一进展对AI Agent的多工具协作能力发展具有重要参考价值，为元宝产品在图像生成领域的功能拓展提供了新思路。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "多模态",
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042107&idx=1&sn=3e8c78829980da74c9ff711576eef040": {
+    "title_clean": "飞书：表格AI同事群聊功能",
+    "summary": "飞书推出表格AI同事功能，允许表格直接加入群聊，用户无需打开表格即可使用表格数据。这一功能提升了团队协作效率，为产品经理提供了AI助手与办公工具结合的新思路。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042107&idx=2&sn=455937649735c225e976b085ef82100c": {
+    "title_clean": "邢波再出手：上次「骂」完世界模型，这次轮到智能体了",
+    "summary": "知名AI学者邢波再次发表对AI领域的批评言论，此前他曾批评世界模型概念，此次将矛头指向智能体技术。这反映了AI领域内部对技术路线的深度思考，对产品经理了解行业专家观点和潜在技术方向有参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "竞品动态",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042100&idx=2&sn=d16ecaa5493aba7f3a7face73458743f": {
+    "title_clean": "ClaudeCode被曝偷查用户信息",
+    "summary": "ClaudeCode被曝光存在隐私问题，会收集用户时区和中国AI实验室等敏感信息。这一事件对AI产品经理具有重要参考价值，提醒在产品设计和功能实现中需高度重视用户隐私保护和数据安全边界。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042075&idx=1&sn=f0c4e013ca343f2fb8db68a4f4f2e6f2": {
+    "title_clean": "Anthropic发布Sonnet 5，性能接近Opus 4.8",
+    "summary": "Anthropic发布Sonnet 5模型，性能接近其高端模型Opus 4.8，但价格不一定更低。这对产品经理评估AI模型性能与成本平衡有参考价值，可能影响竞品策略和定价决策。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "竞品动态",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/trump-s-nuclear-watchdog-to-ditch-50-year-old-radiation-guidance": {
+    "title_clean": "美国核监管委员会将废除50年辐射防护指南",
+    "summary": "美国核监管委员会计划废除自1970年代中期以来实施的核电站工人辐射暴露指导方针。这一政策变更可能影响核电站安全标准和工人健康保护措施，对能源行业监管政策有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042100&idx=1&sn=9fa5a0e49717b13b4bd9d3333fab3ed1": {
+    "title_clean": "快手AgentX：推荐系统自我迭代",
+    "summary": "快手推出AgentX系统，其推荐系统已开始自我迭代，标志着AI在内容分发领域的应用升级。这一进展对AI助手产品经理有重要参考价值，展示了AI系统自主优化能力的实际应用场景。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI Agent",
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/anthropic-splits-from-pack-in-race-to-shape-first-ai-election-big-take-podcas": {
+    "title_clean": "AI Money and Anxiety Are Powering This Election Cycle",
+    "summary": "AI技术正在影响本次选举周期：引发选民焦虑、资助候选人、生成竞选广告。这反映了AI在政治领域的应用及其社会影响，对产品经理了解AI服务场景扩展和用户情绪变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651042150&idx=1&sn=80f059dcdd57346f31dcc8c15341df1d": {
+    "title_clean": "上海AI实验室：ICML2026人才交流会开启",
+    "summary": "上海AI实验室举办双场人才交流会，提供百余个ICML2026相关顶尖岗位，面向AI领域专业人才开放报名。这对元宝产品经理了解AI人才市场动态和高端人才需求变化有参考价值。",
+    "score": 55,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027": {
+    "title_clean": "苹果计划2027年推出新款iPad Pro和入门级MacBook Pro",
+    "summary": "苹果公司计划在2027年升级iPad Pro产品线并重新设计入门级MacBook Pro，这将是iPhone 20周年纪念系列新品的一部分。这一产品更新可能影响AI助手在苹果设备上的性能表现和交互体验，对元宝产品经理了解硬件与AI服务结合的趋势有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "竞品动态"
+    ],
+    "v": 4
   }
 }
