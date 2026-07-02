@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-07-02T13:44:46.054Z",
+  "generated_at": "2026-07-02T16:01:53.384Z",
   "source": "OpenRouter",
   "count": 60,
   "items": [
+    {
+      "id": "poolside/laguna-xs-2.1:free",
+      "name": "Laguna XS 2.1 (free)",
+      "vendor": "Poolside",
+      "vendor_slug": "poolside",
+      "url": "https://openrouter.ai/poolside/laguna-xs-2.1-20260625",
+      "created_at": "2026-07-02T14:27:09Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0,
+      "price_out": 0,
+      "is_free": true,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Laguna XS 2.1 is the latest coding agent model in the 33B-A3B category from Poolside and a step forward from their Laguna XS.2 model (released in April 2026). It combines...",
+      "description_zh": "Laguna XS 2.1 是 Poolside 33B-A3B 类别中的最新编码代理模型，比 Laguna XS.2 模型（于 2026 年 4 月发布）向前迈出了一步。它结合了..."
+    },
+    {
+      "id": "poolside/laguna-xs-2.1",
+      "name": "Laguna XS 2.1",
+      "vendor": "Poolside",
+      "vendor_slug": "poolside",
+      "url": "https://openrouter.ai/poolside/laguna-xs-2.1-20260625",
+      "created_at": "2026-07-02T14:27:09Z",
+      "context_length": 262144,
+      "modality": "text->text",
+      "input_modalities": [
+        "text"
+      ],
+      "output_modalities": [
+        "text"
+      ],
+      "price_in": 0.06,
+      "price_out": 0.12,
+      "is_free": false,
+      "supports_tools": true,
+      "supports_reasoning": true,
+      "description": "Laguna XS 2.1 is the latest coding agent model in the 33B-A3B category from Poolside and a step forward from their Laguna XS.2 model (released in April 2026). It combines...",
+      "description_zh": "Laguna XS 2.1 是 Poolside 33B-A3B 类别中的最新编码代理模型，比 Laguna XS.2 模型（于 2026 年 4 月发布）向前迈出了一步。它结合了..."
+    },
     {
       "id": "anthropic/claude-sonnet-5",
       "name": "Claude Sonnet 5",
@@ -1418,54 +1464,6 @@
       "supports_reasoning": false,
       "description": "Ling-2.6-flash is an instant (instruct) model from inclusionAI with 104B total parameters and 7.4B active parameters, designed for real-world agents that require fast responses, strong execution, and high token efficiency....",
       "description_zh": "Ling-2.6-flash是inclusionAI的即时（指令）模型，具有104B总参数和7.4B活跃参数，专为需要快速响应、强大执行力和高代币效率的现实世界代理而设计......"
-    },
-    {
-      "id": "~anthropic/claude-opus-latest",
-      "name": "Claude Opus Latest",
-      "vendor": "Anthropic",
-      "vendor_slug": "anthropic",
-      "url": "https://openrouter.ai/~anthropic/claude-opus-latest",
-      "created_at": "2026-04-21T18:16:01Z",
-      "context_length": 1000000,
-      "modality": "text+image+file->text",
-      "input_modalities": [
-        "text",
-        "image",
-        "file"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": 5,
-      "price_out": 25,
-      "is_free": false,
-      "supports_tools": true,
-      "supports_reasoning": true,
-      "description": "This model always redirects to the latest model in the Claude Opus family.",
-      "description_zh": "该型号始终重定向至 Claude Opus 系列中的最新型号。"
-    },
-    {
-      "id": "openrouter/pareto-code",
-      "name": "Pareto Code Router",
-      "vendor": "OpenRouter",
-      "vendor_slug": "openrouter",
-      "url": "https://openrouter.ai/openrouter/pareto-code",
-      "created_at": "2026-04-21T05:05:00Z",
-      "context_length": 2000000,
-      "modality": "text->text",
-      "input_modalities": [
-        "text"
-      ],
-      "output_modalities": [
-        "text"
-      ],
-      "price_in": null,
-      "price_out": null,
-      "is_free": false,
-      "supports_tools": false,
-      "supports_reasoning": false,
-      "description": "The Pareto Router maintains a tiered shortlist of strong coding models, ranked by Artificial Analysis coding percentiles. Set min coding score between 0 and 1 on the pareto-router plugin to control how...",
-      "description_zh": "Pareto Router 维护着一个强编码模型的分层候选列表，按人工分析编码百分位数排名。在 Pareto-router 插件上将最小编码分数设置为 0 到 1 之间，以控制如何..."
     }
   ]
 }

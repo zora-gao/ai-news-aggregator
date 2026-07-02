@@ -21467,5 +21467,126 @@
       "AI助手"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/ai-race-fuels-new-fears-of-crowded-trading-video": {
+    "title_clean": "AI竞赛引发对拥挤交易的担忧",
+    "summary": "Meta计划开发AI计算能力销售业务后，亚洲半导体股票周四下跌，华尔街科技股也随之走低。这一动向反映了AI竞赛加剧可能带来的市场拥挤风险，对元宝产品经理评估AI基础设施投资和商业化策略具有重要参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund": {
+    "title_clean": "OpenAI提议将5%股权捐赠给美国主权财富基金",
+    "summary": "OpenAI CEO Sam Altman提议将公司5%股权捐赠给美国主权财富基金，旨在让公众分享AI发展的财务收益，这反映了AI巨头在平衡商业利益与社会责任方面的探索。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science": {
+    "title_clean": "NVIDIA BioNeMo加速Anthropic Claude Science：AI生命科学研究工作台",
+    "summary": "Anthropic推出Claude Science公共测试版，这是一款AI研究工作台，现已集成NVIDIA BioNeMo Agent Toolkit，用于加速计算生命科学研究。此次合作将AI能力与专业科学计算工具结合，为元宝在专业领域AI应用场景拓展提供参考。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4": {
+    "title_clean": "Anthropic与三星洽谈定制AI芯片合作",
+    "summary": "Anthropic正与三星电子洽谈合作，由三星为其定制人工智能芯片提供制造服务。这一合作若达成，将有助于Anthropic降低AI算力成本并提升模型性能，对AI公司自研芯片策略和供应链布局具有重要参考价值。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态"
+    ],
+    "v": 4
+  },
+  "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment": {
+    "title_clean": "Microsoft成立AI部署公司，承诺投资25亿美元",
+    "summary": "微软继亚马逊、OpenAI和Anthropic之后，成立了自己的AI部署集团，并承诺投资25亿美元。这表明微软正在加强其在AI基础设施和部署服务领域的布局，与主要竞争对手展开直接竞争，为元宝产品经理提供了AI服务商业化方向的重要参考。",
+    "score": 85,
+    "priority": "P0",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "竞品动态",
+      "AI助手"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/billionaire-arnault-lauds-maths-in-50-million-alma-mater-gift": {
+    "title_clean": "奢侈品大亨阿尔诺向母校捐赠5000万欧元支持数学研究",
+    "summary": "LVMH集团老板伯纳德·阿尔诺向其母校捐赠5000万欧元，用于建立数学研究所，强调数学在AI时代的重要性。这笔创纪录的捐赠反映了顶级企业家对基础学科的重视，对AI产品经理思考技术底层价值与教育投资有参考意义。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "用户需求",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/south-africa-s-grocery-war-shifts-from-search-to-ai-conversation": {
+    "title_clean": "南非在线杂货战：从搜索到AI对话的转变",
+    "summary": "南非在线杂货市场竞争进入新阶段，竞争焦点从快速配送转向通过AI对话实现'无感购物'，让购物过程几乎消失。这一趋势表明AI助手在电商场景中的应用正从信息搜索转向主动服务与自动化购物决策。",
+    "score": 75,
+    "priority": "P1",
+    "type": "news",
+    "channels": [
+      "AI助手",
+      "服务场景",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/quantum-computing-firm-iqm-falls-after-going-public-via-spac": {
+    "title_clean": "量子计算公司IQM通过SPAC上市后股价下跌",
+    "summary": "芬兰量子计算公司IQM通过与空白支票公司合并在纽约上市，但首日交易股价即出现下滑。这反映了量子计算行业商业化进程中的挑战，对AI产品经理评估前沿技术商业化路径具有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-02/ai-debt-binge-fueling-private-bond-market-the-close-7-1-2026": {
+    "title_clean": "AI债务激增推动私人债券市场发展 | The Close 7/1/2026",
+    "summary": "彭博电视报道AI相关债务激增正在推动私人债券市场发展，查尔斯·施瓦布首席投资分析师参与讨论。这一趋势可能影响AI公司的融资环境和资本结构，对元宝产品经理了解AI行业资本动向和潜在合作伙伴融资状况有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "商业化",
+      "用户需求"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-ai-rout-drags-emerging-stocks-to-three-week-low": {
+    "title_clean": "韩国AI拖累新兴市场股指跌至三周低点",
+    "summary": "韩国AI板块表现疲软导致新兴市场股指跌至三周低点，同时美国就业数据不及预期促使投资者下调对美联储10月加息预期，推动新兴市场货币反弹。这一市场动向反映了AI投资情绪对新兴市场的影响，以及美联储政策预期对全球资本流动的关键作用。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
   }
 }
