@@ -20812,5 +20812,52 @@
       "竞品动态"
     ],
     "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/data-center-firm-switch-seeks-2-billion-in-funding-round": {
+    "title_clean": "数据中心公司Switch寻求20亿美元融资",
+    "summary": "数据中心公司Switch正由Andreessen Horowitz领投进行私人融资，可能筹集约20亿美元。这反映了数据中心基础设施在AI时代的重要性，对元宝产品经理了解AI基础设施投资趋势和潜在合作机会有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/india-m-a-funding-rule-to-squeeze-private-credit-moody-s-says": {
+    "title_clean": "印度银行并购融资规则将挤压私人信贷市场",
+    "summary": "穆迪报告指出，印度允许银行资助并购的决定可能损害私人信贷基金，因为这将挤压其最盈利业务之一的回报率。这一政策变化可能影响印度信贷市场格局，对元宝在新兴市场的金融服务场景拓展有参考价值。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-02/sharechat-india-s-meta-rival-plans-400-million-ipo-next-year": {
+    "title_clean": "ShareChat：印度社交网络平台计划4亿美元IPO",
+    "summary": "印度社交网络ShareChat及其短视频平台Moj、微剧应用QuickTV的母公司Mohalla Tech计划通过IPO筹集最多4亿美元资金。这反映了印度社交市场的竞争格局和商业化潜力，对元宝在新兴市场的产品策略有参考价值。",
+    "score": 65,
+    "priority": "P2",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
+  },
+  "https://www.bloomberg.com/news/articles/2026-07-01/nvidia-ai-chip-gets-power-from-valar-s-nuclear-reactor": {
+    "title_clean": "Nuclear Firm First in US to Produce Power From Advanced Reactor",
+    "summary": "加州核能创业公司Valar Atomics首次使用先进反应堆为英伟达AI芯片供电，尽管发电量很小，但这是美国首次实现先进反应堆发电，为AI基础设施提供新型能源解决方案。",
+    "score": 45,
+    "priority": "P3",
+    "type": "news",
+    "channels": [
+      "服务场景",
+      "商业化"
+    ],
+    "v": 4
   }
 }
